@@ -1,0 +1,344 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/collection.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes de la République tchèque (XXe siècle)"
+    ]
+  },
+  "summary": {
+    "fr": [
+      "Cette collection rassemble une sélection de cartes de la République tchèque du XXe siècle conservées à la Bibliothèque nationale de France et accessibles dans Gallica."
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "fr": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "fr": [
+        "Bibliothèque nationale de France – Gallica"
+      ]
+    }
+  },
+  "rights": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/",
+      "type": "Text",
+      "label": {
+        "fr": [
+          "Voir la sélection sur Gallica"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "fr"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530647846/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Velká Praha o okolim"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53258204m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du champ de bataille d'Austerlitz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84598037/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan der Kurstadt Marienbad"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84598052/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan der Stadt Gablonz a. N[eisse]. 1 : 6200. Stand der 1. Jänner 1930"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006603w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte von Karlsbad und Umgebung für Curgäste / bearbeitet von G. Freytag"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459806g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan der Stadt Reichenberg, entworfen vom stadtischen Tiefbauamte, nach dem Stande vom 1. Juni 1926. 300 m."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459711f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Neuester und vollständigster Orientierungs-Plan de Königl. Hauptstadt Prag mit den Vorständen \"Smichov Nusle, Vrsovice. Kön. Weinberge Zizkov, Karolinenthal, Bubenc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84465549/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan hl. mesta Prahy a obei predmestskych"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459801d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Prague indiquant les voies à grande circulation"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459802t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pharus-Plan Franzensbad"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84598089/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte illustrée des environs de Reichenberg. 1 : 80.000 environ"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530197277/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Prague et des faubourgs de la ville : (Smichov, Nusle, Vrsovice, Vinohrady, Zizkov, Karlin, Bubenee)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530197633/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karlsbad"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

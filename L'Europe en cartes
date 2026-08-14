@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cartes/plans_paris.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/L'Europe%20en%20cartes?token=GHSAT0AAAAAAEFXBYEIXJEHXDSU2LJHRATY2T7D6QA",
   "type": "Collection",
   "label": { "fr": [ "Cartes de l'Europe" ], "en": [ "European Maps" ] },
   "thumbnail": [

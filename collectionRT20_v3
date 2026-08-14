@@ -3,7 +3,7 @@
   "id": "https://example.org/collection.json",
   "type": "Collection",
   "label": {"fr": ["Cartes de la République tchèque (XXe siècle)"]},
-  "description": {"fr": ["Cette collection rassemble une sélection de cartes de la République tchèque du XXe siècle conservées à la Bibliothèque nationale de France et accessibles dans Gallica."]},
+  "description": { "fr": [ "Cette collection rassemble une sélection de cartes de la République tchèque du XXe siècle conservées à la Bibliothèque nationale de France et accessibles dans Gallica." ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "homepage": [

@@ -1,26 +1,89 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/collection.json",
+  "id": "https://raw.githubusercontent.com/TON-COMPTE/TON-REPO/main/collection.json",
   "type": "Collection",
-  "label": { "fr": [ "Plans de Paris par accès chronologique (XXe siècle)" ], "en": [ "Paris maps by chronological access (XXth century)" ] },
-  "description": { "fr": [ "Cette collection regroupe des Plans de Paris par accès chronologique (XXe siècle)" ], "en": [ "This collection gathers Paris maps by chronological access (XXth century)" ] },
-  "attribution": "BnF - Gallica, gallica.bnf.fr",
-  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
-  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
-  "homepage": [
+
+  "label": {
+    "fr": [
+      "Cartes de la République tchèque (XXe siècle)"
+    ]
+  },
+
+  "summary": {
+    "fr": [
+      "Cette collection rassemble une sélection de cartes de la République tchèque du XXe siècle conservées à la Bibliothèque nationale de France et accessibles dans Gallica."
+    ]
+  },
+
+  "metadata": [
     {
-      "id": "https://gallica.bnf.fr/ark:/12148/%28%28%28%28%28dc.subject%20adj%20%22Paris%22%20and%20not%20dc.subject%20adj%20%22environs%22%20%29%20or%20notice%20adj%20%22btv1b84596662%22%20%29%20or%20notice%20adj%20%22btv1b53121231w%22%20%29%20or%20notice%20adj%20%22btv1b53121035x%22%20%29%20and%20not%20dc.title%20adj%20%22course%22%20%29%20and%20%28dc.type%20all%20%22carte%22%29%20and%20%28gallicapublication_date%3E%3D%221900%22%20and%20gallicapublication_date%3C%3D%221999%22%29%20and%20%28provenance%20adj%20%22bnf.fr%22%20or%20provenance%20adj%20%22ville-paris%22%29%20%20sortby%20dc.date%2Fsort.ascending",
-      "type": "Text",
-      "label": { "fr": [ "Sélection Gallica : Plans de Paris par accès chronologique (XXe siècle)" ],"en": [ "Gallica selection: Paris maps by chronological access (XXth century)" ] },
-      "format": "text/html",
-      "language": [ "fr" ]
+      "label": {
+        "fr": [
+          "Institution"
+        ]
+      },
+      "value": {
+        "fr": [
+          "Bibliothèque nationale de France"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Source"
+        ]
+      },
+      "value": {
+        "fr": [
+          "Gallica"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Période"
+        ]
+      },
+      "value": {
+        "fr": [
+          "XXe siècle"
+        ]
+      }
     }
   ],
-  "related": [{
-			"id": "https://gallica.bnf.fr/ark:/12148/%28%28%28%28%28dc.subject%20adj%20%22Paris%22%20and%20not%20dc.subject%20adj%20%22environs%22%20%29%20or%20notice%20adj%20%22btv1b84596662%22%20%29%20or%20notice%20adj%20%22btv1b53121231w%22%20%29%20or%20notice%20adj%20%22btv1b53121035x%22%20%29%20and%20not%20dc.title%20adj%20%22course%22%20%29%20and%20%28dc.type%20all%20%22carte%22%29%20and%20%28gallicapublication_date%3E%3D%221900%22%20and%20gallicapublication_date%3C%3D%221999%22%29%20and%20%28provenance%20adj%20%22bnf.fr%22%20or%20provenance%20adj%20%22ville-paris%22%29%20%20sortby%20dc.date%2Fsort.ascending",
-			"format": "text/html",
-      "label": { "fr": [ "Sélection Gallica : Plans de Paris par accès chronologique (XXe siècle)" ],"en": [ "Gallica selection: Paris maps by chronological access (XXth century)" ] }
-		}],
+
+  "requiredStatement": {
+    "label": {
+      "fr": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "fr": [
+        "Bibliothèque nationale de France – Gallica"
+      ]
+    }
+  },
+
+  "rights": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/selections/fr/html/cartes-de-leurope-par-pays",
+      "type": "Text",
+      "label": {
+        "fr": [
+          "Voir la sélection sur Gallica"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "fr"
+      ]
+    }
+  ],
   "items": [
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530647846/manifest.json",

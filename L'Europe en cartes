@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/L'Europe%20en%20cartes",
   "type": "Collection",
-  "label": { "fr": [ "Cartes de l'Europe" ], "en": [ "European Maps" ] },
+  "label": { "fr": [ "Cartes de l'Europe 19e et 201" ], "en": [ "European Maps" ] },
   "thumbnail": [
     {
       "id": "https://gallica.bnf.fr/html/sites/default/files/vignette_paris1570_gaignieres_btv1b6902600j.jpg",

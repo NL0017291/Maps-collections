@@ -1,1 +1,48 @@
-
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/altomator/IIIF/main/collection/cartes/plans_paris.json",
+  "type": "Collection",
+  "label": { "fr": [ "Cartes de l'Europe" ], "en": [ "European Maps" ] },
+  "thumbnail": [
+    {
+      "id": "https://gallica.bnf.fr/html/sites/default/files/vignette_paris1570_gaignieres_btv1b6902600j.jpg",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "description": { "fr": [ "Cette collection est une adaptation de la sélection Gallica 'L'Europe en Cartes : accès par pays'" ], "en": [ "This collection is an adaptation of the Gallica selection 'L'Europe en Cartes : accès par pays' — https://gallica.bnf.fr/selections/fr/html/cartes-de-leurope-par-pays" ] },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "summary": { "fr": [ "Résumé" ], "en": [ "This is a summary of the object." ] },
+  "requiredStatement": {
+    "label": { "fr": [ "Source" ], "en": [ "Source" ] },
+    "value": { "fr": [ "<p>Gallica, sélection <a href='https://gallica.bnf.fr/html/und/france/cartes-de-paris'>Plans de Paris</a></p>"], "en": [ "<p><i>test</i></p>" ]  }
+  },
+  "homepage": [
+    {
+      "id": "https://gallica.bnf.fr/selections/fr/html/cartes-de-leurope-par-pays",
+      "type": "Text",
+      "label": { "fr": [ "Sélection Gallica : <label>" ],"en": [ "Gallica Selection: <label>" ] },
+      "format": "text/html",
+      "language": [ "fr" ]
+    }
+  ],
+  "related": [{
+			"id": "https://gallica.bnf.fr/selections/fr/html/cartes-de-leurope-par-pays",
+			"format": "text/html",
+			"label": { "fr": [ "Sélection Gallica : <label>" ],"en": [ "Gallica Selection: <label>" ] }
+		}],
+  "items": [
+{
+        "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/RT19?token=GHSAT0AAAAAAEFXBYEJXMHODLBAGZAMOURA2T7CWDA",
+        "label": { "fr": ["République tchèque XIXe"],
+				             "en": ["RT XIXe"]},
+        "type": "Collection"
+    },{
+        "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/RT19?token=GHSAT0AAAAAAEFXBYEJXMHODLBAGZAMOURA2T7CWDA",
+        "label": { "fr": ["République tchèque XIXe"],
+				             "en": ["RT XIXe"]},
+        "type": "Collection"
+    }]
+  }

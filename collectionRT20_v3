@@ -2,8 +2,23 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collectionRT20_v3?token=GHSAT0AAAAAAEFXBYEIMOR7P3VNJOLPQLJU2T6332A",
   "type": "Collection",
-  "label": { "fr": [ "Cartes de la République tchèque (XXe siècle)" ] },
-  "summary": { "fr": ["Cette collection rassemble une sélection de cartes de la République tchèque du XXe siècle conservées à la Bibliothèque nationale de France et accessibles dans Gallica." ] },
+  "label": {
+  "fr": [
+    "Cartes de la République tchèque (XXe siècle)"
+  ]
+},
+
+"description": {
+  "fr": [
+    "Cette collection rassemble une sélection de cartes de la République tchèque du XXe siècle."
+  ]
+},
+
+"summary": {
+  "fr": [
+    "Cette collection rassemble une sélection de cartes de la République tchèque du XXe siècle."
+  ]
+},
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "homepage": [

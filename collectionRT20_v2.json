@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/TON-COMPTE/TON-REPO/main/collection.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collectionRT20_v2.json?token=GHSAT0AAAAAAEFXBYEIQWVTTCEPBF3SHK262T64L2A",
   "type": "Collection",
 
   "label": {

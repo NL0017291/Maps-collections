@@ -1,246 +1,344 @@
-@context	"http://iiif.io/api/presentation/3/context.json"
-id	"https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/RT19?token=GHSAT0AAAAAAEFXBYEJP45ERQX7XCXHWLSW2T7CT5Q"
-type	"Collection"
-label	
-fr	
-0	"Cartes de la République tchèque"
-en	
-0	"Maps of the Czech Republic"
-description	
-fr	
-0	"Cette collection regroupe des cartes de la République tchèque conservées à la Bibliothèque nationale de France et accessibles dans Gallica."
-en	
-0	"This collection gathers maps of the Czech Republic held by the Bibliothèque nationale de France and available in Gallica."
-attribution	"BnF - Gallica, gallica.bnf.fr"
-license	"https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica"
-logo	"https://gallica.bnf.fr/mbImage/logos/logo-bnf.png"
-homepage	
-0	
-id	"https://gallica.bnf.fr/selections/fr/html/cartes-de-leurope-par-pays"
-type	"Text"
-label	
-fr	
-0	"Sélection Gallica : Cartes de la République tchèque"
-en	
-0	"Gallica selection: Maps of the Czech Republic"
-format	"text/html"
-language	
-0	"fr"
-related	
-0	
-id	"https://gallica.bnf.fr/selections/fr/html/cartes-de-leurope-par-pays"
-format	"text/html"
-label	
-fr	
-0	"Sélection Gallica : Cartes de la République tchèque"
-en	
-0	"Gallica selection: Maps of the Czech Republic"
-items	
-0	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b530280318/manifest.json"
-label	"Geologisch-Bergmännische Karte mit Profilen von Joachimsthal nebst Bildern von den Erzgängen in Joachimsthal und von den Kupferkies-Lagerstätten bei Kitzbühel, aufgenommen von den k. k. Bergbeamten / redigirt von dem k. k. Ministerialrathe weiland F. M. Ritter von Friese ; und von dem k. k. Oberbergrathe Wilhelm Göbl ; herausgegeben auf Befehl Seiner Excellenz des Herrn k. k. Ackerbau-Ministers Julius Grafen Falkenhayn (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-1	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025322d/manifest.json"
-label	"Situations Plan der Landeshauptstadt Brünn, mit Bezeichnung der öffentlichen Gebaüde u. Anstalten / gezeichnet von K. Schmigmator ; u. S. Dernier,... (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-2	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b530783900/manifest.json"
-label	"Plan der beiden Treffen bey Znaym am 10ten. und 11ten. July 1809, zwischen der kais. oesterreichischen Armée, unter den Befehlen S.K.H. der Erzherzogs Carl, und der französisch verbündeten Armée, unter Anführung des Kaisers Napoleon (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-3	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b53058594x/manifest.json"
-label	"Situations-Plan der königl. Landes-Hauptstadt Brünn mit spezieller Bezeichnungen der öffentlichen Gebäude und Anstalten (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-4	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b53057394t/manifest.json"
-label	"Neuester Situationsplan von Prag und der nachsten Umgebung... / von F. Hozak, ,... (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-5	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b530067680/manifest.json"
-label	"Umgebung von Prag (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-6	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442353z/manifest.json"
-label	"Disposition prévues par le prince Frédéric Charles et ordonnées aux troupes de la 1re armée pour le 3 juillet à la pointe des jour (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-7	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b84416847/manifest.json"
-label	"Umgebungskarte von Prag (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-8	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459750j/manifest.json"
-label	"Handkarte des Königreiches Böhmen,... 1 : 1. 000.000. Verkleinerung der Schulwandkarte 1 : 200.000 / von Dr. Karl Schober (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-9	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439352f/manifest.json"
-label	"Special-Karte vom Riesengebirge, 1/150 000 (Neunte... Auflage) / bearbeitet von W. Liebenow, ,... (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-10	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443410v/manifest.json"
-label	"Plan de la bataille d'Austerlitz gagnée par la grande Armée française commandée par l'Empereur Napoléon sur l'Armée austro-russe commandée par les empereurs de Russie et d'Allemagne [...] le 11 frimaire XIV (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-11	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492490z/manifest.json"
-label	"Plan de la Bataille d'Austerlitz Gagnée par la Gde Armée Française Commandée par l'Empereur Napoléon sur l'Armée Austro-russe Commandée par les Empereurs de Russie et d'Allemagne en Personnes le 11 Frimaire XIV (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-12	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445170q/manifest.json"
-label	"Sadowa (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-13	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441988x/manifest.json"
-label	"Plan de la bataille d'Austerlitz gagnée par la gde armée française commandée par l'empereur Napoléon sur l'armée austro-russe commandée par les empereurs de Russie et d'Allemagne en personnes le 11 frimaire XIV (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-14	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b8438944n/manifest.json"
-label	"Plan von Prag und Umgebung (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-15	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b84403859/manifest.json"
-label	"Plan de la bataille d'Austerlitz : gagnée par l'armée française en 14. / dessiné par Benech l'ainé, élève de Mr Quinier (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-16	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b84462971/manifest.json"
-label	"Příruční a cestovní mappa markrabství Moravského a vévodství Slezského... navrhli / a kreslili B. Kozenn, ... ; M. R. Kovář (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-17	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019644b/manifest.json"
-label	"Umgebung von Prag... (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-18	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b530250925/manifest.json"
-label	"Eisenbahn-Karte von Böhmen, Mähren, Schlesien und den angrenzenden Ländern / Gezeichnet von J. Beer ; Druck von Eduard Sieger, ... (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-19	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011145m/manifest.json"
-label	"Carte géologique du district lignitifere de Téplitz, Bilin Briiae, Duae, etc (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-20	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b550108431/manifest.json"
-label	"Prague (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-21	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b72002944/manifest.json"
-label	"Carte de la reconnaissance faite en Moravie sur la Schwartza et la Taya et la route de Nicolsbourg à Göding avec les cantonnements et les mouvements du 4° corps d'armée depuis de 1er frimaire [22 Novembre] jusqu'au jour de la bataille d'Austerlitz (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-22	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200118d/manifest.json"
-label	"Plan de la bataille d'Austerlitz... / Signé : le capitaine du génie Calmet Beauvoisin (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-23	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027587k/manifest.json"
-label	"Karte der pilsner Kohlenmulde 1/28 800, herausgegeben und zusammengestellt vom montanistischen Vereine in Pilsen (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-24	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b530227257/manifest.json"
-label	"Karte des Riesen und Isergebirges, mit dem Hirschberger Thal (Dritte Auflage revidirt von Th. Eisenmänger ) / entworfen gezeichnet und herausgegeben von E. Leeder (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
-25	
-id	"https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439415h/manifest.json"
-label	"Karte der Provinz Schlesien für den Schulgebrauch (Siebente Auflage) / entworfen und gezeichnet von E. Leeder,... (BnF)"
-type	"Manifest"
-metadata	
-0	
-label	"Source"
-value	"BnF"
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/TON_COMPTE/TON_REPOSITORY/main/collection.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes de la République tchèque"
+    ],
+    "en": [
+      "Maps of the Czech Republic"
+    ]
+  },
+  "description": {
+    "fr": [
+      "Cette collection regroupe des cartes de la République tchèque conservées à la Bibliothèque nationale de France et accessibles dans Gallica."
+    ],
+    "en": [
+      "This collection gathers maps of the Czech Republic held by the Bibliothèque nationale de France and available in Gallica."
+    ]
+  },
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "homepage": [
+    {
+      "id": "URL_DE_TA_RECHERCHE_GALLICA",
+      "type": "Text",
+      "label": {
+        "fr": [
+          "Sélection Gallica : Cartes de la République tchèque"
+        ],
+        "en": [
+          "Gallica selection: Maps of the Czech Republic"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "fr"
+      ]
+    }
+  ],
+  "related": [
+    {
+      "id": "URL_DE_TA_RECHERCHE_GALLICA",
+      "format": "text/html",
+      "label": {
+        "fr": [
+          "Sélection Gallica : Cartes de la République tchèque"
+        ],
+        "en": [
+          "Gallica selection: Maps of the Czech Republic"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530280318/manifest.json",
+      "label": "Geologisch-Bergmännische Karte mit Profilen von Joachimsthal nebst Bildern von den Erzgängen in Joachimsthal und von den Kupferkies-Lagerstätten bei Kitzbühel, aufgenommen von den k. k. Bergbeamten / redigirt von dem k. k. Ministerialrathe weiland F. M. Ritter von Friese ; und von dem k. k. Oberbergrathe Wilhelm Göbl ; herausgegeben auf Befehl Seiner Excellenz des Herrn k. k. Ackerbau-Ministers Julius Grafen Falkenhayn (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025322d/manifest.json",
+      "label": "Situations Plan der Landeshauptstadt Brünn, mit Bezeichnung der öffentlichen Gebaüde u. Anstalten / gezeichnet von K. Schmigmator ; u. S. Dernier,... (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530783900/manifest.json",
+      "label": "Plan der beiden Treffen bey Znaym am 10ten. und 11ten. July 1809, zwischen der kais. oesterreichischen Armée, unter den Befehlen S.K.H. der Erzherzogs Carl, und der französisch verbündeten Armée, unter Anführung des Kaisers Napoleon (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53058594x/manifest.json",
+      "label": "Situations-Plan der königl. Landes-Hauptstadt Brünn mit spezieller Bezeichnungen der öffentlichen Gebäude und Anstalten (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53057394t/manifest.json",
+      "label": "Neuester Situationsplan von Prag und der nachsten Umgebung... / von F. Hozak, ,... (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530067680/manifest.json",
+      "label": "Umgebung von Prag (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442353z/manifest.json",
+      "label": "Disposition prévues par le prince Frédéric Charles et ordonnées aux troupes de la 1re armée pour le 3 juillet à la pointe des jour (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84416847/manifest.json",
+      "label": "Umgebungskarte von Prag (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459750j/manifest.json",
+      "label": "Handkarte des Königreiches Böhmen,... 1 : 1. 000.000. Verkleinerung der Schulwandkarte 1 : 200.000 / von Dr. Karl Schober (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439352f/manifest.json",
+      "label": "Special-Karte vom Riesengebirge, 1/150 000 (Neunte... Auflage) / bearbeitet von W. Liebenow, ,... (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443410v/manifest.json",
+      "label": "Plan de la bataille d'Austerlitz gagnée par la grande Armée française commandée par l'Empereur Napoléon sur l'Armée austro-russe commandée par les empereurs de Russie et d'Allemagne [...] le 11 frimaire XIV (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492490z/manifest.json",
+      "label": "Plan de la Bataille d'Austerlitz Gagnée par la Gde Armée Française Commandée par l'Empereur Napoléon sur l'Armée Austro-russe Commandée par les Empereurs de Russie et d'Allemagne en Personnes le 11 Frimaire XIV (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445170q/manifest.json",
+      "label": "Sadowa (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441988x/manifest.json",
+      "label": "Plan de la bataille d'Austerlitz gagnée par la gde armée française commandée par l'empereur Napoléon sur l'armée austro-russe commandée par les empereurs de Russie et d'Allemagne en personnes le 11 frimaire XIV (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8438944n/manifest.json",
+      "label": "Plan von Prag und Umgebung (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84403859/manifest.json",
+      "label": "Plan de la bataille d'Austerlitz : gagnée par l'armée française en 14. / dessiné par Benech l'ainé, élève de Mr Quinier (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84462971/manifest.json",
+      "label": "Příruční a cestovní mappa markrabství Moravského a vévodství Slezského... navrhli / a kreslili B. Kozenn, ... ; M. R. Kovář (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019644b/manifest.json",
+      "label": "Umgebung von Prag... (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530250925/manifest.json",
+      "label": "Eisenbahn-Karte von Böhmen, Mähren, Schlesien und den angrenzenden Ländern / Gezeichnet von J. Beer ; Druck von Eduard Sieger, ... (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011145m/manifest.json",
+      "label": "Carte géologique du district lignitifere de Téplitz, Bilin Briiae, Duae, etc (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550108431/manifest.json",
+      "label": "Prague (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b72002944/manifest.json",
+      "label": "Carte de la reconnaissance faite en Moravie sur la Schwartza et la Taya et la route de Nicolsbourg à Göding avec les cantonnements et les mouvements du 4° corps d'armée depuis de 1er frimaire [22 Novembre] jusqu'au jour de la bataille d'Austerlitz (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200118d/manifest.json",
+      "label": "Plan de la bataille d'Austerlitz... / Signé : le capitaine du génie Calmet Beauvoisin (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027587k/manifest.json",
+      "label": "Karte der pilsner Kohlenmulde 1/28 800, herausgegeben und zusammengestellt vom montanistischen Vereine in Pilsen (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530227257/manifest.json",
+      "label": "Karte des Riesen und Isergebirges, mit dem Hirschberger Thal (Dritte Auflage revidirt von Th. Eisenmänger ) / entworfen gezeichnet und herausgegeben von E. Leeder (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439415h/manifest.json",
+      "label": "Karte der Provinz Schlesien für den Schulgebrauch (Siebente Auflage) / entworfen und gezeichnet von E. Leeder,... (BnF)",
+      "type": "Manifest",
+      "metadata": [
+        {
+          "label": "Source",
+          "value": "BnF"
+        }
+      ]
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://example.org/collection.json",
   "type": "Collection",
-  "label": {"fr": ["Cartes de la République tchèque (XXe siècle)"]},
-  "description": { "fr": [ "Cette collection regroupe des Plans de Paris par accès chronologique (XXe siècle)" ], "en": [ "This collection gathers Paris maps by chronological access (XXth century)" ] },
+  "label": { "fr": [ "Cartes de la République tchèque (XXe siècle)" ] },
+  "description": { "fr": ["Cette collection rassemble une sélection de cartes de la République tchèque du XXe siècle conservées à la Bibliothèque nationale de France et accessibles dans Gallica." ] },
   "attribution": "BnF - Gallica, gallica.bnf.fr",
   "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "homepage": [

@@ -2,41 +2,18 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://example.org/collection.json",
   "type": "Collection",
-  "label": {
-    "fr": [
-      "Cartes de la République tchèque (XXe siècle)"
-    ]
-  },
-  "summary": {
-    "fr": [
-      "Cette collection rassemble une sélection de cartes de la République tchèque du XXe siècle conservées à la Bibliothèque nationale de France et accessibles dans Gallica."
-    ]
-  },
-  "requiredStatement": {
-    "label": {
-      "fr": [
-        "Attribution"
-      ]
-    },
-    "value": {
-      "fr": [
-        "Bibliothèque nationale de France – Gallica"
-      ]
-    }
-  },
-  "rights": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
+  "label": {"fr": ["Cartes de la République tchèque (XXe siècle)"]},
+  "description": {"fr": ["Cette collection rassemble une sélection de cartes de la République tchèque du XXe siècle conservées à la Bibliothèque nationale de France et accessibles dans Gallica."]},
+  "attribution": "BnF - Gallica, gallica.bnf.fr",
+  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "homepage": [
     {
-      "id": "https://gallica.bnf.fr/",
+      "id": "https://gallica.bnf.fr/selections/fr/html/cartes-de-leurope-par-pays",
       "type": "Text",
       "label": {
-        "fr": [
-          "Voir la sélection sur Gallica"
-        ]
-      },
+        "fr": ["Voir la sélection sur Gallica"]},
       "format": "text/html",
-      "language": [
-        "fr"
+      "language": ["fr"]
       ]
     }
   ],

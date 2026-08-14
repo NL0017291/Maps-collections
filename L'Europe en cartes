@@ -17,7 +17,7 @@
   "summary": { "fr": [ "Résumé" ], "en": [ "This is a summary of the object." ] },
   "requiredStatement": {
     "label": { "fr": [ "Source" ], "en": [ "Source" ] },
-    "value": { "fr": [ "<p>Gallica, sélection <a href='https://gallica.bnf.fr/html/und/france/cartes-de-paris'>Plans de Paris</a></p>"], "en": [ "<p><i>test</i></p>" ]  }
+    "value": { "fr": [ "<p>Gallica, sélection <a href='https://gallica.bnf.fr/selections/fr/html/cartes-de-leurope-par-pays</a></p>"], "en": [ "<p><i>test</i></p>" ]  }
   },
   "homepage": [
     {
@@ -35,12 +35,12 @@
 		}],
   "items": [
 {
-        "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/RT19?token=GHSAT0AAAAAAEFXBYEJXMHODLBAGZAMOURA2T7CWDA",
+        "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/RT19",
         "label": { "fr": ["République tchèque XIXe"],
 				             "en": ["RT XIXe"]},
         "type": "Collection"
     },{
-        "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/RT19?token=GHSAT0AAAAAAEFXBYEJXMHODLBAGZAMOURA2T7CWDA",
+        "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/RT19",
         "label": { "fr": ["République tchèque XIXe"],
 				             "en": ["RT XIXe"]},
         "type": "Collection"

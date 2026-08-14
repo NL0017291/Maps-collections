@@ -253,26 +253,27 @@
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84598089/manifest.json",
-      "type": "Manifest",
+  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84598089/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "fr": [
+      "Carte illustrée des environs de Reichenberg. 1 : 80.000 environ"
+    ]
+  },
+  "metadata": [
+    {
       "label": {
         "fr": [
-          "Carte illustrée des environs de Reichenberg. 1 : 80.000 environ"
+          "Source"
         ]
       },
-      "metadata": [
-        {
-          "label": {
-            "fr": [
-              "Source"
-            ]
-          },
-          "value": {
-            "fr": [
-              "BnF"
-			]
+      "value": {
+        "fr": [
+          "BnF"
+        ]
       }
-      ]
     }
   ]
+}
+]
 }

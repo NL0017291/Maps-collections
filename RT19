@@ -1,5 +1,5 @@
 @context	"http://iiif.io/api/presentation/3/context.json"
-id	"https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/RT19"
+id	"https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/RT19?token=GHSAT0AAAAAAEFXBYEJP45ERQX7XCXHWLSW2T7CT5Q"
 type	"Collection"
 label	
 fr	

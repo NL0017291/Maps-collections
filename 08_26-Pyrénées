@@ -1,0 +1,822 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/collection.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Plans de villes : échantillon aléatoire issu des collections BnF"
+    ]
+  },
+  "summary": {
+    "fr": [
+      "Collection de cartes issues de Gallica / Bibliothèque nationale de France."
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021120c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pyrénées espagnoles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062262w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Pyrénées comprenant Les deux versants du massif central depuis la Navarre jusqu'à la vallée d'Aure / par E. Wallon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53083467v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la chaîne des Pyrénées... dessinée par T. Lezat... pour le Traité des Pyrénées et des eaux... de Bagnères de Luchon / par M. Le Dr Lambron"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84395079/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte d'ensemble des Pyrénées, d'après les connaissances actuelles / par Fr. Schrader, 1886"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84394321/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte d'ensemble des Pyrénées, d'après les connaissances actuelles / par Fr. Schrader"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84406393/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte hypsométrique des Pyrénées / dressée par F. Schrader ; et Emm. de Margerie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84587077/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte d'ensemble des Pyrénées... / par Fr. Schrader"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531361231/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte physique et routière des Pyrénées, donnant les établissements d'eaux minérales, ainsi que les endroits remarquables par les sites pittoresques et curiosités naturelles, etc. / dressé d'après les cartes du Dépôt de la Guerre et celles du Cadastre par A. Vuillemin ; gravée par Ch. Smith"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136111q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Pyrénées, versants, vallées et pays limitrophes compris entre les 41° 40' et 44°10' de latitude / dressée d'après les meilleurs documents par A. Perret géomètre en chef des Basses Pyrénées ; gravé sur pierre par les frères Avril ; lith. Lemercier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136223d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale des Pyrénées / par M. H. A. Dufour ; gravé sur pierre par Avril f[rè]res ; lith. Lemercier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010810f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte-guide de la chaîne des Pyrénées centrales françaises et espagnoles... / dessinée par E. Wallon, ,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025215z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les Pyrénées vues de Pau, l'observatoire étant placé sur la tourelle du boulevard du Midi"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530226894/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Pyrénées, comprenant les deux versants du massif central, depuis la Navarre jusqu'à la vallée d'Aure / par E. Wallon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84420387/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière des Pyrénées... spéciale aux voyageurs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84396171/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Front des Pyrénées occidentales / Rollet, del"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063360q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La route des Pyrénées. Section de Biarritz à Bagnères-de-Luchon (Section de Bagnères-de-Luchon à Cerbère.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530666582/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La route des Pyrénées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531003425/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte minéralogique des Pyrénées dressée à l'Echelle de 1 : 420 000 Désignant les carrières de marbre, celles d'ardoise, les mines de charbon fossile ainsi que les gîtes de minerai... dont les produits trouveront une exploration facile... lorsque le Canal des Pyrénées sera ouvert à la navigation / Par Louis Galabert"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440674j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des Pyrénées / dressée par Emm. de Margerie ; et Fr. Schrader, Annuaire du C. A. F. 1891"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458885s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pyrénées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530666298/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Esquisse géologique des Pyrénées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53028048t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des Pyrénées, de Perpignan à Bordères / par M. Joseph Roussel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84452591/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des Pyrénées de l'Aragon / par Marius Dalloni, 1910"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087571b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Portion des cartes de France et d'Espagne comprenant la chaîne des Pyrénées : profils développés du noyau central et de diverses traversées. Recherches sur les grandes voies de communication nécessaires à la région comprises entre la Garonne et l'Ebre / par Mr Colomès de Juillan ingénieur en chef des Ponts et chaussées, député des Hautes-Pyrénées ; lith. de Gratia"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53083106s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte d'ensemble du projet de percement du mont Géou... et construction d'un chemin de fer de Toulouse à Lérida... / Proposition de M. Aristide Ferrère"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062065g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Pyrénées comprenant les deux versants du Massif Central depuis la Navarre jusqu'à la vallée d'Aure / par E. Wallon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53198502t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte-guide de la Chaine des Pyrénées centrales françaises et espagnoles, contenant les renseignements les plus utiles aux voyageurs et aux Touristes dans les montagnes / Dessinée par E. Wallon, ... d'après les indications locales controlees par les cartes du Dépôt de la guerre et des plans spéciaux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531212040/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la pluviosité annuelle du Sud-Ouest de la France et des Pyrénées / dressée par H. Gaussen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102585m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tracé trigonométrique des points du premier et du deuxième ordre composant la chaîne principale formée sur la ligne frontière des Pyrénées : depuis Perpignan jusqu'à Bayonne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495467n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tracé trigonométrique des points du premier et du deuxième ordre composant la chaîne principale formée sur la ligne frontière des Pyrénées : depuis Perpignan jusqu'à Bayonne / rédigée et gravée au dépôt général de la Guerre sous la direction de Pelet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530876401/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Pyrénées et des cinq départements limitrophes / dressée par A. Perret ; J. Lahore scrip. ; Lithographie de E. Vignancour"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099824r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Théâtre des opérations militaires sur la Frontière des Pyrénées en 1813 et 1814"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53093867p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique d'Espagne, où se trouvent les positions de l'armée de la Foi depuis St. Jean de Pied-de-Port jusqu'à la plaine d'Urgel d'après J. B. Bourguignon d'Anville.. ."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550111121/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guide du pélerin. Paris à Lourdes par Toulouse / Dressé par R. Barbot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108417522/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte du relief de la chaîne des Pyrénées] / Jacques Bertin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

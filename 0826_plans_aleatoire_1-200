@@ -1,1 +1,4594 @@
-
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/collection.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes de la République tchèque"
+    ]
+  },
+  "summary": {
+    "fr": [
+      "Collection de cartes issues de Gallica / Bibliothèque nationale de France."
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530301049/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Havre et de ses environs indiquant les mutations parcellaires du cadastre sur les communes de Grasville, Ingouville et Sanvic"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439091h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Hanoï"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53147902f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Schiffahrts und industrie karte des Rheins"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060314d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des parties de la ville de Paris, théâtre des événements des 13 et 14 avril 1834"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530651329/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille agrandie de la banlieue et des communes limitrophes, dressé d'après le plan officiel établi"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53147891b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plans de la ville de Cuxhaven]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84396156/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Barcelone. - Plan de Barcelone en 1888"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531363158/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la place publique de St. Hymetière applée Les Crats"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035306p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville et des environs de Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530354297/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la ville de Tours et de ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53277957z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométral de la ville de Marseille et de ses faubourgs, avec le projet d'agrandissement"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53022767s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plann goroda Kiéva... [Plan de la ville de Kiev.]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531212938/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Nantes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087938b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Douai"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085772v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la carrière de M. Collet située à Charonne, Grande Rue, 83"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440252k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométral de la ville de Lyon, avec ses agrandissements dans sa partie méridionale"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84415696/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Saint-Quentin et des opérations du siège en 1557. 2e édition, corrigée. Ch. Gomart direxit"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266868s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Laurent-sur-Mer (Calvados). 1 : 2.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530614987/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Tébessa levé au Camp de Oued Mehairis le 12 juin 1842. Signé, le Capitaine d'Etat-Major, Dieu"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53032980j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du siège de Kehl Levé avec soin et exactitude sur le terrain, après le passage du Rhin exécuté le premier floréal an 5.... Echelle, 600 Toises [=Om. 078 ; 1 : 15 000 env]. (Projet d'un Camp Permanent proposé en avant de Kehl"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440304v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Saint-Etienne. 1891"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085035w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Rennes et de ses fauxbourgs..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53239455m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de Narbonne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532650887/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Calvados. Cauvicourt. 1 : 1.000. Plan topographique régulier dressé..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440644d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Salins"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530877607/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Bordeaux réduit sur le grand plan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495142s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nevers. Plan et Projets présentés au Conseil Municipal et déposés au Ministère de la Guerre en 1862 par M.A. de Saintemarie : Percement de l'Hôtel de Remigny effectué depuis ces projets ; Changement de la Caserne objet principal du Plan ; transformation du bas du parc en square pouvant être traversé par les voitures..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530300540/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et faubourgs de Paris, divisé en 12 mairies"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53020940w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Планъ города Одессы"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530275686/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Paris fin du xixe siècle, ses stations de voitures de place, ses lignes de voitures omnibus, bateaux à vapeur, sa division territoriale en xx arrondissements, ses 80 quartiers et leur population"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53061894z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Nantes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444146r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Villenauxe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530280943/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Hong-Kong, qui sera probablement appelée plus tard Victoria, suveyed by ensign Sargent 18 royal Irish. Hong-Kong, 1842, annoté et expédié, le 17 mai 1842. A. d. B. de Jancigny"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265208p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Calvados. Maizet. 1 : 2.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085152r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan routier de la ville de Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439023p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano de Teruel, levantado por una comision de oficiales del cuerpo de E. M. del ejercito y publicado por el Deposito de la guerra en 1881"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035346b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Montpellier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265307m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Calvados. Grimbosq. 1 : 1.000. Plan topographique régulier dressé..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439586x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Strasbourg divisée en dix cantons Dessiné et gravé en 1786"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530302160/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Strasbourg divisée en dix cantons suivant les Décrets de l'Assemblée Nationale"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b5966509m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "PLAN DE LA BAYE ET DE LA VILLE DE MOGADORE 1786"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530292444/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Saïgon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530251485/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano topografico de la ciudad de Lima, levantado totalmente de nuevo en el año 1859..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442084g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte d'une partie de la ville de Moulins et des environs de la rivière d'Allier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531361661/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet de reconstruction des halles centrales de Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087625f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la ville des Eaux-bonnes, et visuel pour les promenades qui sont indiquées par des lignes ponctuées, terminé sur le terrain dans le courant du mois de juillet en 1841"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530988106/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano de Zaragoza"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532607527/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Vosges. Commune de Jeanménil"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029800z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et faubourg de Paris divisé en 12 municipalités"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84390102/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bruxelles. - Nouveau Plan de Bruxelles illustré, 1883"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445980v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la ville d'Avignon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84404862/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan topographique de la ville de Lyon, avec un précis historique sur cette ville et une notice sur ce qu'elle contient de remarquable"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53170080z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Yeddo Yezu [plan de Yedo]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53061981k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port de Brest avec une légende historique"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006726f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Toul et de ses abords"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102555c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Troyes dressé d'après les documens du Cadastre par M. Bouchier, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265140c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Calvados. Roullours. 1 : 1.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530855132/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Paris fortifié et des communes de la banlieue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b59707497/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano del puerto y ciudad de la Havana"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443965j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Mans"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84448146/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Quartier St Antoine. Troisième partie, côté méridional"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035397v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des forts qu'on élève autour de Paris, pour la défense de Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494971z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des Promenades de l'Orangerie et de Contades ainsi que de l'île de Wacken appartenant à la Ville de Strasbourg Dressé par suite de la délibération du Conseil Municipal en date du 31 Août 1835"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444248x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Histoire des canonniers de Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84438263/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano de Granada"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55000399k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique de la paroisse et de l'abbaye royale de Montmartre rapportée à l'époque actuelle... levé... de 1848 à 1858..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445200d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La |New-York offre au public cette carte de la ville de Paris..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087966p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Lyon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530294833/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Toulon. Canevas trigonométrique du plan d'alignement du quartier de La Malgue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525109756/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan cadastral de la ville de Paris, divisé en 20 arrondissements et 80 quartiers... et comprenant l'Exposition universelle de 1900"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441392r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et citadelle d'Anvers, renommée tant pour la bonté de son port que pour le grand commerce qui s'y faisait autrefois..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265190f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bavent (Calvados). 1 : 2.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532580667/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Crécy pour être joint à notre rapport sur la réclamation de divers propriétaires riverains du Brassel. Par l'ingénieur de l'arrondissement du Nord"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84406415/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de La Roche-sur-Yon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531361483/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Réduction du projet d'ensemble de la rue de Rivoli avec arcades"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532238996/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'ancienne abbaye de Montmartre avant sa destruction arrivée en 1790"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265100q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Calvados. Gavrus. 1 : 1.000. Plan topographique régulier dressé..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84434489/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des faubourgs de Vienne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531701058/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Yeddo Yezu [plan de Yedo]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444231n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Tarbes, revu et corrigé"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085186s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan routier de la ville de Paris, orné de 26 monumens..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530643837/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Cambrai. Plan d'ensemble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550113851/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan de la ville de Vannes avec légende des noms manquant sur le plan de la ville dressé en 1785.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530277467/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Hanoï à l'échelle de 1/10 000, conforme au plan d'ensemble d'alignement approuvé le 9 avril 1890, dressé par le personnel de la voirie municipale, sous la direction de M. V. Leclancher,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442323t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265094v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Hanviller. 1 : 1. 000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085175x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan itinéraire de la ville de Paris divisé en 12 arrondissements et 48 quartiers..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136251r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Chartres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531363514/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des 3 maisons appartenant à Mr. Spicq et de celle dans laquelle il exploite son fonds de commerce"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444203b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan pittoresque et historique de la ville de Lyon..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063570w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville de Paris, divisé en 12 arrondissemens, avec tous les changemens exécutés jusqu'à ce jour... pour servir de guide aux étrangers"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84414018/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de St-Brieuc et de ses environs en 1892, 1/15 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266829k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Sillegny. 1 : 1.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440356k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port du Havre, après l'achèvement des grands travaux et de la nouvelle ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223860x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan-guide géométrique de la ville de Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84934122/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Siège de Brimston-Hill, investie le 12 Janvier et rendu le 13 Février 1782 à Monsieur le Marquis de Bouillé, Gouverneur général des Isles du Vent de l'Amérique et Commandant l'Armée. Echelle de 1000 Toises [= Om. 132 ; 1 : 14 750 env]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085059h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Toulon et de ses environs indiquant les agrandissements... et les alignements..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233022f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano da planta da cidade e suburbios do Rio de Janeiro levantado..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532607277/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Hautes-Pyrénées. Ville de Gavarnie,... 1 : 2.000. Plan topographique..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84954133/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait du plan de la ville et du nouveau pont d'Orléans, tiré de l'oeuvre de Perronet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027650k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan von Graz, nach eigener Aufnahme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53170106q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Yeddo Yezu [plan de Yedo]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53119550v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Coblentz et de la forteresse d'Ehrenbreitstein"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444213q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Brest. Plan de la ville de Brest en 1898. Dressé par l'ingénieur de la ville Ch. Guennoc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121539m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan régional de Bouchain. 1 : 10.000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029312c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille, de ses faubourgs et bastides... donnant tous les changements qui ont eu lieu jusqu'à l'année 1847"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530851731/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan routier de la ville de Paris, orné de 26 monumens..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532651339/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Calvados. Sainte-Honorine-des-Pertes. 1 : 2. 000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446064z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan de Münich.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530855545/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan complet de la ville de Paris en 1876, avec l'indication des lignes d'omnibus et des tramways..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223810v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Bordeaux..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84442055/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Saint-Etienne. 1862-1863"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136127t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Paris par sections"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53081373d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Harrison & Ponton's map of the city of Calgary Province of Alberta"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53195624w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nord. Ville de Loos. 1 : 5.000. Plan topographique expédié"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063772j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan complet illustré de la ville de Paris en 1884"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53267080b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano de la concha y barra de Bilbao, situado et fonde adero de Portugalete [...]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530302410/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Avignon, dressé d'après le plan général levé en 1819 et rectifié suivant les nouveaux alignements qui ont eu lieu depuis, jusqu'au 31 décembre 1835. Fornery et Chauvin, fecit (sic)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53057874w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Moscou"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530851358/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan routier de la ville de Paris et de ses faubourgs..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441094j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano topográfico de las huáneras de Chanavaya. Plano topográfico de las huanaras de Pabellon de Pica"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530875129/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Havre et de ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443254b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Nancy, dressé"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442334m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et citadelle d'Anvers"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530250010/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Nice, avec indication de tous les noms de rues, établissements publics, monuments, hôtels et banques, édition 1891"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066797n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Saint-Chamond"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530855473/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan complet et illustré de la ville de Paris divisé en 20 arrondissements et en 80 quartiers"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458574z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Boujad. Levé par le lt Bourgoin... décembre 1913"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035455p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Toulon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84424806/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Troyes. [1 : 6 000 env]. Couché fils direx... Kardt & Hacq"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494319x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et de la foire de Beaucaire, Dédié à Messieurs Privat, maire, Domergue et Anthoine, adjoints de la Ville de Beaucaire"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027973w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des arsenaux de Toulon, avec le faubourg de La Malgue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088181k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des faubourgs de Canton"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085219m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville de Paris divisé en 12 arrondissements et 48 quartiers..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444732s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Orléans et d'une partie de ses faubourgs dressé et rectifié pour être joint à l'Indicateur Orléanais de Mr Vergnaud-Romagno-si"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532133939/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Dakar, dressé et publié par le Service géographique de l'A. O. F., sous la direction du capitaine Saint-Péron"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264962s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guénange. 1 : 2.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84415021/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du quartier neuf, à la partie méridionale de la ville de Lyon en 1782"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53170104t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Yeddo Yezu [plan de Yedo]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53247478d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Paris en relief"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265215r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Manche, Montmartin-en-Graignes. 1 : 1.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530875754/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan itinéraire de Paris comprenant toutes les rues et les édifices publics"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066902f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gares de Limoges"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446483p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville, des rades et des environs du Port-au-Prince, dans l'isle Saint-Domingue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264959h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Comblanchien (Côte-d'Or). 1 : 2.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530253891/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Seine-et-Marne. Plan de la ville de Melun"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531896457/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de zonage de la ville de Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439043f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Neuester Plan von Freiburg in Baden, mit Verzeichniss der Strassen und öffentlichen Plätze"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84434593/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de ville d'Evreux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530666654/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Avignon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027927m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Anvers. T. Clément del"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084995f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lyon et de ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531036375/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano del puerto de Veracruz, en la costa ocidental del seno mexicano"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444815m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Quartier St Paul ou de la Mortellerie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440266m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano de la ciudad y del puerto de Barcelona..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085262j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville de Paris divisé en 12 arrondissemens et 48 quartiers. (1852.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53195357b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Drôme. Commune de Valence. 1 : 5.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531759608/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Bas-Rhin. Commune de Niederroedern. 1 : 1.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53262787d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Calvados. Ifs. 1 : 1.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530877730/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique et topographique de la ville et des environs de Limoges"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532384217/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano de la bahia de Argel y sus cercanias"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492480k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La |Ville de Genève, sa Banlieue et Carouge. Echelle de 1 : 6 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260751s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Alpes-Maritimes. Beausoleil 1 : 1.000. Plan topographique..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53022857r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lyon et ses environs..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066936g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Tulle, plan topographique"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030236t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la ville d'Angers d'après le plan du cadastre modifié conformément à l'état actuel de la ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088079c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Honfleur, après l'achèvement des grands travaux du port"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53156498x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La Rochelle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53195513n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Puy-de-Dôme. Commune d'Auzat-sur-Allier. 1 : 5.000. Fond de plan topographique"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550132642/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet d'extension et d'aménagement"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088231w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Douai, publié en 1648"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8490333z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des travaux de Communay au 22 août 1874... 0m,001 pour 1 mètre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121528r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Stadtplan von Colmar"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53177103s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Bas-Rhin. Commune de Dambach (Neunhoffen). 1 : 2.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265111k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Bas-Rhin. Ville de Lauterbourg. 1 : 2.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440083f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan of the city of Dublin, engraved from an actual survey for \"the Picture of Dublin\".. ."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441819b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444577p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille réduit du plan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531930115/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano general de la ciudad y puerto de San Sebastian"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532474629/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Neuester Plan der Stadt Basel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84413453/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan topographique de la ville de Bruxelles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265021m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Calvados. Orbec-en-Auge. 1 : 2.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442459s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plano geometrico della citta di Torino colle recenti fabbricazioni..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085248d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Paris fortifié..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266482d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Millau (Aveyron), plan topographique"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532603802/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général des lignes électriques de la ville de Grenoble..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530227630/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plann Nijnova Novogoroda... [Plan de Nijni-Novgorod, levé par le capitaine en second d'état-major Izvolsky.]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84434578/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Publications de la Revue municipale... Plan indiquant l'élargissement de la rue St-Pierre-Montmartre et du prolongement de la rue Paul-Lelong, pour être annexé au n° 131 du 16 septembre 1853"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530603292/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de Paris. Système Bécherel breveté en 20 arrondissements, indiquant toutes les rues nouvelles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136176f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan sans titre d'une partie du quartier des Halles]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260723f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Fontenay-le-Pesnel (Calvados)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530850118/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille, de ses faubourgs et bastides, avec les... changemens... jusqu'à l'année 1841"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531700890/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Yeddo Yezu [plan de Yedo]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531364146/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Londres illustré avec tous les renseignements et indications indispensables aux excursionnistes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84391765/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan der Stadt Oels, nach der Aufnahme der Stadtvermessung 1882/3"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121133d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Pyrénées-Orientales. Ville du Tech. 1 : 2.000. Fond de plan topographique dressé en 1943 par l'Aérophotographie,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84951043/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du quartier du Puits Salé à Lons-le-Saunier et profils de l'excavation du jardin Pétret"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439373m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Vid drevnongo... [Vue du vieux Novgorod délivré du siège des Sousdaliens en 1160/6077 par l'image miraculeuse de la très sainte Vierge.]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445916p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Bordeaux, réduit sur le grand plan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

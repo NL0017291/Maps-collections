@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/collection.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/0826_plans_aleatoire_1-200",
   "type": "Collection",
   "label": {
     "fr": [
-      "Cartes de la République tchèque"
+      "Plans de villes : échantillon aléatoire issu des collections BnF"
     ]
   },
   "summary": {

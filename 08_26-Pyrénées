@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/collection.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/08_26-Pyr%C3%A9n%C3%A9es",
   "type": "Collection",
   "label": {
     "fr": [
-      "Plans de villes : échantillon aléatoire issu des collections BnF"
+      "Cartes du massif des Pyrénées"
     ]
   },
   "summary": {

@@ -1,36 +1,37 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/01_Ain_19_20",
+  "id": "https://example.org/collection.json",
   "type": "Collection",
   "label": {
     "fr": [
-      "Cartes de la République tchèque"
-    ],
-    "en": [
-      "Maps of the Czech Republic"
+      "Cartes de la République tchèque (XXe siècle)"
     ]
   },
-  "description": {
+  "summary": {
     "fr": [
-      "Cette collection regroupe des cartes de la République tchèque conservées à la Bibliothèque nationale de France et accessibles dans Gallica."
-    ],
-    "en": [
-      "This collection gathers maps of the Czech Republic held by the Bibliothèque nationale de France and available in Gallica."
+      "Cette collection rassemble une sélection de cartes de la République tchèque du XXe siècle conservées à la Bibliothèque nationale de France et accessibles dans Gallica."
     ]
   },
-  "attribution": "BnF - Gallica, gallica.bnf.fr",
-  "license": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
-  "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "requiredStatement": {
+    "label": {
+      "fr": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "fr": [
+        "Bibliothèque nationale de France – Gallica"
+      ]
+    }
+  },
+  "rights": "https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica",
   "homepage": [
     {
-      "id": "URL_DE_TA_RECHERCHE_GALLICA",
+      "id": "https://gallica.bnf.fr/",
       "type": "Text",
       "label": {
         "fr": [
-          "Sélection Gallica : Cartes de la République tchèque"
-        ],
-        "en": [
-          "Gallica selection: Maps of the Czech Republic"
+          "Voir la sélection sur Gallica"
         ]
       },
       "format": "text/html",
@@ -39,403 +40,809 @@
       ]
     }
   ],
-  "related": [
-    {
-      "id": "URL_DE_TA_RECHERCHE_GALLICA",
-      "format": "text/html",
-      "label": {
-        "fr": [
-          "Sélection Gallica : Cartes de la République tchèque"
-        ],
-        "en": [
-          "Gallica selection: Maps of the Czech Republic"
-        ]
-      }
-    }
-  ],
   "items": [
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495571w/manifest.json",
-      "label": "France nouvelle en 86 départements à l'usage des jeunes élèves : Ain, Allier, Aisne, Basses-Alpes (pl. 1) (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Ain, Allier, Aisne, Basses-Alpes (pl. 1)"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530607032/manifest.json",
-      "label": "Carte routière du département de l'Ain (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de l'Ain"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066558p/manifest.json",
-      "label": "[Département de l'Ain] (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Département de l'Ain]"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458898d/manifest.json",
-      "label": "Ain (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ain"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084831s/manifest.json",
-      "label": "Carte routière du département de l'Ain... dressée et gravée / par E. Rembielinski ... (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de l'Ain... dressée et gravée / par E. Rembielinski ..."
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027867w/manifest.json",
-      "label": "Carte routière du département de la l'Ain... Extrait de la carte de France à 1/100.000 / dressée par le service vicinal, par ordre du ministère de l'intérieur (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de la l'Ain... Extrait de la carte de France à 1/100.000 / dressée par le service vicinal, par ordre du ministère de l'intérieur"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530848327/manifest.json",
-      "label": "Carte routière du département de l'Ain... dressée et gravée / par E. Rembielinski ... (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de l'Ain... dressée et gravée / par E. Rembielinski ..."
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136313c/manifest.json",
-      "label": "Tracé oculaire du parcours entre Paris, Troyes, Lyon, St. Etienne et Vienne / par le Chev[ali]er Joseph Bard (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tracé oculaire du parcours entre Paris, Troyes, Lyon, St. Etienne et Vienne / par le Chev[ali]er Joseph Bard"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84418378/manifest.json",
-      "label": "Carte des zones de Gex et de la Savoie / par F. Müllhaupt (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des zones de Gex et de la Savoie / par F. Müllhaupt"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9121746b/manifest.json",
-      "label": "Inventaire communal 1988. 1, Ain / Insee (France) ; SSM Agriculture (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Inventaire communal 1988. 1, Ain / Insee (France) ; SSM Agriculture"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443252h/manifest.json",
-      "label": "Plan de la citadelle de Bourg, bâtie en 1569, rasée en 1611 (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la citadelle de Bourg, bâtie en 1569, rasée en 1611"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530251680/manifest.json",
-      "label": "Carte des environs de Bourg, 1/40.000 / par le capitaine Potet, 1886-1889 (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Bourg, 1/40.000 / par le capitaine Potet, 1886-1889"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84417657/manifest.json",
-      "label": "Station sanitaire d'Hauteville (Ain)... Carte du plateau et des environs... (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Station sanitaire d'Hauteville (Ain)... Carte du plateau et des environs..."
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063722g/manifest.json",
-      "label": "Environs de Belley (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Belley"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025032p/manifest.json",
-      "label": "Plan de la ville de Bourg (Ain), 1/5.000... / revu par Fournier, agent-voyer (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Bourg (Ain), 1/5.000... / revu par Fournier, agent-voyer"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063713h/manifest.json",
-      "label": "Environs de Bourg (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Bourg"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530667197/manifest.json",
-      "label": "Environs de Belley. 1/80.000e. Revisé en 1931-1932 (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Belley. 1/80.000e. Revisé en 1931-1932"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084935z/manifest.json",
-      "label": "Carte topographique du canton de Montluel... / dressée par D. Girard... (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique du canton de Montluel... / dressée par D. Girard..."
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531361879/manifest.json",
-      "label": "Carte du canton de Genève : réduction de celle de Monsieur le général Dufour / [éditée par] Briquet et Fils ; gravée par F. Delamare (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du canton de Genève : réduction de celle de Monsieur le général Dufour / [éditée par] Briquet et Fils ; gravée par F. Delamare"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087912t/manifest.json",
-      "label": "[Environs de Nantua dans l'Ain] / lith. Vve Ayné (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Environs de Nantua dans l'Ain] / lith. Vve Ayné"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440658f/manifest.json",
-      "label": "Domaine de l'Ecole impériale de La Saulsaie (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Domaine de l'Ecole impériale de La Saulsaie"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530650642/manifest.json",
-      "label": "Camp de la Valbonne. Levé en 1921 (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Camp de la Valbonne. Levé en 1921"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532607472/manifest.json",
-      "label": "Département de l'Ain. Commune de Cuisiat. 1 : 2.000. Fond de plan topographique... / dessiné en 1945 par R. Peigné,... (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Ain. Commune de Cuisiat. 1 : 2.000. Fond de plan topographique... / dessiné en 1945 par R. Peigné,..."
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84407240/manifest.json",
-      "label": "Les Chemins de fer de l'arrondissement de Nantua (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les Chemins de fer de l'arrondissement de Nantua"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440038m/manifest.json",
-      "label": "Ambronay. Plan de l'abbaye d'Ambronay, d'après une vue cavalière antérieure à 1789 (Archives d'Ambronay) / Relevé par M. André Bellemain (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ambronay. Plan de l'abbaye d'Ambronay, d'après une vue cavalière antérieure à 1789 (Archives d'Ambronay) / Relevé par M. André Bellemain"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b77118213/manifest.json",
-      "label": "Carte générale de la France. 148, [Genève - Gex. Nouv. éd.]. N°148 / [établie sous la direction de César-François Cassini de Thury] (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale de la France. 148, [Genève - Gex. Nouv. éd.]. N°148 / [établie sous la direction de César-François Cassini de Thury]"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84930934/manifest.json",
-      "label": "Plan de la prairie d'Arbigny [Département de l'Ain] et des communes d'Uchisy [Département de Saône-et-Loire]. Les fonds colorés en vert dans la prairie sont les propriétés connues des habitants d'Uchisy (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la prairie d'Arbigny [Département de l'Ain] et des communes d'Uchisy [Département de Saône-et-Loire]. Les fonds colorés en vert dans la prairie sont les propriétés connues des habitants d'Uchisy"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136404s/manifest.json",
-      "label": "Carte du pays de Gex (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du pays de Gex"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530997859/manifest.json",
-      "label": "Plan de la Ville de Bourg. Extrait du plan cadastral levé par Mr Georges. Certifié conforme par le géomètre en chef du département de l'Ain / dessiné par A. Pelliat (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Bourg. Extrait du plan cadastral levé par Mr Georges. Certifié conforme par le géomètre en chef du département de l'Ain / dessiné par A. Pelliat"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035263f/manifest.json",
-      "label": "[Village de Rotonnod pour l'explication de l'affaire Peytel] / H. Brunet (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Village de Rotonnod pour l'explication de l'affaire Peytel] / H. Brunet"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b77117900/manifest.json",
-      "label": "Carte générale de la France. 117, [Bourg-en-Bresse. Nouv. éd.]. N°117 / [établie sous la direction de César-François Cassini de Thury] (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale de la France. 117, [Bourg-en-Bresse. Nouv. éd.]. N°117 / [établie sous la direction de César-François Cassini de Thury]"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035320t/manifest.json",
-      "label": "Plan de la partie de la route dép[artementa]le n°4 d'Ambérieux à Belley depuis la maison Thermet jusqu'au sommet de la rampe de la Darde, de la rivière de Furand et du coteau boisé et hautiné qui sépare la vallée de Furand d'avec la gorge de la Darde : Département de l'Ain : Arrondissement de Belley / Dressé par Mr Marchand, conducteur au corps royal des ponts et chaussées à Belley (Ain) (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la partie de la route dép[artementa]le n°4 d'Ambérieux à Belley depuis la maison Thermet jusqu'au sommet de la rampe de la Darde, de la rivière de Furand et du coteau boisé et hautiné qui sépare la vallée de Furand d'avec la gorge de la Darde : Département de l'Ain : Arrondissement de Belley / Dressé par Mr Marchand, conducteur au corps royal des ponts et chaussées à Belley (Ain)"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84691248/manifest.json",
-      "label": "Camp de Valbonne (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Camp de Valbonne"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7711791d/manifest.json",
-      "label": "Carte générale de la France. 118, [Belley. Nouv. éd.]. N°118 / R. Brunet Sculp.[sit] C. Beauvais Scrip.[sit] ; [établie sous la direction de César-François Cassini de Thury] (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale de la France. 118, [Belley. Nouv. éd.]. N°118 / R. Brunet Sculp.[sit] C. Beauvais Scrip.[sit] ; [établie sous la direction de César-François Cassini de Thury]"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     },
     {
       "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105676676/manifest.json",
-      "label": "Ferney (BnF)",
       "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ferney"
+        ]
+      },
       "metadata": [
         {
-          "label": "Source",
-          "value": "BnF"
+          "label": {
+            "fr": [
+              "Source"
+            ]
+          },
+          "value": {
+            "fr": [
+              "BnF"
+            ]
+          }
         }
       ]
     }

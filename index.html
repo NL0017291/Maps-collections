@@ -1,1 +1,173 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
 
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  >
+
+  <title>Cartes et plans par département — Mirador</title>
+
+  <style>
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+
+    #mirador {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="mirador"></div>
+
+  <!--
+    Mirador 3 volontairement épinglé :
+    on évite qu'une future mise à jour majeure modifie le comportement.
+  -->
+  <script src="https://unpkg.com/mirador@^3/dist/mirador.min.js"></script>
+
+  <script>
+    // ==========================================
+    // RESSOURCES IIIF
+    // ==========================================
+
+    const COLLECTION_RACINE =
+      "https://raw.githubusercontent.com/" +
+      "NL0017291/Maps-collections/" +
+      "refs/heads/main/collections/" +
+      "cartes-plans-par-departement.json";
+
+    const COLLECTION_AIN =
+      "https://raw.githubusercontent.com/" +
+      "NL0017291/Maps-collections/" +
+      "refs/heads/main/collections/" +
+      "1-ain.json";
+
+    const MANIFEST_DEPART =
+      "https://gallica.bnf.fr/iiif/" +
+      "ark:/12148/btv1b530607032/" +
+      "manifest.json";
+
+    const CANVAS_DEPART =
+      "https://gallica.bnf.fr/iiif/" +
+      "ark:/12148/btv1b530607032/" +
+      "canvas/f1";
+
+
+    // ==========================================
+    // MIRADOR
+    // ==========================================
+
+    const mirador = Mirador.viewer({
+
+      id: "mirador",
+
+      language: "fr",
+
+      // ----------------------------------------
+      // Catalogue disponible dans Mirador
+      // ----------------------------------------
+
+      catalog: [
+        {
+          manifestId: COLLECTION_RACINE
+        },
+        {
+          manifestId: COLLECTION_AIN
+        },
+        {
+          manifestId: MANIFEST_DEPART
+        }
+      ],
+
+      // ----------------------------------------
+      // Fenêtre initiale
+      // ----------------------------------------
+
+      windows: [
+        {
+          manifestId: MANIFEST_DEPART,
+
+          canvasId: CANVAS_DEPART,
+
+          // Contexte documentaire :
+          // collection générale → Ain
+          collectionPath: [
+            COLLECTION_RACINE,
+            COLLECTION_AIN
+          ],
+
+          collectionManifestId: COLLECTION_AIN,
+
+          // Panneaux
+          sideBarOpen: true,
+          sideBarPanel: "info",
+
+          thumbnailNavigationPosition: "far-bottom",
+
+          // On garde toutes les commandes utiles
+          allowClose: true,
+          allowFullscreen: true,
+          allowMaximize: true,
+          allowTopMenuButton: true,
+          allowWindowSideBar: true
+        }
+      ],
+
+      // ----------------------------------------
+      // Configuration générale
+      // ----------------------------------------
+
+      window: {
+        defaultView: "single",
+
+        sideBarOpen: true,
+        sideBarPanel: "info",
+
+        allowClose: true,
+        allowFullscreen: true,
+        allowMaximize: true,
+        allowTopMenuButton: true,
+        allowWindowSideBar: true
+      },
+
+      workspace: {
+        type: "mosaic",
+        allowNewWindows: true,
+        showZoomControls: false
+      },
+
+      workspaceControlPanel: {
+        enabled: true
+      },
+
+      thumbnailNavigation: {
+        defaultPosition: "off",
+        displaySettings: true,
+        height: 130,
+        width: 100
+      },
+
+      osdConfig: {
+        preserveViewport: true,
+        preserveImageSizeOnResize: true,
+        showNavigationControl: false
+      }
+
+    });
+
+  </script>
+
+</body>
+</html>

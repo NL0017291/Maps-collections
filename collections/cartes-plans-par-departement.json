@@ -1,0 +1,867 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/cartes-plans-par-departement.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/1-ain.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Ain (01)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/2-aisne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Aisne (02)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/3-allier.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Allier (03)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/5-hautes-alpes.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Hautes-Alpes (05)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/6-alpes-maritimes.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Alpes-Maritimes (06)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/07-ardeche.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Ardèche (07)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/08-ardennes.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Ardennes (08)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/09-ariege.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Ariège (09)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/11-aude.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Aude (11)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/12-aveyron.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Aveyron (12)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/13-bouches-du-rhone.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Bouches-du-Rhône (13)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/14-calvados.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Calvados (14)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/15-cantal.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Cantal (15)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/16-charente.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Charente (16)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/17-charente-maritime.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Charente-Maritime (17)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/18-cher.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Cher (18)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/19-correze.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Corrèze (19)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/2a-corse.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Corse (2A)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/21-cote-d-or.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Côte-d'Or (21)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/22-cotes-d-armor.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Côtes-d'Armor (22)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/23-creuse.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Creuse (23)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/24-dordogne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Dordogne (24)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/25-doubs.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Doubs (25)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/26-drome.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Drôme (26)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/27-eure.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Eure (27)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/28-eure-et-loir.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Eure-et-Loir (28)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/30-gard.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Gard (30)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/31-haute-garonne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Haute-Garonne (31)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/32-gers.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Gers (32)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/33-gironde.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Gironde (33)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/34-herault.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Hérault (34)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/35-ille-et-vilaine.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Ille-et-Vilaine (35)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/36-indre.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Indre (36)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/37-indre-et-loire.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Indre-et-Loire (37)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/38-isere.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Isère (38)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/39-jura.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Jura (39)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/40-landes.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Landes (40)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/41-loir-et-cher.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Loir-et-Cher (41)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/42-loire.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Loire (42)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/44-loire-atlantique.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Loire-Atlantique (44)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/45-loiret.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Loiret (45)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/46-lot.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Lot (46)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/47-lot-et-garonne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Lot-et-Garonne (47)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/48-lozere.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Lozère (48)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/49-maine-et-loire.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Maine-et-Loire (49)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/50-manche.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Manche (50)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/51-marne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Marne (51)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/52-haute-marne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Haute-Marne (52)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/53-mayenne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Mayenne (53)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/54-meurthe-et-moselle.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Meurthe-et-Moselle (54)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/55-meuse.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Meuse (55)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/56-morbihan.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Morbihan (56)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/57-moselle.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Moselle (57)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/58-nievre.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Nièvre (58)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/59-nord.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Nord (59)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/60-oise.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Oise (60)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/61-orne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Orne (61)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/62-pas-de-calais.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Pas-de-Calais (62)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/63-puy-de-dome.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Puy-de-Dôme (63)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/64-pyrenees-atlantiques.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Pyrénées-Atlantiques (64)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/65-hautes-pyrenees.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Hautes-Pyrénées (65)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/66-pyrenees-orientales.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Pyrénées-Orientales (66)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/67-bas-rhin.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Bas-Rhin (67)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/68-haut-rhin.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Haut-Rhin (68)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/70-haute-saone.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Haute-Saône (70)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/71-saone-et-loire.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Saône-et-Loire (71)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/72-sarthe.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Sarthe (72)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/73-savoie.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Savoie (73)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/74-haute-savoie.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Haute-Savoie (74)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/76-seine-maritime.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Seine-Maritime (76)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/77-seine-et-marne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Seine-et-Marne (77)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/78-yvelines.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Yvelines (78)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/79-deux-sevres.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Deux-Sèvres (79)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/80-somme.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Somme (80)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/81-tarn.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Tarn (81)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/82-tarn-et-garonne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Tarn-et-Garonne (82)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/83-var.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Var (83)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/84-vaucluse.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Vaucluse (84)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/85-vendee.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Vendée (85)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/86-vienne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Vienne (86)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/87-haute-vienne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Haute-Vienne (87)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/88-vosges.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Vosges (88)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/89-yonne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Yonne (89)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/90-territoire-de-belfort.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Territoire de Belfort (90)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/91-essonne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Essonne (91)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/92-hauts-de-seine.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Hauts-de-Seine (92)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/93-seine-saint-denis.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Seine-Saint-Denis (93)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/94-val-de-marne.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Val-de-Marne (94)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/95-val-d-oise.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Val-d'Oise (95)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/971-guadeloupe.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Guadeloupe (971)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/972-martinique.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Martinique (972)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/973-guyane.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Guyane (973)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/974-reunion.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Réunion (974)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/976-mayotte.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Mayotte (976)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/988-nouvelle-caledonie.json",
+      "type": "Collection",
+      "label": {
+        "fr": [
+          "Cartes et plans par département : Nouvelle-Calédonie (988)"
+        ]
+      }
+    }
+  ]
+}

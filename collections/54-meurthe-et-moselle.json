@@ -1,0 +1,2772 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/54-meurthe-et-moselle.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Meurthe-et-Moselle (54)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84461167/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France. Meurthe et Moselle / par Adolphe Joanne  Gravé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84461167"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233079n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique du département de Meurthe-et-Moselle / dressée suivant décision du Conseil Général par Ad. Garnier,conducteur des Ponts et Chaussées..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233079n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53257928j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique du département de Meurthe-et-Moselle dressée suivant décision du Conseil Général / par Ad. Garnier,conducteur des Ponts et Chaussées..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53257928j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530851017/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique et agronomique de Meurthe-et-Moselle dressée en 1878 / par M.A. Braconnier, Ingénieur au Corps des Mines. : 160. 000 ; Gravé par L. Sonnet, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530851017"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84599700/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte industrielle du département de Meurthe-et-Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84599700"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102342294/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du tracé du chemin de fer de Nancy à Saarguemines et Saarbrueck par Vic,Moyenvic,Marsal,Dieuze,Fenestrange,Saar-union et Saar-albe avec embranchemens sur Château-Salins et Sarrebourg par les départements de la Meurthe,du Bas-Rhin et de la Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102342294"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8438978f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Meurthe-et-Moselle (2e édition,complêtée)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8438978f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84413119/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Toul au XVIIe et au XIXe Siècles. Le plan ancien est la reproduction d'un plan anonyme de la fin du XVIIe s. corrigé et complèté d'après les plans de MM. Denis,Daulnoy et Sueur lesquels sont conservés au Musée de Toul. 1 : 6 000 / E. Martin [fecit]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84413119"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029738d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du tracé du chemin de Fer de Nancy à Saarguemines et Saarbrück,par Vic,Moyenvic,Marsal,Dieuze,Fenestrange,Saar-Union et Saaralbe avec embranchements sur Château-Salins et Sarrebourg,par les départements de la Meurthe,du Bas-Rhin et de la Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029738d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53263018n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Meurthe-et-Moselle. Commune de Laneuveville-aux-Bois. 1 : 1.000. Plan topographique régulier / dressé... par Ch. Mangé..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53263018n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265010r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Longwy. 1 : 5.000. Levé exécuté en 1946 / par l'Institut Géographique National"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265010r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010824n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de Meurthe-et-Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55010824n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53022782c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nancy. Plan. dressé par Albert Barbier,Conducteur des Ponts et Chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53022782c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265086b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bassin de Briey / plan topographique régulier dressé... par l'Institut Géographique National... al..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265086b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084876p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Cette carte qui sera tenue au courant indique les communes,leurs principales annexes et l'état actuel des voies de communication / Département de la Meurthe et Moselle et pays environnants Dressée par L. Steff,... d'après les cartes d'Etat-Major corrigées et complètées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084876p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102641j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Pont-à-Mousson. 1 : 5 000 Levé,dessiné et lithographié par J. Lepoire-Pantz,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102641j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439966j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Wohlgemut. Ancien lit de la Moselle à Toul"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439966j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530210882/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique et agronomique du Département de Meurthe et-Moselle Formée par l'assemblage des Cartes géologiques / Dressées par Mr. Levallois... et par Mr. Reverchon, ... ; revue et corrigée par Mr. Braconnier, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530210882"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233151m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Tracé du Chemin de Fer de Nancy à Saarguemines et Saarbrück par Vic,Moyenvic,Marsal,Dieuze,Fenestrange,Saar-union et Saaralbe,avec Embranchements sur Château-Salins et Sarrebourg par les départements de la Meurthe,du Bas Rhin et de la Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233151m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532579290/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte [du département de Meurthe-et-Moselle] exécutée / sous la direction de M. Ch.Desses,Inspecteur d'Académie par Marius Viard,Directeur d'Ecole à Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532579290"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441815p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Société nouvelle des mines,forges et hauts-fourneaux d'Herserange et St-Nicolas. Carte spéciale des voies de communication avec les principaux centres de commerce et d'approvisionnements / J. Sedille,del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441815p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84433998/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Terre de Brabois,à vendre. Cette Terre se compose d'une très jolie Campagne et d'une belle et bonne ferme..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84433998"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530579693/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'ensemble de la commune de Ceintrey,canton d'Haroué,arrondissement de Nancy (Meurthe-et-Moselle). Ceintry / A. Petit,1888"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530579693"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494966n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du territoire et de la Ville de Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494966n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443701x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Nancy. 1 : 80 000 Division de 1895"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443701x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532605511/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Lunéville / dressé sous l'administration de M. Gaspard,maire"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532605511"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492240c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan de Nancy. 1 : 10 000 ]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492240c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494964t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Description du siège de Nancy Commencé le 27e jour d'Août et rendu le 23e jour de septembre mil six cent trente trois"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494964t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530300701/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Toul. 1 : 80 000 Revision de 1895"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530300701"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010948n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'Arrondissement de Toul"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55010948n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027708g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Nancy et ses environs. Echelle de 1 : 10 000 / Plan dressé et dessiné par N[icol]as Paulin à Dommartemont"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027708g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021021f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Lunéville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021021f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53032833f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Chemin de fer de Nancy à Metz et à Sarrebruck,dressée sur les dessins et avec l'autorisation de Mrs. les Ingénieurs,par Toussaint,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53032833f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531927101/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte-plan murale de Nancy,offerte gracieusement à ses clients par l'Avenir Publicité [1 : 10 000 environ]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531927101"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530293739/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Nancy et ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530293739"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006726f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Toul et de ses abords / Crosmarie delineavit"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006726f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495081j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Toul / Morel inv. et sculpsit"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495081j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84949976/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Nancy divisé et règlé par la Clé Becherel. 1 : 10 000 Concordance. chaque division de la Clé égale 50 mètres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84949976"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029349r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Toul et de ses abords. 1 : 5 000 / Crosmarie delineavit"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029349r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530582277/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la commune de Dieulouard / A. Dieulouard,le 5 Mai 1888,l'Instituteur Aug. Bertrand"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530582277"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029282w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan ayant pour objet d'indiquer les Périmètres des Demandes en Concession sur le plateau de Longwy et l'Assiette de la propriété territoriale de Madame la Baronne d'Adelswärd par Rapport à ces périmètres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029282w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531025271/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan ayant pour objet d'indiquer les Périmètres des Demandes en Concession sur le plateau de Longwy et l'Assiette de la propriété territoriale de Madame la Baronne d'Adelswärd / par Rapport à ces périmètres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531025271"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025349c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Toul. 1 : 50 000 Albert Barbier,dess"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53025349c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440818m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440818m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84462652/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84462652"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494987t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Nancy. Echelle, 800 mètres [=Om. 066 ; 1 : 12 000 env]. Dessiné par Jean Cayon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494987t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84949887/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Nancy. Echelle, 800 mètres [=Om. 066 ; 1 : 12 000 env]. Dessiné par Jean Cayon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84949887"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531029068/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Meurthe-et-Moselle. Commune de Custines. Plan d'alignement du chemin d'intérêt commun N° 12 dans le village de Custines / Dressé par l'agent-voyer soussigné... Boquel, Nancy le 20 7bre 1873. Le présent alignement a été homologué ; par décision du Conseil Général en date du 26 octobre 1874"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531029068"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492241s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Nancy au 1 : 40 000 Paulin,dessinateur à Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492241s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593460c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Région frontière à l'Est de Nancy : Pont-à-Mousson-Nomeny-Amance-Delme-Château-Salins-Vic-Morhange-Dieuze / Carte du Service géographique prussien au 100 000 agrandie au 80 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8593460c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443254b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Nancy,dressé / d'après les dernières opérations du cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443254b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84592606/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte forestière et touristique du Massif de Haye. Echelle de 1 à 40. 000 / Dressé et imprimé au Service Géographique de l'Armée. Plan conçu et mis à jour  par l'Administration des Eaux et Forêts..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84592606"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442184t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Nancy. Echelle de 3 pces deux lignes pour 625 toises [1 : 11 830 env] / Réduit et dessiné par Michel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442184t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445221k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Nancy. Echelle de 3 pces deux lignes pour 625 toises [1 : 11 830 env] / Réduit et dessiné par Michel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445221k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440349f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440349f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441422f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Nancy à l'échelle de 1 : 10 000 / [Par] P. Lorette..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441422f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085023k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Nancy à l'échelle d'un pour 80. 000. Dessiné d'après la Carte d'Etat-Major,mise à jour et complétée / par L. Steff,Dessinateur à l'Ecole d'Application"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085023k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492615p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait du plan / dressé par le Sr. Pellerin,Géomètre qui a procédé au cadastre de la Commune de Praye [Meurthe] en 1811 dont la Minutte est jointe aux pièces du Procès"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492615p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84950055/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Bataille de Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84950055"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440981q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Nancy à 1 : 40 000 Paulin,dessinateur à Nancy,la 4 ème édition,mise au courant par le même"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440981q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006740k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du territoire de la Ville de Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006740k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063511v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les principaux camps retranchés de la Seine au Rhin, avec les environs de Berlin. Camp retranché de Metz-Thionville, ... de Paris, . .. de Strasbourg, 1 : 200 000 Anvers 1 : 250. 000. Namur, Liège, Cologne, Coblentz, Mayence, Verdun ; Toul, Berlin et ses abords, Epinal, Belfort, 1 : 150. 000 / René Brouzé, cartographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063511v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494989n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du territoire et de la Ville de Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494989n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440434b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Pont-à-Mousson [par] Doyotte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440434b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495034w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan monumental et historique de Nancy. 1 : 6 000 Le plus complet et le plus récent,avec l'indication des nouvelles rues et projetées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495034w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84951525/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Lunéville en 1638 dressé d'après un ancien plan manuscrit / par A. Joly,Architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84951525"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441579k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nancy paroissial Avant 1791"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441579k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440354r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Pont-à-Mousson Levé en 1827 par Hthe. Nollet,Géomètre de 1ère classe du Cadastre à Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440354r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495013q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Avant-projet d'un chemin de fer d'intérêt local de Nancy à Château-Salins et à Vic"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495013q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495015j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Avant-projet d'un chemin de fer d'intérêt local d'Avricourt à Cirey par Blâmont. Carte du tracé [1 : 80 000 env]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495015j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444939c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Baillage de Lunéville,créé par édit de Juin 1751. Echelle de 1 : 200 000 / Cxx. del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444939c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53058045d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Frouard d'après le plan cadastral de 1809 avec les principales modifications survenues depuis [1 : 10 000 environ]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53058045d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439122m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nancy-guide. Nouveau plan par sections avec itinéraire pour visiter la ville. Dressé par E. Bazin,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439122m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029308n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Nancy,dressé et mis à jour par Albert Barbier,exconducteur des Ponts-et-Chaussées,Capitaine commandant les Sapeurs-pompiers de Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029308n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495098t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rectification du Plan de la bataille de Nancy en 1477 publié par le Congrès scientifique de l'an 1850 / par F.J. B.N.A.N.H  a."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495098t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530328896/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'arpentage des terrains qui seront occupés par le Canal à ouvrir en aval et en amont du Pont de Chaufontaine,Route de 3e classe de Lunéville à Basle par Rambervillers et Remiremont / Dressé par l'Ingénieur du Corps Impérial des Ponts et Chaussées de l'arrondissement de Nancy pour être joint à son état de ce jour et servir à fixer les indemnités dues aux Propriétaires de ce terrein. Echelle de Om. 003 pour mètre [1 : 333 000 environ. Signé : ] Jaquiné. Signature des propriétaires des terrains : Saucerotte,Antoine"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530328896"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495003b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Salines de Varangéville-Rosières. Coupe géologique passant par les axes des puits n° 2  3"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495003b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060716t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Nancy et ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060716t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084873b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Meurthe / dressé par M. Guibal  pour la statistique du département par Henri Lepage"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084873b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530329795/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt domaniale de Haye et ses environs / dressée par le Service de l'Ecole Forestière à l'échelle de 1 : 20 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530329795"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84941412/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de Saint-Max, près Nancy, &amp; de ses environs / Dressée par M. About, Instituteur à St Max ; avec les indications de J.A. Paté"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84941412"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84941390/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nancy en 1873"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84941390"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494138k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nancy en 1873"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494138k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530298234/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du territoire de la Ville de Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530298234"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53078281n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte comprenant les bois de La Haye, et celui de Jaulnay, appt. à S.A.R. Mg. le duc de Bourbon / Département de la Meuse, Inspection de Stenay ; dessiné par Lobraux, géomètre de S.A.R."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53078281n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439496z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Toul"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439496z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84410311/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte d'Excursions aux Environs de Nancy par Albert Barbier,... 4e édition revue et mise à jour 1 : 50 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84410311"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84950589/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les huit cantons de l'Arrondissement de Nancy pour servir à la Statistique Agricole de l'Arrondissement / par Mr. E. Bécus"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84950589"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53032787x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Terres et bois de Gondreville. 1 : 1 250 env]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53032787x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84926148/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique du canton de bois (appartenant à M. Costes,de Gentilly,commune de Maxéville),ledit canton nommé Haut de Lièvre,ban de Maxéville,confinant au midi aux bois de la ville et à l'occident à ceux de M. Raulin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84926148"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443232r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Nancy. Echelle de 3 pces. 2 lignes pour 625 toises [1 : 11 830 env] / Réduit et dessiné par Michel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443232r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440277d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Nancy (4ème édition) / Dessinée par L. Steff  et complètée par Paulin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440277d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441484j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte agronomique de la commune de Dombasle. 1 : 10 000 L. Kreis,Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441484j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593461s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Région frontière à l'Est de Nancy : Lunéville-Forêt de Parroy-Avricourt / Carte du Service géographique prussien au 100 000 agrandie au 80 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8593461s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102590s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Nancy Réduit du Plan d'Alignement revu,complèté et mis à jour / par E. Roussel,Architecte de la Ville..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102590s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84413846/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Génie. Brigade topographique-section. Lever expédié des environs de Mézières [sic] à 1 : 10 000 Feuille de la Forêt de l'Evêque [sic]. Levé et. dessiné par le... soussigné en Mai 1880"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84413846"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223841j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte agronomique de l'arrondissement de Toul (Meurthe) / par M.E.Jacquet,Ingénieur en Chef du Corps des Mines,Exécutée par report sur pierre de la Carte topographique dite Carte d'Etat-Major"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223841j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440502q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Lunéville,Rectifié en 1855. Echelle d'un Mètre à 5000. [1 : 5 000 ] / Guibal del"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440502q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8493598x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la forêt ditte Grande et Fetite Parivaux,ban de Cosnes... indivise entre le Gouvernement pour 11/16 et Mr. de Leidre pour 5/16 et de cinq parties de bois adjacents à la ditte forêt... Levé en exécution d'un arrêté de Mr. le Pré fet du Dépt. de la Mozelle. .. du 21 janvier 1810 pour indiquer les circonstances et les distances des bois de Monsr. de Maillaud afin d'obtenir la main levée de séquestre apposé sur les d. bois"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8493598x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53245534n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Nancy divisée par sections. dressé par E. Bazin,éditeur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53245534n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84405761/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84405761"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494142g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des propriétés de la Ferme dite de Nouveau-Lieu. Fait et dressé d'après les Plans du Cadastre. Réduite à l'Echelle d'un mètre pour 5000 / et rectifiée par le Sr. E.V. Fondestienne,architecte à Nancy. Contenance générale 268 ha. 92 a. 36 cent"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494142g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492582r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Route de Nancy à Metz [dans la traversée de Champigneulles]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492582r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530578849/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "J. V. Barbier. Plan de la commune de Nomeny"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530578849"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84950129/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Avant-projet d'un chemin de fer d'intérêt local de Nancy à Vézelise. Carte du tracé"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84950129"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100160b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte agronomique de l'Arrondissement de Nancy (Meurthe) / dressée par Mr. Edouard Bécus, agriculteur.. . ; Exécutée et imprimée à la Lithographie E. Simon à Strasbourg"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100160b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84602969/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Lunéville / dressé sous l'administration de M. G. Gaspard,maire"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84602969"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088129p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Hôpital militaire de Nancy et contour / del.t Clément architecte  lith. L. Digout"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088129p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84922426/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lunéville en 1875. Echelle d'un mètre à 5. 000 / Dessiné par Ch. Charpentier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84922426"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494143w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer de Paris à Strasbourg. Plan de la Station et du tracé compris entre la route de Schelestadt et la guinguette de Sainte-Anne [à Lunéville]. Echelle d'un mètre sur le papier pour 5000 sur le terrain / Dessiné par Jottay,géomètre ç Lunéville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494143w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494140n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la grande briqueterie de St. Jean près Nancy avec les terrains qui en dépendent."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494140n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102774h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Toul en 1876. 1 : 5 000 Autographié par C. Lhérault,sur des dessins rédigés / d'après des documents authentiques"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102774h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029491m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Nancy / par H. Micault ...  gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029491m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100444f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Nancy par H. Micault,.. . Echelle de 0,0002 pour 1 mètre [1 : 5 000 ] / Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100444f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84403481/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Lunéville. Dédié à Monseignr le Prince de Hohenlohe,Lieutt Général,Inspecteur général de l'infanterie française. Echelle d'un mètre à 5000 [1 : 5 000 ] / Guibal dél"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84403481"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593510t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte spéciale des régions dévastées. 52 SE,Commercy [Sud-Est] / [Service géographique de l'armée]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8593510t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53033051p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan Parcellaire de la Partie du Territoire de la Commune de Bouxières au Mont traversée par la nouvelle Direction du Chemin Cantonal n° 59 de Nancy à Nomeny par Faulx,conformément à l'Arrêté de Mr. le Préfet... Echelle d'un mètre à 2500 [1 : 2 500 ] / Dressée par l'Inspecteur Voyer soussigné : Ducret"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53033051p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84949657/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet pour l'érection de la Statue du Général Drouot sur une Place qui servirait aux revues d'honneur et transformations de la Promenade dite La Pépinière en Elysée Lorrain / Présenté au Conseil Municipal de la Ville de Nancy par A. Humbert,Architecte de cette ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84949657"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84942704/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Nancy en 1866 avec l'indication des monuments détruits"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84942704"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530998021/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nancy. 1841. Plan pittoresque Comprenant dans l'enceinte des deux Villes l'indication en relief des Monuments, Edifices &amp; Etablissements publics les plus remarquables. Dressé et. dessiné par C.Chatelain, Architecte du Départemt. Gravé par E. Ollivier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530998021"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

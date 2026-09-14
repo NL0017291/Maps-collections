@@ -1,0 +1,886 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/22-cotes-d-armor.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Côtes-d'Armor (22)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84414018/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de St-Brieuc et de ses environs en 1892, 1/15 000 / dressé par Ch. Pichard... ; P. Hineteau del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84414018"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530644899/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général des abords du pont de Gouêt à construire sur la rivière de ce nom près St-Brieuc,route de cette ville à Palmpol,Isle de Bréhat,Lannion et Brest. Fait par l'ingénieur des ponts-et-chaussées de service à l'arrondissement du centre du département des Côtes-du-Nord,spécialement chargé de la direction des travaux maritimes dans les ports de commerce du même département / J. F. Piou,fils. 10 vendémiaire au XII"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530644899"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532099220/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du port et des marais de Dahouët,levé en germinal an XII"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532099220"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064827f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des havres et port de Dahouët"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064827f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442546h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de St-Brieuc,chef-lieu du département des Côtes-du-Nord / fait par Vauthelin,offr au 2e régt léger en mai 1812"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442546h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085086d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des Côtes-du-Nord / par M. Eug. de Fourcy..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085086d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531519464/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la rivière de Tréguier : levé en 1837 / sous les ordres de M. Beautemps-Beaupré, ingénieur hydrographe en chef ; écrit par J.M. Hacq"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531519464"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087980t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Guingamp en 1776 / Meyer, lith. ; lith. Lemarchand"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087980t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531362382/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique du versant sud-ouest du Menez-haut / levée et dressée [...] par A-M Kamelin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531362382"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530879172/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Dinan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530879172"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84420884/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Dinan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84420884"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136329g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Channel Islands with the surrounding coast of France / T. Le Breton del.  Harent Lith."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136329g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136314t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Projet de chemin de fer en Bretagne] / autog[raph]e de Roger"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136314t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495576z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Côtes-du-Nord,Creuse,Dordogne,Doubes (pl. 6)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495576z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223751k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département des côtes du Nord / dressée... par E. Pestel..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223751k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53151940f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des ports maritimes de commerce de l'arrondissement [de St Brieuc] : [du port d'Erquy au port Clos] / Ponts et chaussées,département des Côtes-du-Nord"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53151940f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53151945p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plans généraux [des] ports maritimes de commerce : département des Côtes-du-Nord,arrondissement du Nord-Ouest / Ponts et Chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53151945p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021049v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tableau d'assemblage du plan cadastral de la commune de Bréhand... (Côtes du Nord) dressé en 1843 à l'échelle de 1/10.000e"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021049v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53020859z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait du plan cadastral parcellaire de la commune de Bréhand. Sections D et E. Echelle de 1/2.000. Cadastre de 1842"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53020859z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53151942b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Port de] Paimpol"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53151942b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098644g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Département des Côtes-du-Nord dressée et réduite / d'après la carte du Dépôt de la Guerre en 1856,sous l'administration de M. le Comte Rivaud de la Raffinière,Préfet,par E. Pestel,... Revue et complétée en 1875 sous l'administration de M. le Baron de Jouvenel,Préfet. 1 : 160 000 Gravé chez Erhard-Schieblé"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098644g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108540803/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pempoul"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108540803"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854072k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Erquy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854072k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108540731/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Toul-an-Héry (Carte de)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108540731"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854076c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Lézardrieux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854076c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854074g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port du Légué-Saint-Brieuc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854074g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854075x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Binic"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854075x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854077t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tréguier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854077t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443550q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Dinan 1/5000 / dressé et édité par L. Martignac,à Lanvallay"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443550q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53151941w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du port de Port-Nieux : Ports maritimes de commerce / Ponts et chaussées,département des Côtes-du-Nord"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53151941w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53151947k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Rivière de Lannion,le Léguer et le port]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53151947k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531519481/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Rivière de Lannion,le Léguer et le port]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531519481"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53151943s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Port de Saint-Brieuc]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53151943s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441705z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Saint-Brieuc et du port du Légué / dressé par MM. Sebilleau  et Thomas..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441705z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250794g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte vicinale et administrative des Côtes-du-Nord / dressée par le Service vicinal..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250794g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443776n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Saint-Brieuc et des environs / dressé par M. Dalmar Jean..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443776n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260399h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de La Brohinière à Dinan. Commune de Plouasne. Plan parcellaire à annexer au procès-verbal de bornage... / Dressé par l'ingénieur d'arrondissement..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260399h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063779p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des sites et monuments du département des Côtes-du-Nord / dressée par F. Hédon de la Heraudière"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063779p"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

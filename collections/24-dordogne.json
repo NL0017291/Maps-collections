@@ -1,0 +1,518 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/24-dordogne.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Dordogne (24)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445538w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la cité et de la ville de Périgueux et carte topographique du territoire de leur seigneurie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445538w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84417798/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte industrielle et minéralogique du cours de la Dordogne, de la plupart de ses affluents et en particulier de la Vezère et de la Corrèze / dressé par MM. Conrad ; et Brard, 1825"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84417798"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530351509/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de la Dordogne : comprenant les routes royales,les routes départementales les chemins vicinaux de grande communication classés par le Conseil général / Dressée par A. Bardon Géog[rap]he des Ponts et Ch[aus]sées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530351509"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035236j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique et routière du département de la Dordogne / Dressée d'après les ordres de Mr Romieu préfet du dép[artemen]t sous la direction de Mr Cuménal agent voyer en chef"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035236j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035400c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de Glandier et de ses environs / indiquant où peuvent être pris les approvisionements en combustibles des forges de Glandier,Mialet,Orgnac et Uzerche"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035400c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136350p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer partant de Tarbes et devant desservir les vallées de la Baïse ou du Gers : avec indication de la déviation du Grand Central sur Aiguillon par la vallée du Lot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136350p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136034h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer partant de Tarbes et devant desservir les vallées du Gers ou de la Baïse : avec indication de la déviation du Grand-Central sur Aiguillon par la vallée du Lot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136034h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085018d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des localités du bourg de Menesplet servant de désignation dans l'affaire Bonnamy.. ."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085018d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495576z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Côtes-du-Nord,Creuse,Dordogne,Doubes (pl. 6)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495576z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084844j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique du Département de la Dordogne..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084844j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495027r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "L'instruction populaire en 1867 dans le département de la Dordogne d'après le nombre des conscrits qui ne savent ni lire ni écrire.. / par J. Manier,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495027r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233084t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'assemblage de la Ville de Périgueux / Levé par Mr Grenier,Ingénieur civil"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233084t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223753g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière... du département de la Dordogne... / dressée par Robert,agent-voyer..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223753g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53083105b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer d'intérêt local : réseau départemental de la Dordogne. Carte d'ensemble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53083105b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021107p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département de la Dordogne / par Marrot ; publiée et revue pour le lias, trias et permien, par G. Mouret, 1882"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021107p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53245471k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la ville de Périgueux, 1884. Revu et complété / par MM. Feaux... ; et Floirat..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53245471k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53262749n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer Grand-Central de France. Ligne de Lyon à Bordeaux. Section de Coutras à Périgueux. Carte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53262749n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458728d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pratique de Périgueux édité par l'Agenda-Annuaire et l'Annuaire Delmas pour les \"Publications Delmas\""
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458728d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84464116/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Périgueux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84464116"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066939t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Périgueux. Plan topographique. Echelle : 1/5 000e. Dressé... par la Société des plans régulateurs de Villes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066939t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53294978t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Périgueux. 1 : 5.000. Plan topographique régulier / dressé... par le Cabinet Danger,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53294978t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53057657n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pratique de Périgueux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53057657n"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

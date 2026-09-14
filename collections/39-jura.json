@@ -1,0 +1,610 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/39-jura.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Jura (39)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84400695/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Salins comprenant la situation d'Alaise (Extrait de la carte d'état-major)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84400695"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099896j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la commune de Laubepin, Département du Rhône, Arrondissement communal de Lyon, Canton d... Levé en Exécution de l'Arrêté du Gouvernement du 12 Brumaire an 11. Terminé le 6 Prairial an 12 / Par le Cn. Duboys, Géomètre en Chef et le Cn Belamy et Bienassis, arpenteur 1000 Mètres [=Om. 200 ; 1 : 5 000 ]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099896j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440644d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Salins"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440644d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492509m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte Topographique et Routière d'une partie de l'arrondt. de St Claude au dépt. du Jura. Rédigée au sujet d'une autorisation demandée / par Mr J.L. Monnier, Nt. à Lyon pour la construction d'un Pont sur la Bienne au village de Jeure ; par le Sr Cl. Mie. Dalloz, Architecte du dit arrondissement"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492509m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530277969/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte de Franche-Comté: Haute-Saône,Doubs,Jura / d'après les Cartes du Dépôt de la Guerre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530277969"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100510s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan du terroir de la] Vieille Loye,[Jura,avec sa division parcellaire et les cotes d'altitude. 1 : 1 600 ]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100510s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84950997/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Jura Pittoresque. Carte du Département du Jura. Echelle de 6 lieues communes de France [=Om. 075  1 : 350 000 env] / Gravé par Valuet aîné"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84950997"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084856v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département du Jura / extraite de la Carte topographique du Dépôt de la Guerre,Rectifiée et complètée en ce qui concerne le tracé des routes et chemins à l'aide des renseignemens fournis par les Administrations des Ponts et Chaussées et des Chemins vicinaux et dressée par M. Marmet..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084856v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84951043/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du quartier du Puits Salé à Lons-le-Saunier et profils de l'excavation du jardin Pétret"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84951043"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495105h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des environs de Lons le Saunier / par M. Boyé,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495105h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531363158/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la place publique de St. Hymetière applée Les Crats : extrait du plan cadastral des communes de St. Hymetière  de Chemilla"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531363158"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495569t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Isère,Landes,Jura,Loir et Cher (pl. 10)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495569t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495128h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Salins comprenant la Situation d'Alaise (Extraite de la Carte de l'Etat-Major)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495128h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530337482/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des Environs de St. Claude / par A. Etallon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530337482"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495031n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Voirie urbaine. Commune de Chilly-le-Vignoble. Plan de la rue dite de l'Hôpital pour être annexé à l'arrêté du Maire relatif à l'alignement à suivre / par Mr. Rebour Gustave, propriétaire. Echelle de Om. 002 pour 1 m. [1 : 500 ] ; Dressé par l'agent-voyer cantonal... Pusset ; Département du Jura"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495031n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063805c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département du Jura extraite de la carte topographique du Dépôt de la Guerre, rectifiée et complètée en ce qui concerne les routes et chemins à l'aide de renseignemens fournis (2me Edition revue et corrigée) / par les Administrations des Ponts et Chaussées et des chemins vicinaux ; et dressée par M.Marmet, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063805c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532237578/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département du Jura / dressée par décision du Conseil général du Département... sous la direction de M.Sirodot, Ingénieur en Chef des Ponts et Chaussées.. . ; Dessinée et gravée par Erhard Schieble... 1 : 100 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532237578"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495026b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "L'instruction populaire en 1867 dans le département du Jura. Carte cantonale du Jura. Carte cantonale établie sur la demande de la Loge Le Val d'Amour de Dole / par J. Manier,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495026b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025046w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lons-le-Saunier,chef-lieu du Département du Jura / Dressé par J. Blanchot,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53025046w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532330858/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Dole / par Berger et Budin  Gravé par Dumas Verzet et Lorsignol"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532330858"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445160b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Archéologie du Plateau de Chatelneuf (Notes). Pl.X.Fragment de la Table de Peutinger (1 er IVe siècle) pour les voies romaines de la Franche-Comté / d'après l'édition de 1874,de Mr.E. Desjardins"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445160b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445159p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Archéologie du plateau de Châteauneuf. Ménétrux-en-Joux et sa Nécropole préhistorique / par Félicien Paget, géomètre à Songeson ; Société d'Emulation du Jura"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445159p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84450511/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La Combe d'Ain,entre Doucier et Châtillon : Croquis pour l'étude des mouvements du sol aux alentours de Doucies. 1/20.000 / d'après le plan de M. Pernot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84450511"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440072n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etude sur les mouvements du sol sur le territoire de Doucier. Plan. Echelle de 1 à 20. 000 / Société d'Emulation du Jura  Dressé par le sociétaire soussigné à l'appui de sa notice en date de ce jour... signé Pernot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440072n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530643926/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etat de la cartographie du Jura en 1920... / Service de la Carte géologique de France"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530643926"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53209791p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Jura. Paris-Lyon-Méditerranée. Services Automobiles P.L.M. / dessinée par Jean Dollfus"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53209791p"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

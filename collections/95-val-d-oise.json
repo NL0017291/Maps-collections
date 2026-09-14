@@ -1,0 +1,1300 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/95-val-d-oise.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Val-d'Oise (95)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029245k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan partiel de la forêt de Montmorency et de ses environs, dressé par Dubruy,... / d'après les divisions et ventes dirigées par MM Dutreth ; et Duperron"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029245k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085780c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la terre du Val [commune de Mériel.]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085780c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062054m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Paris. Cimetière de Méry sur Oise. Plan général..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062054m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530248867/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Hameau de Cernay (Vallée de Montmorency). Plan des terrains à vendre / dressé par Mr Dubruy...  d'après les divisions et ventes dirigées par Mr Dutreil..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530248867"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530302215/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau village d'Enghien-les-Bains"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530302215"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085783q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Bois de Cassan,près l'Isle-Adam (S. et O.)]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085783q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84445464/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan de la commune de Saint-Gratien.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84445464"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441391b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville d'Argenteuil / dressé par M. Vigouroux ; pour les divisions et ventes des terrains de la ville du Petit-Marly, dirigées par M. Dutreil..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441391b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021143j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des chemins vicinaux du territoire de Piscop,dressé... / par moi Pierre-Antoine-Michel Thorigny..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021143j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530857828/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des bois faisant partie de l'aménagement de la forêt de Montmorency / levé par P. Barcellon..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530857828"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530986253/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des Bois Impériaux qui entourent en partie le Parc du Val,commune de Mériel,je soussigné arpenteur géomètre attaché à l'arrondissement forestier de Pontoise,certifie le Plan ci-dessus exact et conforme au Plan / J. Rethoré. Vu par Nous,conservateur des Eaux et Forêts du Premier arrondissement. A Paris,le cinq mars mil huit cent sept. Perache-Franqueville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530986253"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53028038d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'ancien étang du Val,depuis le parc de S. Exc. M. le Cie Regnaud,ministre d'Etat,jusqu'au moulin du Haut-Meriel,appartenant au Sr Perrot / (Signé : Maisons,le 10 octobre 1811,l'ingénieur... J. Cordier)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53028038d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532332171/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan et profil des carrières de Plâtre des S. rs Chevalier (Etienne Olivier) et Chevalier (Nicolas Jacques) au Territoir de Gode,Commune d'Argenteuil,Arrondissement de Versailles,Département de Seine-et-Oise. Levé le 24 Octobre 1814"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532332171"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530857845/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Partie de la forêt de Montmorency sise sur les communes de Chauvry,St Prix et Bethemont.]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530857845"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532481078/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des biens communaux de Villiers-Adam,arrondissement communal de Pontoise..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532481078"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098480k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des bois appartenant à la Commune de Villiers-Adam,situés dans la forêt de l'Isle-Adam,arrondissement de Pontoise,Seine-et-Oise. Certifié véritable et conforme au plan par terre,par nous géomètre arpenteur de l'Administration des Forêts... / [signé] Réthoré"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098480k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099903v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plâtre. Département de Seine-et-Oise. Arrondissement de Pontoise. Canton de Marines. Commune de Grisy. Lieu-dit Sous-les-Granges. Carrière à cave et par puits exploitée par le Sr.Berthol... Plan et Coupes du terrain superficiel et des Travaux intérieurs de la carrière à Plâtre... a l'époque du 22 Octobre 1817"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099903v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100021r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan parcellaire de partie du territoire de Boissy l'Aillerie confinant à celui d'Osny,au levant]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100021r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8491589b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ferêt de Carnelle en deux triages. Saveir le premier appelé Triage de Beaument,divisé en vingt coupes et le deuxième appelé Triage de St. Martin,aussi divisé en vingt coupes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8491589b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062164d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau village d'Enghien-les-bains"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062164d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530351867/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan du parc de Bel-Air (commune d'Andilly,canton de Montmorency)] / Lithogr. de Dezauche"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530351867"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035442x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan du parc de Bel-Air (commune d'Andilly,canton de Montmorency)] / Lithogr. de Dezauche"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035442x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087436j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan figuré d'une propriété de Mr Ardisson située à Marly la Ville, rue du Faubourg d'Aval / levé par Noyron arpenteur géomètre patenté ; lith. de P. Bineteau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087436j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088276s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des pièces divisées / Lith. Lutton"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088276s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530877463/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt de Montmorency. Plan du triage de Taverny / dressée par Ponsin,ingénieur géomètre à Montmorency"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530877463"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088246j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Domaine de St Gratien : Plan général,moins l'étang de la Chasse et l'étang Marie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088246j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223733n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte cantonale de la forêt et de la vallée de Montmorency... / par A. Ponsin..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223733n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084978z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'ensemble : - des communes de Soisy,Deuil,St Gratien... et Epinay... Projet de réunion du hameau d'Enghien les-Bains... pour l'érection en commune... 1/10 000 / gravé par Avril frères..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084978z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441380j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de division de la plaine du Bois-Jacques,à 5 minutes de la station d'Enghien-les-Bains / dressé par A. Ponsin,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441380j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098817b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Ensemble et de Detail de Terrains à Vendre à Enghien-les-Bains / d'après les Divisions et Ventes dirigées par Mr Dutreih, 2 rue Drouot ; Dressé par H. Lafolie, Géomètre, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098817b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84414515/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de vente de la plaine du Bois-Jacques,à cinq minutes de la station d'Enghien-les-Bains / dressé par A. Ponsin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84414515"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84941716/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général des terrains à vendre à Enghien-les-Bains sur la Nouvelle Rue de Plaisance et sur la nouvelle Rue de l'Eglise. Dressé pour les Ventes dirigées / par MMrs. Dutreih et Duperron,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84941716"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084930q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Pontoise extraite de la carte du Département / dressée par ordre du conseil général..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084930q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439279r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Magny-en-Vexin / dressé d'après les anciens plans et complété au moyen des Aveux,par Alfred Potiquet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439279r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530621775/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Taverny. Plan indiquant la division de la Garenne de Beauchamp. (Signé : 12 juillet 1881,P. Lafolie)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530621775"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853834h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 2,Herblay"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853834h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53020980j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Avant-Projet du chemin de fer de la vallée de Montmorency"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53020980j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853841k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 9,Argenteuil"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853841k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445055p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte comparative des bois de la forêt d'Arthies au XVe et XIXe siècles / dressée par Léon Plancouard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445055p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250754t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte cantonale de la forêt et de la vallée de Montmorency et des environs (5e édition) / par A. Ponsin,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250754t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84419596/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune et ville d'Argenteuil / dressées par A. Pincemaille ; ... dessinées et gravées par A. Giffault, 1898"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84419596"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84422630/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de lotissement des terrains d'Erouen Ezanville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84422630"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10846404g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la France. XVI-12,Pontoise / [dressée par le Service vicinal] par ordre du ministre de l'intérieur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10846404g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458551z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Seine-et-Oise. Plan général de la commune de l'Isle-Adam / dressé par Armand Liquette,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458551z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064904n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Assainissement de la Seine / Rapport Georges Lemarchand,Louis Peuch,A. Marin et Jean Colly"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064904n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121339v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la forêt de Montmorency (2e édition... revisée) / dressé par A. Ponsin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121339v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53189676x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Seine-et-Oise. Ville de Saint-Brice-sous-Forêt. 1 : 2.000. Fond de plan topographique / dressé et dessiné... par M. Poignant,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53189676x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53175210j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Seine-et-Oise. Service d'urbanisme. Ville d'Arnouville-les-Gonesse. 1 : 5.000. Fond de plan topographique dressé... en 1943 / par... Maillard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53175210j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260717t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville d'Arnouville-les-Gonesse. Département de Seine-et-Oise... / Fond de plan topographique dressé et dessiné en 1943 par le Cabinet Maillard..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260717t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260679t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Seine-&amp;-Oise. Ville d'Argenteuil. 1 : 2.000. Fond de plan topographique dressé en 1943 / par M. Thiébaut,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260679t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53175965h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Seine-et-Oise. Commune de Montmagny. 1 : 5.000. Plan topographique régulier dressé et dessiné en 1944-45 / par Ad. Pontabry,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53175965h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53189641f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Seine-et-Oise. Commune de Thillay. 1 : 5.000. Plan topographique expédié. .. / dessiné... par M. R. Chadefaux,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53189641f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53189642w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Seine-et-Oise. Commune de Saint-Gratien. 1 : 5.000. Plan topographique régulier / dressé à l'aide de la réduction du 1 : 2.000,dessiné en 1944 par M. Maschino,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53189642w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121338d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la forêt de Montmorency / dressée par A. Ponsin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121338d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265041f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chaumontel-Luzarches [Seine-et-Oise] / plan topographique régulier dressé... par M. Gelly..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265041f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532666039/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Persan-Beaumont (Seine-et-Oise). 1 : 10.000. Plan topographique régulier exécuté... d'après la carte au 1 : 20.000 de l'Institut Géographique national"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532666039"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

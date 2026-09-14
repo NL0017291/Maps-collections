@@ -1,0 +1,3554 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/78-yvelines.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Yvelines (78)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030056w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général indiquant le lotissement du parc du Vésinet,ligne de St-Germain..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030056w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530620948/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Rambouillet. Extraite de la Carte du Département / dressée par ordre du Conseil général"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530620948"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062221s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Division en lots de chasse à tir des forêts de St-Arnoult,de l'Ouie,des Yvelines,de Rambouillet et de St-Leger"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062221s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029101r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Société Pallu et Cie,Plan général du parc du Vésinet,indiquant les lots de terrains mis en vente"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029101r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530248867/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Hameau de Cernay (Vallée de Montmorency). Plan des terrains à vendre / dressé par Mr Dubruy...  d'après les divisions et ventes dirigées par Mr Dutreil..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530248867"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027648r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de terrains près de Versailles,où l'on peut établir un champ de manoeuvre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027648r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53079580p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville et du Château de Versailles / dressé sur les lieux par Lemonnier  gravé par Favrin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53079580p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106789013/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Seine-et-Oise / dressé par A[uguste] H[enri] Dufour  Dumas-Vorzet en 1867"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106789013"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106798408/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Saint-Germain,Rueil] / [par le Dépôt de la guerre]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106798408"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10678939x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Saint-Germain,Nanterre] / carte publiée par le Dépôt de la guerre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10678939x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84415058/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Versailles et du camp de Satory"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84415058"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444229k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plans du rez-de-chaussée et du premier étage du palais de Versailles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444229k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444549c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt de Saint-Germain..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444549c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84452524/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général des bois de Trappes,d'après les divisions et ventes dirigées par Mr Dutreih... / dressé par H. Lafolie,géomètre à Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84452524"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444136c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville. du château et du parc de Versailles,de Trianon,etc,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444136c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84395361/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan manuscrit sur calque de la forêt de Saint-Germain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84395361"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443785m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan de Poissy et environs.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443785m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440439d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la brasserie de Rambouillet appartenant à M. Lachaise"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440439d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200171s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique des environs de Versailles dite des Chasses Impériales, levée et dressée de 1764 à 1773 par les ingénieurs géographes des Camps et Armées, commandés par feu M. Berthier, Colonel, leur chef ; terminée en 1807 par ordre de Napoléon, Empereur des Français, Roi d'Italie et Protecteur de la Confédération du Rhin, pendant le Ministère de S.A.S.M. le Maréchal Alexandre Berthier, Prince de Neuchatel, Grand-Veneur, Grand Aigle de la Légion d'Honneur, etc. etc., sous la direction du Général de Division Sanson / Gravé par Doudan, Tardieu l'ainé et Boudet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b7200171s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100507h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt de Saint-Germain. Projet de la route de 1ère classe de Paris à Rouen,par Bezons,Maisons,Conflans et Pontoise décrétée par Sa Majesté... l'empereur Napoléon et / présenté par l'ingénieur... des ponts et chaussées. Cordier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100507h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84445449/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de l'Hospice et de la chapelle élevés à Rosny en 1820 d'après les ordres de S. A. R. Madame la Duchesse de Berry et sur les dessins de A. Froelicher,architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84445449"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029909c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville,du château et du parc de Versailles avec les palais et jardins du grand et du petit Trianon,... / par Charles Picquet,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029909c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84926875/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des Bois Communaux de Viroflay,Departement de Seine et Oise,1ère Conservation,Inspection de Versailles Désignation des coupes... Echelle de 400 mètres et d'un à 2000 [1 : 2 000 ]. Certifié conforme aux procès-verbaux d'Arpentage et de délimitation / dressé par l'Arpenteur géomètre soussigné en 1820 et 1821,Hoquart"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84926875"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530295213/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général des eaux de... Saint-Germain,annexé au rapport du vérificateur expert des bâtiments de la couronne en date du 31 octobre 1822"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530295213"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84437846/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'Ecole de St-Cyr,levé en 1823 par les élèves de la 1re division..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84437846"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53023131x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "N° 93 de la nomenclature. Tableau d'assemblage du domaine des étangs et rigoles ou des eaux de Versailles / dressé conformément à l'art. 3 de la loi du 8 novembre 1814 par M. le Chr V. de Moléon,1/40 000. Paris,le 25 février 1825"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53023131x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530635648/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte des environs de] Mantes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530635648"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495299x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etude / Département de Seine-et-Oise  d'après le Plan de Guerville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495299x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444407p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du palais et du parc de Versailles avec l'indication de toutes les statues 1829 / Dressé et gravé par Laurent"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444407p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442736t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du palais et du parc de Versailles avec l'indication de toutes les statues / par Laurent"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442736t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495412p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la forêt de Rosny / Ach. Molinos  Cie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495412p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530938739/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la forêt de Saint-Germain / dressée par A. M. Perrot...  Ecrit par J. M. Hacq"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530938739"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492506c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Forêt de Saint-Germain. Dressée par A.M. Perret,publiée par A. Goujon,Imprimeur à St Germain-en-Laye. 1 : 25 000 . Gravé par Pierre Tardieu,Ecrit par J.M. Hacq"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492506c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233013g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris dressés / d'après les Chasses D. Coutans et ses propres levés par Alexis Donnet..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233013g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440700k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Duvergier. Carte d'étude n° 2 (Carrières-sous-Poissy)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440700k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035164h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du parc de Maisons sur Seine : dressé par suite des tracés et lotissemens [sic] faits pour la vente par portions d'environs cinq cents arpens [...] / par J.H. Bellanger,architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035164h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530351939/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte géologique de la vallée de la Remarde (environs de Rambouillet)] / Croissiliot  gravé dans l'atelier de Ch. Avril"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530351939"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035189k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Versailles / gravé et publié par Blaisot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035189k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035221w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tracé des deux chemins de fer projetés en concurrence sur la rive droite de la Seine entre Paris et Versailles / Lith. de Desportes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035221w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442514j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de Versailles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442514j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223835x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Versailles. Extrait de la carte des chasses... rectifiée en 1837..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223835x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530228764/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Versailles. 1/28 000. Extrait de la carte des chasses,rédigée et gravée au Dépôt général de la guerre et rectifiée en 1837..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530228764"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530353843/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer de Paris à St Germain : avec une notice descriptive des travaux d'art et l'indication des heures de départs des deux stations  lith. Delarue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530353843"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035317j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer de Paris à St Germain ouvert le 26 Août 1837 / dressé par A.M. Perrot  lith. Delarue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035317j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530351365/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Versailles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530351365"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530353341/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer de Paris à St Germain ouvert le 26 Août 1837 / dressé par A.M. Perrot  lith. Delarue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530353341"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035367m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer de Paris à St Germain : avec une notice descriptive des travaux d'art et l'indication des heures de départs des deux stations  lith. Delarue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035367m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530619393/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville,du château et du parc de Versailles,avec les palais et jardins du grand et du petit Trianon / Dédié et présenté au roi par Ch.les Picquet,géographe ordinaire de Sa Majesté et de S. A. R. Mgr le duc d'Orléans"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530619393"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84453475/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Versailles,du château,du parc et de ses dépendances"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84453475"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087876q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer  imp. lith. de Coulon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087876q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087849t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de St Germain-en-Laye et de ses environs / levé géométriquement et dessiné par E. G. Hubert ingénieur géomètre  lith. Fleury-Petitjean"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087849t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532474396/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Versailles en relief / Bauerkeller &amp  Cie brevetés"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532474396"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532474663/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Versailles en relief / Bauerkeller &amp  Cie brevetés"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532474663"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087846g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemins de fer de Versailles : rive droite et rive gauche / Ch. Avril, sculp[sit] ; lith. Simon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087846g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84917342/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la forêt de St. Germain en Laye et de ses environs. Echelle de un pour vingt mille / Dressée par Desmadryl jne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84917342"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84405108/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de l'hôtel et parc de Noailles..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84405108"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087578g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan des environs de Limay] / lith. de L. Havard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087578g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087579x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan des environs de Limay] / lith. de L. Havard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087579x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088108d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du parc de Maisons sur Seine : dressé par suite des tracés et lotissemens faits pour la vente par portions d'environs cinq cents arpens... / par J.H. Bellanger,architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088108d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530876725/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du parc de Maisons-Laffitte : réduit d'après le plan général déposé à l'étude de Me Aumont-Thieville, avec addition des maisons, pour servir de guide aux acquéreurs dans le parc / Champion del. ; lith. P. Bineteau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530876725"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233077r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la Ville de Versailles / dressé par Guy Martin,ingénieur géomètre ordinaire des forêts et domaines de la Couronne,d'après une triangulation qu'il a faite en 1839 pour la géodésie exacte des rues de cette ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233077r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060592k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique ou carte d'assemblage des forêts et bois de la couronne composant l'inspection de Versailles / par Guy Martin,géomètre ordinaire"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060592k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087822v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la Ville de Versailles / dressé par Guy Martin,ingénieur géomètre ordinaire des forêts et domaines de la Couronne,d'après une triangulation qu'il a faite en 1839 pour la géodésie exacte des rues de cette ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087822v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087824r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique ou carte d'assemblage des forêts et bois de la Couronne composant l'inspection de Versailles... / par Guy Martin,géomètre ordinaire des forêts et domaines de la Couronne à Versailles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087824r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087943h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la manufacture de Jouy et de ses dépendances"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087943h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087757z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pittoresque de la ville et du parc de Versailles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087757z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84437935/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Comice de Seine-et-Oise. Statistique agricole. Commune de Trappes, canton et arrondissement de Versailles / plan géométrique dressé par J. B. Richard, ingénieur géomètre en chef du cadastre ; L. Richard de Jouvance, ingénieur géomètre de 1ère classe ; gravé par J. Schwaerzlé ; lith[ograph]ie de Lemercier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84437935"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087723x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Comice de Seine-et-Oise. Statistique agricole. Commune de Trappes, canton et arrondissement de Versailles / plan géométrique dressé par J. B. Richard, ingénieur géomètre en chef du cadastre ; L. Richard de Jouvance, ingénieur géomètre de 1ère classe ; gravé par J. Schwaerzlé ; lith[ograph]ie de Lemercier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087723x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530850671/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique des environs de Versailles d'après les cartes du Dépôt de la Guerre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530850671"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085066k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique des environs de Versailles d'après les cartes du Dépôt de la Guerre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085066k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088055r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer de St Germain avec sa partie atmosphérique et les embranchemens [sic] des chemins de fer de Versailles et de Rouen / dressée par Perrot, garde du Génie ; gravé par Delamare ; lith. Bineteau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088055r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087761p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer de St Germain avec sa partie atmosphérique et les embranchemens [sic] des chemins de fer de Versailles et de Rouen / dressée par Perrot, garde du Génie ; gravé par Delamare ; lith. Bineteau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087761p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136055s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Rambouillet / dressée sous la direction A. Pottemain géomètre par P. Bineteau géographe  lith. Bineteau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136055s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53078293z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Germain-en-Laye / par Léon Carle,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53078293z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84423106/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pittoresque de la ville et du parc de Versailles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84423106"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136134w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Versailles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136134w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085064p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pittoresque de la ville et du parc de Versailles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085064p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530850654/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pittoresque de la ville et du parc de Versailles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530850654"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223836c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Société Pallu et Cie. Plan général du parc du Vésinet indiquant les lots... mis en vente..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223836c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029247g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait du plan général du Vésinet,indiquant le parc de la station exécuté et les lots vendus et mis en vente"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029247g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532237343/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général des forêts de Saint-Germain et de Marly / dessiné par Le Paute ; garde général, avec le concours de M. Récopé, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532237343"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439134t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte d'étude (faite pour l'école spéciale militaire / signée de Serres)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439134t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085042z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Saint-Germain-en-Laye / par A.-M. Perrot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085042z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53022695r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des forêts de Saint-Germain-en-Laye et Marly / par A.-M. Perrot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53022695r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444540n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du parc paysagiste et dépendances de la terre de Villequoy situé commune d'Auffargis (Seine-et-Oise) appartenant à M. Ch. Coste 1er déc. 1865 / François Duvillers architecte ingénieur paysagiste  gravé par G. Lorsignol"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444540n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099685x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique des Environs de Versailles d'après les Cartes du dépôt de la Guerre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099685x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030038z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Société Pallu et Cie. Plan général du parc du Vésinet indiquant les lots de terrain mis en vente..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030038z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530857595/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Région de Versailles entre Noisy-le-Roi,Guyancourt,le bois de Verrières et Auteuil.]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530857595"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530847801/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Camps des environs de Versailles]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530847801"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530847769/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs du camp de St Germain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530847769"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006868c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Château de Marly-le-Roy, plan des bâtiments et des jardins de 1676 à 1798 / par L. Avenet ; d'après Guillaumot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006868c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8491736w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tabula Dioecesio Versaliensis c[um] diversis partib[us] pristinar[um] Dioecesium Constitutae,Anno M. DCC. XC... [1 : 200 000 environ] Auctore Ad. Dutilleux,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8491736w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084781g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Camps des environs de Versailles]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084781g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084777r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs du camp de St Germain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084777r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062198f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt domaniale de Rambouillet. Plan général"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062198f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010907j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Mantes au XVIIe siècle,d'après un plan manuscrit aux archives de l'Hôtel de Ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55010907j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853836d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 4,Ecouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853836d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853839r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 7,Poissy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853839r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53242815c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Mantes et ses environs. Extrait de la carte de France à 1/100 000 / dressée par le Service vicinal"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53242815c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439439x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Wideville et ses environs (Seine-et-Oise) 1/10 000 / par l'arpenteur géomètre soussigné : Tonnelier  Revu et corrigé le 1er juillet 1886 par le m.s de Galard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439439x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53023013m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Versailles,extrait de la carte complète de Bieuville,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53023013m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84394855/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Saint-Germain. 1/10 000 / C. Fourel,del. 1887"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84394855"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853852f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 20,Versailles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853852f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108538332/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 1,Triel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108538332"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853845c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 13,S.t Germain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853845c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108538510/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 19,S.t Cyr"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108538510"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108538404/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 8,Maisons"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108538404"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108538584/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 26,Buc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108538584"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853835z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 3,Montmorency"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853835z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853857p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 25,Trappes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853857p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108538639/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 31,Chevreuse"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108538639"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439729k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Germain-en-Laye / par Léon Carle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439729k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53242904w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Versailles en 1889 / dressé par Bieuville,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53242904w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439803p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Versailles en 1889 / dressé par Bieuville..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439803p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443799n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Versailles,du château,du parc et de ses dépendances,avec les noms des rues,places,et principaux bâtimens de la ville,les positions des pièces d'eau,bosquets,allées du parc et de celles qui avoisinent les deux Trianons."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443799n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444565g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Versailles,du château,du parc et de ses dépendances,avec les noms des rues,places,et principaux bâtimens de la ville,les positions des pièces d'eau,bosquets,allées du parc et de celles qui avoisinent les deux Trianons."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444565g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445677b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan des palais de Versailles et de Trianon.) / dressé par l'architecte M. Lambert,10 juin 1891"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445677b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441641g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Vésinet et ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441641g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027986n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Versailles,extraits de la carte complète de Bieuville,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027986n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530290072/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Méthode photo-cadastrale J. Gaultier. Département de Seine-et-Oise,commune de Fontenay-le-Fleury. Septembre 1894"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530290072"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53248120z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Méthode photocadastrale / J. Gaultier,Département de Seine-et-Oise. Commune de St-Cyr-l'Ecole. 1/1 000. Juillet 1894"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53248120z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065171h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'ensemble des propriétés composant le domaine de Voisins appartenant à Monsieur le comte de Fels / Le présent plan dressé et terminé en Avril 1896 par Auguste Besche,Géomètre-Topographe,à Rueil (Seine-et-Oise)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065171h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532507128/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan instantané de Versailles en 1897 / dressé et dessiné par J. Vignal,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532507128"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441196q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des forêts de Saint-Germain,Marly et des environs / par D. Récopé,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441196q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030058s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Versailles et les Trianons / dressé par l'architecte Marcel Lambert"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030058s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063610s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Versailles,extraits de la carte complète de Bieuville,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063610s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530296381/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Région sud-est de la forêt et des environs de Rambouillet,... / par... L. Leddet ; ,... F. Merlet, ,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530296381"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029632b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Région sud-est de la forêt et des environs de Rambouillet... / par... L. Leddet ; ,... F. Merlet, ,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029632b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84457768/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "1899. Versailles. 1899"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84457768"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250810r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Versailles en 1900 / dressé par Bieuville,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250810r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84421961/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Versailles en 1900 / dressé par Bieuville,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84421961"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84422526/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Versailles en 1900 / dressé par Bieuville  le plan historique par Paul Favier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84422526"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250871p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Versailles. Extrait de la carte topographique des environs de Versailles dite Carte des chasses du Roi levée et dressée de 1764 à 1773"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250871p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444688t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des forêts de St Germain,Marly et des environs / par D. Récopé,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444688t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531926810/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Collection Blondel La Rougery. Plan monumental de Versailles,ville,parc,jardin. 1 : 7.000 / G. Peltier,delt."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531926810"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530637033/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chevreuse. Environs de Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530637033"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446691x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan monumental de Versailles..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446691x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064970r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan monumental de Versailles,ville,parcs,jardins : Dressé d'après les documents les plus récents / G. Peltier,delt."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064970r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065024d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte-plan de Le Vésinet,Chatou,Croissy-s. -S.,le Pecq,Port-Marly et des environs. 1/8.000 / Dressé et gravé par Ed. Blondel La Rougery"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065024d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53176833b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville de Versailles / dressé et dessiné par J. Vignal,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53176833b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065081j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte de la forêt de Rambouillet et des massifs environnants / dressée avec le concours de M. Granger inspecteur des Eaux et forêts par E. Girard..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065081j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065097n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Cyr-l'Ecole Zone Nord de Guerre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065097n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064904n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Assainissement de la Seine / Rapport Georges Lemarchand,Louis Peuch,A. Marin et Jean Colly"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064904n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530653250/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan monumental de Versailles,ville,parcs,jardins : Dressé d'après les documents les plus récents / G. Peltier,delt."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530653250"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213358w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Conflans-Sainte-Honorine. Plan général d'aménagement,d'embellissement et d'extension"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213358w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066553f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Région de Paris. Ecole de perfectionnement des officiers de réserve. Année d'instruction 1931-1932"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066553f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458991v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des forêts de St Germain,Marly et des environs / par D. Récopé,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458991v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121201n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte de la forêt de Rambouillet et des massifs environnants / dressée avec le concours de M. Granger inspecteur des Eaux et Forêts,par E. Girard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121201n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531212720/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Paris,dressée spécialement pour les magasins du Bon Marché..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531212720"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531212006/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte de la forêt de Rambouillet et des massifs environnants / dressée avec le concours de Mr Granger,... par E. Girard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531212006"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260688s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Seine-et-Oise. Commune de la Celle Saint-Cloud. 1 : 5.000. Plan topographique régulier... dressé.. en 1945 / par M. Focqué..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260688s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532650546/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Jamboree 1947. Forêt de Moisson"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532650546"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266678f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Seine-et-Oise. Commune de Juziers. 1 : 5.000. Plan topographique expédié... / dressé et dessiné en 1947 par \"Les Géomètres Topographes Associés\"..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266678f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266679w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Seine-et-Oise. Commune de Juziers. 1 : 2.000. Plan topographique régulier / dressé et dessiné en 1947 par \"les Géomètres Topographes Associés\"..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266679w"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

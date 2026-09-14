@@ -1,0 +1,2841 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/38-isere.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Isère (38)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53022780g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Cette carte topographique a 12 lieues de long sur 12 de large. Son centre est le confluent des rivières de Romanche et d'Odole en Dauphiné"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53022780g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030080f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Parties du cours et de la rive gauche du Rhône]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030080f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663580d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Différents projets de tracés de voies pour améliorer la situation des anciens quartiers de la ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663580d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106637572/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Grenoble. Chemin de fer de St Rambert à Grenoble. Gare de Grenoble. Détails : bâtiment des voyageurs,élévation du côté de la cour / Toni-Fontenay"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106637572"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663565t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du siège de Grenoble en 1590 : d'après un bas-relief du tombeau du Connétable de Lesdiguières à la Préfecture de Gap"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663565t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663756m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la place de Mme de St André acquise par Mr. de Grenoble pour y bastir une paroisse et y establir son séminaire pour les Pères de l'oratoire / Bonnefons"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663756m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106637538/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Routes de Lyon à Grenoble et à Valence"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106637538"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663583r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Grenoble. Ouverture de voies centrales"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663583r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106635757/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan,n°1"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106635757"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663576p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Grenoble. Croquis indiquant l'emplacement que Mr. Le Maire croît devoir proposer pour la construction d'un théâtre,entre la place d'armes projettée dans les nouveaux quartiers et la rue de l'ancien gouvernement / Barillon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663576p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445878f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géométrique de la montagne et combe d'Olle pour servir à la limitation des territoires de St-Colomban des Villards en Maurienne et de Vaujany en Dauphiné"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445878f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441378g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441378g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444898w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs d'Uriage / Gravé sur pierre par les f.res Avril"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444898w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84435351/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique du bois appelé Commerd situé sur la commune de Montfalcon appartenant à M. Louis Cotte... mesuré par moi Gilles cadet,géomètre résidant à Viriville,dans le courant de vendémiaire an 14"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84435351"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440794n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Drôme. Ponts et chaussées. Plan servant à faire connaître l'emplacement du pont en bois de treize travées à construire sur la rivière d'Isère à la Roche,route de Lyon à Marseille conformément au détail estimatif en date du 25 floréal an XII [= 15 mai 1804] / [Signé :] Lelage"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440794n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440040p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait des minutes de J. Boiton,géomètre à Grenoble. Grenoble en 1815 et en 1887"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440040p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060353m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométral du domaine de Chanieux à Izeron levé dans le courant du mois de juin 1817 par le géométre soussigné Pilhon fils ainé"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060353m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006709z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométral des bâtiments et jardin situés à Saint-Marcellin appartenant à M. de Boissieu aîné... (19 janvier 1822. Signé : Periollat.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006709z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443536f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la forêt appelée située à Roybon,hameau de la Baty... Ce plan a été levé le 6 et le 7 mars 1822 / par Berruyer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443536f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233219x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'ensemble des Projets de toute l'enceinte de la Citadelle [de Grenoble]. Echelle de 0,002 pour 2 mètres. [1 : 500 Signé : ]. le S. lieutenant de la 7° Compe. d'ouvriers,Faney"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233219x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530068528/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométral du domaine de Monsieur Bouvier à la plaine de Saint-Marcellin,levé dans le courant de février mil huit cent vingt-cinq par le gr S. Pilhou"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530068528"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530067072/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométral du domaine de l'Arthaudière situé sur St-Verand... / levé... en juillet 1825 par Frachon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530067072"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060402g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométral d'une partie des propriétés appartenant à M. Vallier-Collombier situées sur les communes de Murinais et St-Véran / (Signé : le 20 octobre 1828 Perriollat)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060402g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663754q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'une partie du Mont-Rachet près de Grenoble / Anger"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663754q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532507736/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait du cadastre de la commune de Montaud"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532507736"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530353129/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Grenoble : avec ses percés [sic] de rues et des projets d'agrandissement / dressé J.M. Vagnat,architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530353129"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443532s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la pièce de terre que M. Fabre de Saint-Marcellin a vendue au sr Berruyer de Bessin... 4 juillet 1839 / par Binoyet,géotre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443532s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087725t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan et profils des mines d'or de la Gardette dép[artemen]t de l'Isère / levés par Mr Schreiber,ingénieur en chef des mines"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087725t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530877268/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan et profils des mines d'or de la Gardette dép[artemen]t de l'Isère / levés par Mr Schreiber,ingénieur en chef des mines"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530877268"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663572w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Grenoble avec le tracé des nouveaux quartiers tel qu'il a été soumis à l'adoption du Ministre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663572w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442032r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442032r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439838w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Isère"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439838w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532238170/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville de Grenoble avec ses projets d'agrandissement et d'embellissement... / par D. Charpin..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532238170"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084982p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le portraict de la ville de Grenoble dans lequel est le portraict du grand cendre de l'art du pont de l'Isère"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084982p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087528d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Réduction des plans d'ensemble du Cadastre / Détroyat del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087528d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530876045/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble / lith. C. Pegeron"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530876045"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087527z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Réduction des plans d'ensemble du Cadastre / Détroyat del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087527z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087641g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique et hydrographique de la vallée du Graisivaudan et du pays d'Allevard / Lith. C. Pegeron"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087641g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530850904/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département de l'Isère / par M. Emile Gueymard...  réduite et dessinée par M. Hugues-Gabriel Bernard..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530850904"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530880153/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Grenoble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530880153"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530879852/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département de l'Isère / par M. Emile Gueymard, ingénieur en chef des mines... ; réduite et dessinée par M. Hugues-Gabriel Bernard, ancien géomètre du Cadastre... ; grav. et impr. par H. Storck"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530879852"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442177p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etablissement de pisciculture créé en 1849 / par M. le comte de Galbert,à La Buisse (Isère)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442177p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136285s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dessèchement des marais de Bourgoin : plan général / Nadault de Buffon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136285s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439853k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439853k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495569t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Isère,Landes,Jura,Loir et Cher (pl. 10)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495569t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530849834/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Grenoble... reconnu conforme aux plans généraux d'alignement... [1/2 500e environ.] / (Signé) Barrillon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530849834"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663573b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Grenoble en 1868 / Génard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663573b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84692555/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Grenoble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84692555"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8490333z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des travaux de Communay au 22 août 1874... 0m,001 pour 1 mètre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8490333z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443345q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Canal de La Bourne (Drôme)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443345q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106635829/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Premier tronçon de la Voie Centrale destinée à traverser l'ancienne Ville jusqu'à la Place Notre-Dame"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106635829"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106635774/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble / Eléogard Marchand"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106635774"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011130z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble 1885 / Eléogard Marchand,del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011130z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439262g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la ville de Grenoble / par Eléogard Marchand,1884"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439262g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439364n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la commune de Maubec (Isère),1884"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439364n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663578k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la Ville de Grenoble / Eléogard Marchand"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663578k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106635791/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble par circonscriptions médicales"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106635791"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530252975/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte physique,politique et économique du département de l'Isère / par A. Laufrey,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530252975"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025260s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte industrielle de la région arrosée par la Fure,la Morge et l'Ainan / dressée par J.-F. Muzy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53025260s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512530g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le département de l'Isère industriel,agricole et pittoresques / par J. Muzy,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52512530g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011361d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique d'Uriage / dressé par J. Boiton,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011361d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663581v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Premier tronçon de la Voie Centrale destinée à traverser l'ancienne Ville jusqu'à la place Notre-Dame"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663581v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106635846/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble / D.E.J. Boiton  J. Pignarre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106635846"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84410259/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la ville de Grenoble / par Eléogard Marchand"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84410259"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063650f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Isère"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063650f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663585n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble / Eléogard Marchand"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663585n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84407707/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Uriage / Plan dressé par J. Boiton,1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84407707"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106635579/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Vray portraict de la ville de Grenoble : Grenoble au XVIe siècle d'après une estampe du temps dont le dessin fut executé par ordre des Consuls / F. Gauthier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106635579"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663574s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble en 1875 / Delaye,B."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663574s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440528z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble... 1/8 000 / par F. Seytoux,...,1er décembre 1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440528z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440771n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de Grenoble / dessiné par François Meunier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440771n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440773g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de Grenoble / dessiné par François Meunier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440773g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440720b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de Grenoble / dessiné par François Meunier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440720b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530293756/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Département de l'Isère industriel,agricole et pittoresque / par J. Muzy,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530293756"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530293165/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La Vélo-kilometrique,nouvelle carte routière des environs de Lyon et de Grenoble. Savoie et Dauphiné"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530293165"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532603787/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des anciennes enceintes de la ville de Grenoble avec son enceinte actuelle et ses zones de servitudes militaires / Dressé sous la direction de J.-B. Villaret directeur... de la voirie et des eaux  par Adrien Meunier..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532603787"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53119263g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan autos,feuille n° 12 / gravé par A. Léguillon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53119263g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443884j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de Grenoble / par François Meunier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443884j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445815x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Syndicat d'initiative. Plan de Grenoble / dressé par D. E. J. Boiton,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445815x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530633867/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ministère de l'agriculture. Service des grandes forces hydrauliques dans la région des Alpes... Bassin de l'Isère supérieure. Partie comprise entre le Bourg Saint-Maurice et le confluent de l'Arly... 1/50.000 / Carte établie sous la direction de Mr R. de La Brosse,ingénieur en chef..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530633867"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063420f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ministère de l'agriculture. Service des grandes forces hydrauliques dans la région des Alpes. Bassin du Vénéon... 1/50.000. Carte / établie sous la direction de M. R. de la Brosse,Ingénieur en chef..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063420f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532581047/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ministère de l'agriculture. Service des grandes forces hydrauliques dans la région des Alpes... Bassin de l'Isère supérieure. Partie située en amont du Bourg Saint-Maurice... 1/50.000. Carte établie / sous la direction de Mr R. de La Brosse,ingénieur en chef..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532581047"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84454411/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs du camp de Chambarand. 1/80.000. Révision de 1897-1902"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84454411"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266873z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service des grandes forces hydrauliques (Région des Alpes). Tome IV. Annexe II,Nivellements"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266873z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266872h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service des grandes forces hydrauliques (Région des Alpes). Tome IV. Annexe I,Cartes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266872h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532518266/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service des grandes forces hydrauliques (Région des Alpes). Tome V. Annexe [I],Cartes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532518266"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53251827n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service des grandes forces hydrauliques (Région des Alpes). Tome VI. Annexe [I],Nivellements"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53251827n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53251830x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service des grandes forces hydrauliques (Région du Sud-Est). Tome IX. Annexe II,Cartes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53251830x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532518283/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service des grandes forces hydrauliques (Région du Sud-Est). Tome IX. Annexe I,Nivellements"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532518283"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532098484/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Camp de Chambarand"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532098484"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530645976/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Camp de Chambarand"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530645976"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446631n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Champ de tir de Bourg-d'Oisans"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446631n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530650034/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Champ de tir de la Fauge. 1/20.000 / Dressé... et publié par le Service de l'Armée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530650034"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260375w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville de Grenoble... / dressé par Fumet ; et Noiray géomètres ; sous le contrôle de M. Marchand, directeur de la voirie..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260375w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84602524/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble. 1 : 10.000. A. Raffin  Jobert géomètres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84602524"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532132466/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte industrielle de l'Isère"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532132466"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260379p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général des égouts de la ville de Grenoble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260379p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260376b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général d'extension de la ville de Grenoble / dressé par Fumet ; et Noiray géomètres ; sous le contrôle de M. Marchand, directeur de la voirie..., approuvé par décret... du 3 août 1928"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260376b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260386r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Grenoble. Plan d'étude pour l'aménagement des terrains militaires. Rabot et la Bastille. Echelle : 1/1 000 / Dressé en mai 1930 par Raffin ; et Jobert, géomètres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260386r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530666904/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Camp de Chambaran"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530666904"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066659h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble / A. Raffin et Jobert,géomètres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066659h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53070485f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "E. Fonné dess / Ville de Grenoble,1 : 10 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53070485f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663751c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Bastillon de Saint Sixte,quartier de Saint Laurent à Grenoble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663751c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10663752t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Bastillon de Saint Sixte,quartier de Saint Laurent à Grenoble : niveau du sarcophage n°3"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10663752t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260381h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général des canalisations de gaz de la ville de Grenoble... / dressé par L. Noiray géomètre ; sous le contrôle de M. Marchand, directeur de la voirie..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260381h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260382z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général des chaussées pavées et bitulithées de la ville de Grenoble... / dressé par L. Noiray géomètre ; sous le contrôle de M. Marchand, directeur de la voirie..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260382z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532603802/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général des lignes électriques de la ville de Grenoble... / dressé par L. Noiray géomètre ; sous le contrôle de M. Marchand, directeur de la voirie..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532603802"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260377s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville de Grenoble / dressé par L. Noiray géomètre ; sous le contrôle de M. Marchand, directeur de la voirie..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260377s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531749761/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la pêche touristique et sportive dans le département de l'Isère / dressé,par le professeur Léger..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531749761"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532603859/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Grenoble. Plan du parc Paul Mistral / dressé... par A. Raffin ; et Jobert, géomètres..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532603859"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260384v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Grenoble. Plan du parc de l'Ile Verte / dressé... par A. Raffin et Jobert,géomètres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260384v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260383d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général des canalisations d'eau de la ville de Grenoble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260383d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84593394/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Gervais,Val-Montjoie. Carte-itinéraires / par Ch. Vallot,1/60.000. Révisée en 1935"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84593394"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459338q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Gervais,Val-Montjoie. Carte-itinéraires / par Ch. Vallot,1/60.000. Révisée en 1935"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8459338q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121424k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Grenoble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121424k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260490v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble... 600 m600 m"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260490v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84602828/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Grenoble / E. Fonné dess"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84602828"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530574605/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Gervais Val-Montjoie. Carte-itinéraires / par Ch. Vallot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530574605"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53175762d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble Foldex"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53175762d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530576081/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pneu Michelin. Grenoble. 400 m."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530576081"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53294977c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53294977c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53058731v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte structurale du Haut Massif Dauphinois. 10 kms"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53058731v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53197065d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Grenoble Foldex"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53197065d"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

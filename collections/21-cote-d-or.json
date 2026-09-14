@@ -1,0 +1,2197 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/21-cote-d-or.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Côte-d'Or (21)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84942363/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Auxonne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84942363"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495269s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Château et Parc de Ste. Colombe appartenant à Son Excellence le Maréchal Duc de Raguse,... à Chatillon-sur-Seine. Echelle de 2 Centimètres pour 100 Mètres [1 : 5 000 ] / Levé et dessiné par J.M. Carvalho"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495269s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102903x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle Carte topographique et statistique du Département de la Côte d'Or réduite de la grande carte de Cassini / Par MM. de Monfeu et Didot,Ingénieurs en Chef du Département. Revue et corrigée sur les lieux... et terminée en 1820"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102903x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100264h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte topographique et statisque du Département de la Côte d'Or réduite de la grande carte de Cassini / par feu MM. de Monfeu et Didiet,Ingénieurs en Chef du Département,Revue et corrigée sur les lieux par MM. les principaux Ingénieurs géographes et géomètres du Cadastre et terminée en 1820"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100264h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445318f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Castrum Divionense avec ses 33 Tours dans le 8e siècle (Bleu) et celui de la Ville de Dijon en 1696 (Rouge)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445318f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445321x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la Ville de Dijon Et de ses Faubourgs / Dessiné par J. Caumont, Adjoint au voijer de la Ville. Echelle de Cinq Cents Mètres [=Om. 0370 ; 1 : 15 000 env]. Monot scu"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445321x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445320h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la Ville de Dijon Et de ses Faubourgs / Dessiné par J. Caumont, Adjoint au voijer de la Ville. Echelle de Cinq Cents Mètres [=Om. 0370 ; 1 : 15 000 env]. Monot scu"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445320h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445574r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Diocèse de Dijon Echelles... 15. 000 Mètres [=Om. 042 ; 1 : 358 850 env] / Ecrit par Arnoul"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445574r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025048s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle Carte topographique, statistique et routière du Département de la Côte d'Or réduite de la grande Carte de Cassini / par J.B. Noëllat, et dont le 1er tirage a eu lieu en 1820. Revue et corrigée sur les lieux ; d'après les Manuscrits de MR. de Monfeu et Didiet, ... et par MM. les principaux Ingénieurs Géographes et Géomètres du Cadastre pour le 2ème tirage mis au jour en 1828"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53025048s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445841d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Déssèchement de la Vallée de la Brenne. Plan Général de la partie de la Vallée de la Brenne à dessècher et des travaux à exécuter pour son déssèchement / Département de Saône et Loire"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445841d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445319v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville de Dijon et de ses Faubourgs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445319v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84950767/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle Carte Statistique,Administrative,Hydrographique et Routière des 727 communes formant le Département de la Côte d'Or. Dressée sur les lieux en 1833 et dédiée aux habitans du Département / par J.B. Noëllat,Géographe..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84950767"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531194548/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Atlas du Département de la Côte d'Or, 8ème flle. Carte du canton de Semur, Arrondissement de Semur Etablie sur les plans du Cadastre et dressé à l'Echelle de 1 : 60 000 / par F.C. Busset géomètre en chef du cadastre ; Gravé sur pierre par J. Collon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531194548"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525255498/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du canton de Genlis... / F.C. Busset... ; gravé sur pierre par J. Collon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b525255498"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525692k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Canton d'Auxonne / F.C. Busset ; Sculpsit Ch.Avril"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52525692k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495275h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Alise Ste Reine,pour servir à l'intelligence des opérations du siège d'Alesia par J. César,52 ans avant J.C. / levé par les officiers du Corps royal d'état-major pour la nouvelle carte de la France"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495275h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495276x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Alise Ste Reine,pour servir à l'intelligence des opérations du siège d'Alesia par J. César,52 ans avant J.C. / levé par les officiers du Corps royal d'état-major pour la nouvelle carte de la France"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495276x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441441s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plans du quartier St Bernard projeté et en partie exécuté / par A. Lacordaire"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441441s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100061d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Dijon / Dressé par Moulin-Gérardot, géomètre, Pendant les Années 1840 et 1841, en Vertu de la délibération du Conseil Municipal du 15 Xbre 1839, sous l'Administration de Mr. Victor Dumay, Maire ; Mr de Champlouis, Préfet de la Côte d'Or, Pair de France. Echelle d'un mètre pour 200 mètres [=1 : 2 000 ]. Gravé sur pierre ; par Valluet aîné"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100061d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84438018/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Dijon Dressé / d'après celui qui est déposé aux Archives municipales. [1 : 7 000 environ]. Lith. de Fayolle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84438018"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100062v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Dijon Levé de 1836 à 1844. Augmenté d'une partie du tracé du chemin de Fer de Paris à Lyon et de quelques autres projets / publié par les soins de A.L. Lacordaire, Ingénieur Civil et Architecte. 500 Mètres [=Om. 165 ; 1 : 3 000 ] ; Gravé sur pierre par J.B. Valluet aîné"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100062v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531028508/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte topographique, statistique et routière du Département de la Côte d'Or, réduite de la grande carte de Cassini / par J.B. Noëllat, ... ; Revue et corrigée sur les lieux d'après les Manuscrits de MM. de Monfeu et Dioliet... et par MM. les principaux Ingénieurs-Géographes et Géomètres du Cadastre pour le 12e tirage mis à jour en 1847"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531028508"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492630c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'Ancienne et nouvelle ville de Dijon. 400 Pieds de France [=Om. 031 ; 1 : 4 200 ] Le Pautre fecit 1696"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492630c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492631s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Vray pourtraict de la Ville de Diion. 100 toises [= Om. 059 ; 1 : 3 300 environ] / Geometrice depinxit Edouardus Bredin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492631s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84449275/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'Eglise Notre-Dame à Dijon. 75 pieds [=Om. 085 ; 1 : 300 environ]. Chapuy / del"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84449275"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444926r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du palais des ducs de Bourgogne, à Dijon. D'après le dessin conservé aux Archives de la ville / Des. par A. Sirodot, Arch. Ingénieur. [1 : 535 environ] ; Gravé par A.F. Lemaître"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444926r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492633m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet d'aménagement du quartier Nord de Dijon... H. Degré Architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492633m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530848433/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Propriétés Hôpital Chantilly 1852 Domaine de la Côte d'Or / Carte dressée par le Garde Général Collin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530848433"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136313c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tracé oculaire du parcours entre Paris,Troyes,Lyon,St. Etienne et Vienne / par le Chev[ali]er Joseph Bard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136313c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444925b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Dijon avec l'indication des 135 bornesfontaines dressé sur le plan déposé aux Archives Municipales [1 : 7 000 environ] / Lith. de Fayolle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444925b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136312x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan qui indique les modifications résultant du projet restreint / lith. Douïllier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136312x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495575j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Corse,Cher,Corrèze,Côte-d'Or (pl. 5)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495575j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495092b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'Usine de Montzeron,située Comne. de Toutry,Canton de Semur,Département de la Côte d'Or"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495092b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084743q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique des grands vignobles de la Côte d'Or / par J. Lavalle ; dessiné et lithographié à la plume par Ch. Normand"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084743q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84596981/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des environs d'Alaise en Franche-Comté,d'après celui qui accompagne le mémoire de M. Delacroix. 1 : 80.000. - Plan des environs d'Alise Sainte-Reine-en-Auxois (Bourgogne),pour servir à l'intelligence des opérations du siège d'Alésia,... d'après le plan au 20.000 publié dans le Spectateur Mre en 1839,t. XXVIII. 1 : 40.000. - Plateau d'Alise Sainte-Reine-en-Auxois (Bourgogne),d'après le dessin accompagnant le mémoire de M. Maillard de Chambure"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84596981"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223749r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière,vicinale... du département de la Côte d'Or / dressée... par L. Liénard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223749r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532237504/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle Carte topographique, statistique et routière du Département de la Côte d'Or réduite de la grande Carte de Cas sini / par J.B. Noëllat et dont le 1er tirage a eu lieu en 1820. Revue et corrigée sur les lieux ; d'après les Manuscrits de M. de Monfeu et Didiet, ... pour le 12e tirage mis à jour en 1857"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532237504"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8493109j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville de Beaune / Lithographié et publié par Cottelot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8493109j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492629q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Dijon Divisé en ses trois Cantons de Justices de Paix,Avec l'indication des Communes,Hameaux et des principales habitations qui Font partie de chaque canton. dressé sur les documents les plus récents / par Menassier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492629q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53230716f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des vignobles produisant les grands vins de Bourgogne classés pour chaque commune de l'Arrondissement de Beaune suivant le mérite des produits / par les soins du Comité d'Agriculture de l'Arrondissement de Beaune ; Dessiné par Mr. L. Bonnamas,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53230716f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550109548/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte geologique du plateau des Thostes... / par A. Evrard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b550109548"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010849q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte geologique du plateau des Thostes... / par A. Evrard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55010849q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550108399/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Semur (Côte d'or)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b550108399"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495149p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Semur. Echelle de 1 à 150. 000 [1 : 150 000 / Par] E. Bouchard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495149p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495016z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géognostique agricole du Canton de Fontaine-Française, arrondissement de Dijon. 1 : 60 000 / Dressée et publiée par R.E. Gascon, ... ; Gravé chez Avril frères"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495016z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492627w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Dijon de Menassier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492627w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84458437/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Dijon et de ses environs publié / par M.M. H. Degré ; P. Jétot ; H. Joliet ; et le Dr. Lavalle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84458437"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084842n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Côte d'Or. Carte des routes et des chemins de fer / dressée d'après les plans de MM. les Ingénieurs de différentes administrations,par C. Menassier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084842n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84685302/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Dijon. 1 : 80 000 Report sur pierre de la Carte de l'Etat-Major"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84685302"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84698787/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Auxonne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84698787"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84926289/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Dijon dressé / d'après les documents les plus récents"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84926289"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098647t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dijon. Plan d'ensemble / dressé par Len Bonnamas, dessinateur du Cadastre de la Côte d'Or, à l'échelle de 1 : 5 000 ; Gravé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098647t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495190v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France. Côte d'Or / par Adolphe Joanne ; Gravé chez Erhard, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495190v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84951399/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Beneuvre... Plan des fouilles faites en Octobre 1872 par Monsieur le Colonel. .. de Coynart et Monsieur Ernest Léon Lory, .... Echelle de 1 à 1000 / [Par] Ernest Léon Lory ; Commission archéologique du Dépt. de la Côte d'Or"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84951399"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84441171/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Dijon dressé / d'après les documents les plus récents"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84441171"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53230717w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte vinicole (versant Est) de la Côte d'Or produisant les vins fins / par L. Thuillier,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53230717w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525192729/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte vinicole (versant Est) de la Côte d'Or produisant les vins fins / par L. Thuillier,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b525192729"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84451640/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Profil en long géologique de la partie du chemin de fer de Cravant aux Laumes comprise entre Arcy-sur-Cure et Guillon. Echelles Longueurs 1 : 80 000,Hauteurs 1 : 2000 / F. Cuvier del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84451640"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495186z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France. Côte d'Or / par Adolphe Joanne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495186z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530211497/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dijon. Plan d'ensemble / Dressé par Len. Bonnamas Secrétre. greffier du Conseil de Préfecture de la Côte d'Or"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530211497"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495354p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France. Côte d'Or / par Adolphe Joanne ; gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495354p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440320z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Canal de Bourgogne / par R. Vuillaume ; Gravé par A. Simon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440320z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439497c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dijon. Plan d'ensemble / Dressé par Len. Bonnamas Secrétre,greffier du Conseil de Préfecture de la Côte-d'Or..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439497c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530249101/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dijon. Plan d'ensemble / dressé par Len. Bonnamas"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530249101"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530067913/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Semur en Auxois. Côté du couchant. 1721"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530067913"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441729c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Vignoble de la Côte d'Or"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441729c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102702q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Dijon / par F. Goizet,Voyer de la Ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102702q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030014b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Dijon. 1 : 80 000 Revision de 1897"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030014b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84950678/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Relief des environs de Dijon. Extrait de la Carte de France au 1 : 320 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84950678"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442158b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dijon. Plan d'ensemble / Dressé par Len. Bonnamas Ancn. Secretre. greffier du Conseil de Préfecture de la Côte-d'Or. Associé résident de la Commission des Antiquités"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442158b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530607373/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Manoeuvres d'Armée de l'Est en 1904. 1 : 80 000 Feuille A. [Gray-Dijon]. Feuille B. [Gray-Vesoul]. Revisée en 1896"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530607373"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443677q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Côte d'Or"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443677q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84436695/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Côte d'Or"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84436695"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443773d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Nolay / Offert au Syndicat d'Initiative de Bourgogne par le Capitaine Carnot du 130e Regt. d'Inf.ie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443773d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062052q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Dijon / par L[uci]en Bonnamas. 1 : 50 000 ; Gravé par Erhard, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062052q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84450066/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dijon. Plan d'ensemble / dressé par Len. Bonnamas Ancn. Secrétre greffier du Conseil de Préfecture de la Côte-d'Or Associé résident de la Commission des Antiquités"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84450066"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458548g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Beaune. 1 : 150 000 / Dressé par Ed. Blondel La Rougery,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458548g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532097907/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte du réseau dans le Département de la Côte d'Or] / Société Dijonnaise d'Electricité..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532097907"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458714c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique de la Côte-d'Or au 1/320.000 / par M. Louis Collot,juillet 1911... revue et mise à jour en 1926"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458714c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213225x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des vignobles produisant les grands vins de Bourgogne classés pour chaque commune de l'Arrondissement de Beaune suivant le mérite des produits par les soins du Comité d'Agriculture de l'Arrondissement de Beaune,et pour l'Arrondissement de Dijon par une Société de Viticulteurs / dessiné par M. L. Bonnamas..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213225x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066749g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte économique de la Côte d'Or / dressée par M. Peyre... ; éditée par la Chambre de Commerce et l'Ecole Supérieure de Commerce de Dijon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066749g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530667481/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Vignoble Bourguignon. Haute Bourgogne et Beaujolais / Dressée par M. Peyre... ; Editée par la Chambre de Commerce et l'Ecole Supérieure de Commerce de Dijon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530667481"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53070841h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dijon. 1 : 10 000 E. Fonné cartographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53070841h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532604919/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Dijon. 300 m"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532604919"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531771905/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Groupement d'Urbanisme de Dijon. Plan topographique / dressé par le Cabinet Danger..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531771905"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532628741/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Groupement d'Urbanisme de Dijon. 1 : 20.000 / Plan expédié dressé... par le Cabinet Danger,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532628741"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260693z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Manlay. Côte d'Or"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260693z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260552g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte-plan murale de Dijon offerte... / par l'Avenir Publicité"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260552g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530587111/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dijon. 1 : 10.000 / E. Fonné,cartographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530587111"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060869m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dijon. 1 : 10.000 / E. Fonné,cartographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060869m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260665m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Coulmier-le-Sec (Côte d'Or). 1 : 2.000. Plan topographique régulier... / dressé... en janvier 1946 par le Service du Cadastre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260665m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532607455/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nuits-Saint-Georges (Côte-d'Or). 1 : 2.000. Fond de plan topographique... / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532607455"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264959h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Comblanchien (Côte-d'Or). 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264959h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530585118/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pneu Michelin. Dijon. 400 m."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530585118"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53057693h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dijon (8ème édition) / E. Fonné,cartographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53057693h"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

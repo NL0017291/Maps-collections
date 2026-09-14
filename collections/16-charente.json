@@ -1,0 +1,610 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/16-charente.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Charente (16)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027794d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Carte du cours des Eaux claires,entre Rabion et Belle-Roche,au sud d'Angoulème)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027794d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53058271m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Cognac. Château des comtes,tracé sur un vieux plan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53058271m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443943z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Administration des Forêts 26 arrondt. Inspection d'Angoulème. Plan général des forêts domaniales de Braconne et de Bois-blanc,aménagées en 1839 / par M. Antoine Besson,Angoulème,27 février 1841"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443943z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087545w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique et routière du département de la Charente : réduite sur celle dressée d'après les ordres de Mr Larreguy préfet du dép[artemen]t / sous la direction de Mr Landry, voyer en chef ; Tripon del. et litho."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087545w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087676z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique et topographique de la ville d'Angoulême / dressé d'après les plans du Cadastre par Mr Cheneaud  exécuté et lith. par J.B. Tripon lithographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087676z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098545j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique et topographique de la ville d'Angoulême / dressé d'après les plans du Cadastre par Mr Cheneaud  exécuté et lith. par J.B. Tripon lithographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098545j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508714z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Map of the vineyards furnishing the Brandy trade of Cognac with their produces / E. Lacroix"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52508714z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84955744/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Calvados,Cantal,Charente,Charente inférieure (pl. 4)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84955744"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223807k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Angoulême / dressé d'après les plans d'alignement par O. Vinson"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223807k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508738k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Vignoble alimentant le commerce des eaux-de-vie de Cognac / E. Lacroix"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52508738k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223802b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Cognac / dressée par E. Lacroix..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223802b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bd6t5253429r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Cognac / dressée par E. Lacroix..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/bd6t5253429r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441373d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Cognac"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441373d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530830534/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du réseau des Charentes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530830534"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440045r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du monastère de Bassac,dressé en 1641"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440045r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854117q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ars"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854117q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84588510/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géometrique du domaine du Moulin-Neuf appartement à M. Braud... / par Edely,géométre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84588510"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53023020p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Cognac. Les Crus d'eau-de-vie charentaise"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53023020p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439667x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bassin de la Loire et bassins secondaires de la Vilaine,de la Charente et de la Sèvre Niortaise / dressés par A. Vuillemin,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439667x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53248081h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte scolaire de la Charente / publiée sous les auspices du conseil général... ; et dressée sous la direction de M. Espitalier ; par A. Neermann, ,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53248081h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84407633/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "1893. Angoulème, plan indicateur, mis à jour / par A. Peraqui ; dessiné par A. Néermann"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84407633"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065187m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Province de Bassac"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065187m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bd6t545938821/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Feuille charentaise"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/bd6t545938821"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530668937/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne d'Orléans à Bordeaux. Gares d'Angoulême. Etat actuel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530668937"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531215296/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des crus du Cognac..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531215296"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459645w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Angoulème... 500 m"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8459645w"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

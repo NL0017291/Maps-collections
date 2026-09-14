@@ -1,0 +1,886 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/52-haute-marne.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Haute-Marne (52)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062259m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des Forêts et Bois composant l'Inspection d'Arc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062259m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532237610/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de la Haute-Marne / Gravé par Ch. Avril"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532237610"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53258150h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de la Haute-Marne. Echelle de 20. 000 Mètres [=Om. 113  1 : 177 000 env] / Gravé par Ch. Avril"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53258150h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006729s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait du plan cadastral de la Ville d'Arc,Sections F. et D"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006729s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087668f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des vallées de la Marne et de la Blaise dans les cantons de Vassy et de St Dizier pour servir à l'étude des terrains supérieurs de l'arrondissement de Vassy / gravé sur pierre par Ch. Avril  lith. Benard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087668f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446267w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique du parc de Châteauvillain,appartenant à S.A.R. Madame Adelaïde,soeur du Roi. 1 : 5 000 / [Signé : ] Grammaire-Gentil"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446267w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531026153/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Haute-Marne / dressée par A. Mirguet-Matrat,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531026153"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495580v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Manche,Marne,Haute-Marne,Mayenne (pl. 13)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495580v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102616j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Haute-Marne réduit d'après la Carte de l'Etat-Major / par A. Descaves, Architecte du Département. 1 : 240 000 ; Chatelain, lith."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102616j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53024965b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département de la Haute-Marne exécutée sous les auspices du Conseil Général / par MM. E. Royer et J. Barotte, membres de la Société géologique de France ; et publiée de 1859 à 1863 sous l'administration de MM. Girard de Villesaison et Rostan d'Ancezune, Préfets"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53024965b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260393t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Blesme et St. Dizier à Gray. Arrondissement de Langres (de Rolampont à Leffond). Plan et Profil itinéraires / Compagnie des Chemins de fer de l'Est"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260393t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494285k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des usines du Bassin Métallurgique de la Hte Marne / d'après la carte départementale de Mr Descaves"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494285k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84402248/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des principaux terrains de la Haute-Marne / dressée par Mr. Ernest Royer pour la flore de ce département, par MMrs L. Aubriot et A. Daguin. 1 : 320 000 ; Gravé par A. George"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84402248"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441812f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Usines et des Minières en exploitation du Bassin Métallurgique de la Haute-Marne / Publiée par la Chambre de Commerce de St. Dizier d'après la Carte de M. Descaves"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441812f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495254b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des voies romaines du Département de la Haute-Marne 20 Lieues gauloises de 2415 m. [=Om. 094 ; 1 : 513 000 env] / Th. Pistollet de St. Ferjeux del., 1860"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495254b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531026170/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Haute-Marne réduit d'après la Carte de l'Etat-Major 1 : 240 000 / Chatelain, lith ; par A. Descaves, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531026170"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102914s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Est de la France. Meuse,Aube,Marne,Hte. Marne,Ardennes,Seine-et-Marne,Aisne,Oise,Yonne,Seine-et-Oise"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102914s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443172x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Langres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443172x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8469260g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Langres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8469260g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532603948/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Ligne Paris-Bâle entre les Km 229 (avant Clairvaux) et 298 (après Langres)] / Chemins de fer de l'Est"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532603948"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260395q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Blesme à Chaumont. Plan général / Compagnie des Chemins de fer de l'Est"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260395q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84404098/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des fortifications de St. Dizier (1544)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84404098"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84402211/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tableau d'assemblage du Plan cadastral de la Commune de Mussey,Canton de Doulaincourt,Arrondissement de Wassy,Département de la Haute-Marne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84402211"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550113728/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des fortifications de St. Dizier (1544)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b550113728"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84406645/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Bourbonne-les-Bains. 500 [Mètres = Om. 068 ; 1 : 7 350 env] E. Bastien, ... / del"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84406645"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021206m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Haute-Marne réduit d'après la Carte de l'Etat-Major / par A. Descaves,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021206m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440424z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Camp de St-Roch, près de Chaumont. Echelle 200 n. [= Om. 004 ; 1 : 5 000 Par] Est. et Hri. Royer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440424z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84397307/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Langres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84397307"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567925s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la France : Chaumont SE  feuille N°83 / France. Service géographique de l'Armée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567925s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440142v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Chaumont. Echelle de 1 : 4 000 dressé et lithographié / par L. Sédille,architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440142v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441595p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Chaumont dressé à l'échelle de 1 : 4 000 / par Crance,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441595p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495033g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Haute-Marne. 1 : 355 000 / Gravé par E. Guillot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495033g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84443117/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Lingonie. - (Cartes d'une partie de la Bourgogne / dressées avec le concours de M. P. Perrenet ; par Jacques Laurent, pour le Cartulaire de l'abbaye de Molesmes T I. 1907)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84443117"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530196645/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre de St. Dizier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530196645"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019640j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre de St. Dizier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53019640j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265287j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Haute-Marne. Saint-Dizier. 1 : 5.000. Plan topographique régulier établi d'après les levés stéréoscopiques aériens / exécutés par l'Institut Géographique National"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265287j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532668210/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Hoéricourt [Haute-Marne] 1 : 1.000. Plan topographique régulier dressé... / par J. Colas..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532668210"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266699q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Joinville-en-Vallage [Haute-Marne.] 1 : 2.000 / Plan topographique régulier dressé et dessiné par Colas J. et B. ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266699q"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

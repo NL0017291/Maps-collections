@@ -1,0 +1,1254 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/93-seine-saint-denis.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Seine-Saint-Denis (93)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060547r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Château et parc de Stains (Seine). Station du chemin de fer du Nord,ligue de Chantilly à vendre par lots,superficie totale 42b,32a,81a..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060547r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029320w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Canton du Raincy... Commune de Gagny... Vente par lots du parc de Launay"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029320w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030096j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du lotissement du parc du Raincy,... / dressé par M. Frion,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030096j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530606400/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan cadastral de la commune de Bagnolet.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530606400"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060463d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Carte cadastrale d'une partie de la commune de Blanc-Mesnil)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060463d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062103g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Saint-Denis. (Terrains à exproprier appartenant à MM. Zambeaux,Bourgeois,Audray)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062103g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442404t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tous propriétaires par le lotissement du magnifique domaine de Montfermeil-Franceville.. ."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442404t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530068651/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Domaine de Montfermeil-Franceville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530068651"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444658p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du lotissement du parc du Raincy... / dressé par Mrs Lazare  et Lefebre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444658p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8491668h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des bois du Raincy,Livry,Vaujours,Clichy,Coubron et Montfermeil"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8491668h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84437594/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ecluses et bassins du port de Saint-Ouen / (Signé A. Gingembre,.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84437594"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443758q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port et gare de St-Ouen / [par Mongelard,géomètre]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443758q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443762m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port et gare de St-Ouen / [par Mongelard,géomètre]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443762m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443760s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port St-Ouen / (par Mongelard)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443760s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443739c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du territoire de St-Denis (Dépt de la Seine) et du projet de son assainissement... / Levé par Rougeot, 1812 ; revu pour les innovations par Guerin-Hardy, 1831"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443739c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84917008/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'entrepôt de Paris projeté dans le quartier de Tivoli... / d'après les dessins de Mr. Bringol..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84917008"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530874442/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "À vendre en 44 lots les terrains de la cité Saint-Jean par adjudication le 18 juillet 1841... / lith. de P. Bineteau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530874442"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136302h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guide des promeneurs aux environs de Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136302h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136428d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Saint-Denis. Plan du quartier Lanne : Terrains à bâtir à vendre par lots de diverses grandeur / étudié et exécuté par P. Dury, ingénieur architecte ; litho. Plaideux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136428d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136406p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port St Ouen. Emplacement désigné pour l'établissement d'un nouveau marché aux bestiaux / A. Lazare géomètre  gravé sur pierre chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136406p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492839s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des terrains à Pantin,lieu dit Rouvray"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492839s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084991n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique du quartier Livry-Sévigné indiquant les 2 Stations..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084991n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84942986/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique du quartier Livry-Sévigné indiquant les 2 stations. Livry-Raincy (Est) et Sévran-Livry (Nord) / Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84942986"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530210079/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique cotée du département de la Seine... / par M. Delesse..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530210079"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444522q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan de Clichy la Garenne / par Mongelard)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444522q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853843g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 11,Sevran"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853843g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853837v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 5,Le Tremblay"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853837v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108538495/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 17,Bondy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108538495"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439118q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Comité des riverains de la Seine annexe à la protestation contre l'établissement de l'usine de Rio Tinto à St Denis"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439118q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439436p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle distribution des eaux du puits artésien de la déesse dans la ville et la pleine Saint Denis. Plan général des travaux exécutés en 1883"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439436p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84445145/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ile de St Ouen. Terrain à vendre par lots... prix valables jusqu'au 1er janvier 1885"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84445145"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108538421/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 10,S.t Denis"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108538421"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853848q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 16,Pantin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853848q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441561w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan indicateur de Saint-Denis / édité en 1897 par Ate Duval ; et Bécherel, à Paris 35, Bd Bonne Nouvelle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441561w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442013d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Paris en 1900. Plan de lotissement de Montfermeil-Franceville (Seine-et-Oise)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442013d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062329r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Montreuil-sous-Bois. Extrait des plans indicateurs de la Banlieue au"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062329r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006638c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pantin et le Pré Saint-Gervais. Extrait des plans indicateurs de la Banlieue au"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006638c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445002j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Noisy-le-Sec. Extrait des plans indicateurs de la Banlieue au"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445002j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062009s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du lotissement du parc du Raincy / dressé par Mrs Lazare ; et Lefebre, Ingrs géomètres..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062009s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063666j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du chasteau et parc des Rainsys,bassecourt,bastimens,parterres,bois de haute futaye"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063666j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53258121q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Paris-banlieue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53258121q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84586586/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan von Le Bourget"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84586586"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064507g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Saint-Denis. Carte industrielle et commerciale"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064507g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458562r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la commune de Drancy, extrait de la carte \"Banlieue-Paris\" / dressée par Ed. Blondel La Rougery"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458562r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064904n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Assainissement de la Seine / Rapport Georges Lemarchand,Louis Peuch,A. Marin et Jean Colly"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064904n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019636t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre des villes des Lilas,Pré Saint-Gervais"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53019636t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019755k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre des villes de Noisy-le-Sec,Drancy,Pantin,Romainville,Bobigny / dessiné par Lecomte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53019755k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530196662/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre des villes de l'Ile Saint-Denis,Aubervilliers,La Courneuve,Saint-Denis,Saint-Ouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530196662"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066675j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Neuilly-Plaisance"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066675j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066713j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "PLan d'aménagement approuvé par décret du 28 octobre 1932"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066713j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530667140/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Report extrait de la carte du département... des ponts et chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530667140"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063637r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Drancy (décret du 11 décembre 1934). Report extrait de la carte du département en 1/5 000e des Ponts et Chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063637r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53176858d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Blanc-Mesnil (Seine-et-Oise). 1 : 5.000. Plan topographique expédié issu d'une réduction du plan régulier au 1 : 2.000 / dressé en 1942 par Ad. Pontabry,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53176858d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53176471k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville du Bourget. 1 : 2.000 / dressé... par Ad. Pontabry,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53176471k"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/47-lot-et-garonne.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Lot-et-Garonne (47)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530294153/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Lot-et-Garonne,arrondissement de Marmande. Plan de la ville de Marmande"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530294153"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84452131/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du rez-de-chaussée pour l'établissement du tribunal de première instance et la cour d'assise dans l'emplacement de l'ancien palais de Justice et de la maison Daurée à Agen,département de Lot-et-Garonne. Certifié conforme à l'original"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84452131"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084864c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département du Lot-et-Garonne / dressée... par L. de Sevin-Talive..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084864c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136350p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer partant de Tarbes et devant desservir les vallées de la Baïse ou du Gers : avec indication de la déviation du Grand Central sur Aiguillon par la vallée du Lot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136350p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136034h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer partant de Tarbes et devant desservir les vallées du Gers ou de la Baïse : avec indication de la déviation du Grand-Central sur Aiguillon par la vallée du Lot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136034h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84955796/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Lot,Lot-et-Garonne,Lozère,Maine-et-Loire (pl. 12)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84955796"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084865t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte départementale du Lot-et-Garonne... / par M. J. Lacroix..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084865t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444980j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Villeneuve-sur-Lot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444980j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098638v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville d'Agen / dressé en 1874-1875 par H.J. Caury, dessinateur au Service des Chemins vicinaux, avec l'aide de plusieurs documents recueillis pour l'Administration de la Voirie départementale. 1 : 5 000 ; Gravé par J.Geisendörfer, Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098638v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011370c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Château de Madaillan / P. Benouville,del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011370c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53209806k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du canton de Beauville,arrondissement d'Agen,dressée... par L. de Sevin Talive,agent-voyer en chef. 3e édition... / par M. G. Guiard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53209806k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441056v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Agen (Nouvelle édition,revue et completée,1895) / dressé par Caury,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441056v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84436769/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Agen / dressé par M. Metge,1902-1904"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84436769"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84587270/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pratique d'Agen édité par l'Agenda-Annuaire et l'Annuaire Delmas pour les \" Publications Delmas \""
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84587270"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531210638/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique... / dressé en 1941... par MM Danger,au moyen de photographies aériennes prises par la Société générale de Photo-topographie..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531210638"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532666090/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Lot-et-Garonne. Région de Fumel. 1 : 5.000. Plan stéréophotogrammétrique dressé... / par la Société Générale de Photo-Topographie,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532666090"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531926454/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Monsempron-Libos (Lot-et-Garonne) 1 : 2.000. Plan topographique obtenu par agrandissement du plan régulier au 1 : 5.000 antérieurement / exécuté par la \"Société Générale de Photo-Topographie\",..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531926454"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53058012t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pratique de Marmande édité... pour les \"Publications Delmas\""
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53058012t"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

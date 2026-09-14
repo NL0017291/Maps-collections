@@ -1,0 +1,840 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/58-nievre.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Nièvre (58)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027990c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique des bois de la charmée,Bois du Four,l'hâte et Boir Roclose situés sur la commune de Nuards composant la sixième Partie des Propriétés à Monsieur Christophe Bonneau,propriétaire et Md. de bois à Coulange sur Yonne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027990c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84416454/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bourgneuf. - Plan de la forge de Bourgneuf,située dans la commune de Beaumont la-Ferrière... Nièvre. (Signé : J. Des Roches)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84416454"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530647791/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de la Nièvre / dressée en 1830 par N.as Charles ; Edmnd Bussière, fecit, juillet 1831"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530647791"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530353682/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Nevers / Jules Baptiste fecit  Lith. de E. Bussière"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530353682"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84950782/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Nevers. Echelle de 600 Mètres [=0m. 120  1 : 5 000 ] / Jules Baptiste fecit"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84950782"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530366154/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Nièvre : carte routière / A. Morice"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530366154"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530876903/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Nièvre : carte routière / A. Morice"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530876903"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495114g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nièvre. Arrondissement de Clamecy. Carte topographique du Canton de Tannay / [par] Robert,instr."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495114g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53245457f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Compagnie du chemin de fer du Centre. Carte de la partie comprise entre Orléans et Vierzon,Vierzon et Châteauroux,Vierzon et Nevers,dressée par ordre du conseil d'administration..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53245457f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495100f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Clamecy. Abattoir projeté dans le jardin de Mr. Magneins père, et dans une partie du port de M. Cagnat, marchand de bois. Plan général de Choulot, d'une partie de la Ville et de Béthléem renfermé. [1 : 2 000 env]. Lithogr. / par Lenoir, architecte ; Département de la Nièvre, 3e Arrondissement"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495100f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530848829/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de la Nièvre, / dessinée d'après la Carte de l'Etat-Major et les documens les plus récens par Calabre J. ne... ; Gravée par Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530848829"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084883r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de la Nièvre.. . / par Calabre,jeune..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084883r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250767k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la concession des mines de houille de Decize / dressé par MM. Burdin, Riondelet, Damourette ; gravé par C. Avril"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250767k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495582p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Nièvre,Oise,Nord (pl. 15)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495582p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530848846/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique du Département de la Nièvre / d'après les Cartes du Dépôt de la Guerre, par A. Renard... ; gravé par Avril frères"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530848846"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260489g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ponts et chaussées... Navigation de la Loire. Levée de Sermoise. Plan des levées et autres ouvrages de la Loire et du canal latéral existant dans le voisinage des travaux à exécuter... Nevers,le 31 mars 1857"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260489g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530851034/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du Département de la Nièvre.... Dressée par M.M. Bertera,... et Ebray"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530851034"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530832834/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Loire entre le bec d'Allier et la mer..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530832834"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495142s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nevers. Plan et Projets présentés au Conseil Municipal et déposés au Ministère de la Guerre en 1862 par M.A. de Saintemarie : Percement de l'Hôtel de Remigny effectué depuis ces projets  transformation du bas du parc en square pouvant être traversé par les voitures..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495142s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550109476/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guide pittoresque de Pougues-les-Eaux et de ses environs. Kilomètres 20 [=Om. 042  1 : 475 000 env] / Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b550109476"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102636c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte murale du Département de la Nièvre à l'usage des Ecoles. Dressée en 1877... / par A. Renard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102636c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102698r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Clamecy publié... / par Mr. Galliot,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102698r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531026996/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Nevers Revue par Mr. Michel,Voyer Municipal"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531026996"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84417494/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Intaranum. Plan historique de la Ville d'Entrains aux époques gallo-romaine et du Moyen-Age / Amédée Jullien invenit et fecit 1878"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84417494"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495137g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la Ville de Nevers / dressé par L.V. Dumoulin, .... Echelle de 0m. 001 pour 5 mètres [1 : 5 000 ] ; Gravé par A. Simon, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495137g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495138w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Canton de Decize d'après la Carte de l'Etat-Major. 1 : 80 000 / Gravé par E. Sonnet,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495138w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445918h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Château-Chinon [vers 1700],ses Fortifications,ses Monuments et ses Faubourgs / [par] Amédée Jullien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445918h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062244z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale du Département de la Nièvre, / dressée d'après la Carte de l'Etat-Major et complètée d'après les renseignements les plus récents, par L. Roux, Condr. des Ponts et Chaussées ; gravée chez Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062244z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021202t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nièvre / Ministère des Travaux Publics. Direction des Cartes et Plans"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021202t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532394456/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La Nièvre et le Nivernais. Géographie et Topographie historique du Département et de la Province / par Amédée Jullien..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532394456"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532603876/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Cosne à Clamecy. Plan parcellaire des terrains à acquérir dans la traversée de la commune de... / Compagnie des Chemins de fer de Paris à Lyon et à la Méditerranée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532603876"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441163b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Nevers"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441163b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444860f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait du Recueil d'Architecture,Architecture civile. Musée de La Ville de Nevers (Nièvre). Projet de MM. Massillon,Rouvet et H. Schmit,Architectes / Société académique du Nivernais"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444860f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525095205/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Nevers. (Signé : F. Barillet.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b525095205"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029766r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Nevers"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029766r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260716c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt domaniale des Bertranges. 1 : 20.000.. . / Plan dressé par le Service forestier en 1940..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260716c"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

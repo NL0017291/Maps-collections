@@ -1,0 +1,311 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/46-lot.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Lot (46)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100467m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Département du Lot / Dressée par l'Ingénieur vérificateur du Cadastre pour servir au mémoire sur les Antiquités"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100467m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530623037/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département du Lot dressée d'après une délibération du conseil général / par M. Reilhac,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530623037"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440116c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Cahors,chef-lieu du dépt du Lot..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440116c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136034h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer partant de Tarbes et devant desservir les vallées du Gers ou de la Baïse : avec indication de la déviation du Grand-Central sur Aiguillon par la vallée du Lot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136034h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84955796/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Lot,Lot-et-Garonne,Lozère,Maine-et-Loire (pl. 12)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84955796"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084863x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique du département du Lot..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084863x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84917505/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Luzech (Uxellodunum). Plan relief / modelé par Karl Schroeder"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84917505"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443171h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Cahors"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443171h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530633259/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département du Lot / dressée en 1865 par M. Favas,...,rééditée et complétée en... 1885..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530633259"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029451z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département du Lot dressée en 1865 (3e édition revue et complétée... par M. J. Berget,,... avec le concours de M. J. Lagarde,,... et de M. J. Lescale,,...) / par M. Favas,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029451z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532132911/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Cahors. 1/50.000. Revisée en 1908"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532132911"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066916n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gare de Capdenac. Plan d'ensemble (Etat actuel)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066916n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530669190/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gare de Cahors. Plan d'ensemble. (état actuel)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530669190"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/91-essonne.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Essonne (91)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062313n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan parcellaire des lieux dits : Chiens,les Berges,les Coignottes,etc.,territoire de Morangis"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062313n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7711685b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale de la France. 007,[Fontainebleau - Étampes. Nouv. éd.]. N°7. / [établie sous la direction de César-François Cassini de Thury]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b7711685b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53258039b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique des Pièces de Terres appartenant aux Héritiers de la Vve Grandin [sises à Nozay,Seine et Oise]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53258039b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530790584/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Reconnaissance de la position mre (militaire) de l'Yvette et de l'Orge / Beaugendre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530790584"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223803s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique de l'arrondissement communal de Corbeil... / par Alexis Donnet,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223803s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530351939/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte géologique de la vallée de la Remarde (environs de Rambouillet)] / Croissiliot  gravé dans l'atelier de Ch. Avril"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530351939"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530623395/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan parcellaire de terres sises dans le canton de Longjumeau,à Chilly,etc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530623395"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444211w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Longjumeau. La grande prairie. Plan d'une pièce de pré divisée en 3 lots appartenant à MM. les hts Billoin / par Gulchard,géomètre,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444211w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085071r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Maison de campagne placée dans les meilleures conditions... Pension confortable... Vue de la maison... Plan géométrique des jardins. .. S'adresser... à Mme Lecompte à Châtillon-Viry... / gravé par F. Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085071r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233070m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte présentant le tracé du Chemin de Fer de Paris à Orléan avec embranchement sur Corbeil. Dressée par ordre du Conseil d'Aministration sous la direction de Mr Charles Didion,... par Alexis Donnet,... / Compagnie du Chemin de Fer de Paris à Orléans avec ses prolongements"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233070m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492961z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'Ecole impériale spéciale militaire de St. Cyr. Echelle au 1 : 3 500 / V. Pellegrin fecit  Gravé par F. Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492961z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440926h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les Environs de Dourdan,d'après une carte manuscrite de 1743. - Plan actuel de la ville de Dourdan,d'après le cadastre,les plans de la mairie,etc..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440926h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443471j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etampes. Plan de la partie centrale de cette ville en 1873. (Signé : L. Marquis.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443471j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458737c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Domaine de Vilbon appartenant à M. Blondeau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458737c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853866n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 34,Juvisy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853866n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108538673/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 35,Brunoy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108538673"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439263w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Etampes,dressé d'après le plan cadastral et les documents les plus récents (5e édition,mai 1885) / par Léon Marquis"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439263w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108538656/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 33,Palaiseau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108538656"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853864r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 32,Orsay"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853864r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062011m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Corbeil. Plan d'assemblage / dressé par J.-A. Gervaise,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062011m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84401401/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Canton de Longjumeau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84401401"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530279515/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Etampes,dressé d'après le plan cadastral,le plan des chemins ruraux de M. Baudet et les documents les plus récents (6e édition,janvier 1894) / par Léon Marquis"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530279515"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250774n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte agronomique du domaine de Vaucluse à Epinay-sur-Orge (S.-et-O.) / dressée par M. Paul Vincey..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250774n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443951h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Grand lotissement des bois de Beauséjour... à l'entrée de la grande forêt de Sainte-Geneviève... près Juvisy,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443951h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53209949z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Montgeron,canton de Boissy Saint-Léger,arrondissement de Corbeil / Plan dressé par A. Ferret,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53209949z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530668865/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Paris à Orléans. Gare de Juvisy. Plan d'ensemble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530668865"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458645k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Seine-et-Oise... Commune de Savigny-sur-Orge / par Louis Seguin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458645k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066666k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La Ville du Bois. Projet d'aménagement,d'embellissement et d'extension"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066666k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532603268/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer métropolitain. Ligne de Sceaux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532603268"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066887m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Paris à Orléans. Gare de Brétigny. Plan d'ensemble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066887m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264955q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Angervillers. 1 : 2.000. Plan topographique régulier dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264955q"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

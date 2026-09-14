@@ -1,0 +1,1461 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/49-maine-et-loire.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Maine-et-Loire (49)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531026242/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "L'Instruction dans le Département du Maine &amp\t Loire 1858-1867 / J. Manier. - Ch. Maréchal (Typo)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531026242"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84955425/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan historique de la ville d'Angers : avec tous ses changements et embellissements / revue et corrigé par Rudemare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84955425"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8460125w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique de Maine-et-Loire / dressée sous la direction de M. Alard..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8460125w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444290h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Angers"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444290h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84444157/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de Mayenne et Loire, divisé en 8 districts, en 100 cantons, 400 paroisses sans y comprendre celles des villes, 84600 feux / (signé Louis de La Haye.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84444157"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84601321/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du Dépt. de Maine-et-Loire divisé par cantons et arrondissements, indiquant toutes les communes, villages et hameaux, chemins de fer et stations"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84601321"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84400999/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan historique de la ville d'Angers, avec tous ses changements et embellissements / revue (sic) et corrigé par Rudemare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84400999"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84417212/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan historique de la ville d'Angers, avec tous les changements et embellissements / revu et corrigé par Rudemare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84417212"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100578v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait du Plan cadastral parcellaire de la c.ne de Montsoreau à l'échelle de 1 : 2 500"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100578v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53083300v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du cours de la basse Loire, depuis son embouchure jusqu'à Jargeau... pour indiquer la tracé du canal latéral... / par M. Surville, ,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53083300v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087698p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la ville d'Angers / dressé d'aprés les élémens [sic] du Cadastre par Hippolyte Priston géomètre en chef, membre de la société française de statistique universelle ; gravé sous la direction de Bouchard ing[énieu]r géomètre en chef ; gravé par Schwaerzlé"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087698p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10678898k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Départemens français : Loire Inférieure, Vendée, Maine et Loire, d'après Cassini et le dépôt de la Guerre. Bretagne, Poitou, Anjou / Lith[ographie] J. Rigo et c[ompagn]ie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10678898k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013272k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Angers. - Plan gravé d'Angers avec modifications manuscrites pour l'établissement du chemin de fer. (Angers, le 20 mai 1845)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55013272k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530850995/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département de Maine-et-Loire... / par M.M. de Montmarin ; Lechatellier ; et Cacarrié, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530850995"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085098q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département de Maine-et-Loire... / par M. M. de Montmarin \t Lechatellier \t et Cacarrié..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085098q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006825c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Angers pittoresque / par Tardif-Desvaux, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006825c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087896j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géométrique du département de Maine et Loire / dressé [...] par H[ippoly]te Priston géomètre en chef du Cadastre \t lith[ograph]ie de Kaeppelin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087896j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087831t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Loire inférieure / dressée par P. Castaignet conducteur des Ponts et Chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087831t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088161r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer de Tours à Nantes : 3ème section : Partie comprise entre Ingrande et Oudon : Plan général du tracé : Ponts et Chaussées / lith. Charpentier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088161r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530881878/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer de Tours à Nantes : 3ème section : Partie comprise entre Ingrande et Oudon : Plan général du tracé : Ponts et Chaussées / lith. Charpentier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530881878"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530295287/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale des routes royales et départementales et des rivières navigables du département de Maine-et-Loire / dressé par R. Derrien, ,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530295287"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531362560/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de Maine et Loire (Rectifiée en 1853, 3e. tirage) / dressée sous la direction de Mr. Prus,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531362560"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84955796/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Lot, Lot-et-Garonne, Lozère, Maine-et-Loire (pl. 12)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84955796"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085051x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière, historique et monumentale des environs de Saumur / par Louis Raimbault, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085051x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060609c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière, statistique et administrative du département de Maine-et-Loire / dressée... par J.-Bte Fourcault,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060609c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085052c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière, historique et monumentale des environs de Saumur / par Louis Raimbault, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085052c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530832834/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Loire entre le bec d'Allier et la mer..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530832834"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030236t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la ville d'Angers d'après le plan du cadastre modifié conformément à l'état actuel de la ville (Nouvelle édition) / par Abel Duveau, ,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030236t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84393778/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de Maine-et-Loire, indiquant les traces gallo-romaines constatées dans ce département par M. Godard-Faultrier en 1858 / dressée par J.-Bte Fourcault, ,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84393778"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53119545p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan illustré de la ville d'Angers (1ere éd.) / dressé par C. Saint-Gorgon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53119545p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84454285/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la ville d'Angers, d'après le plan du cadastre, modifié conformément à l'état actuel de la ville (Nouvelle édition) / par Abel Duveau, conducteur des ponts et chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84454285"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085100s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département de Maine-et-Loire, dressée sur les documents fournis par le Service des mines"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085100s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085053t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait de la carte de France au 80 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085053t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084962v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la commune de Brain-sur-l'Authion / dressé par Adolphe Gourdon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084962v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84593913/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale des ardoisières d'Angers et de Trélazé / dressée par Alexis Boisnard..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84593913"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440686r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les grandes Industries de l'Anjou. Industrie ardoisière de Maine-et-Loire. Carte générale des ardoisières d'Angers et de Trélazé / dressée par Alexis Boisnard... 1874"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440686r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098653f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique d'Angers avec les changements et les accroissements projetés pour l'embellissement de la ville / par A. Aivas, architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098653f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530849389/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte itinéraire des environs d'Angers..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530849389"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530850582/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Thouarcé (2e éd...) / par Louis Raimbault,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530850582"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53119595r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique d'Angers avec les changements et les accroissements projetés pour l'embellissement de la ville / par A. Aivas, architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53119595r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440135q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Saumur, dressé par l'architecte soussigné Saumur, le 9 mars 1879. E. Raffay"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440135q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084939r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Angers. Plan dédié au 77e Rt de Ligne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084939r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021085q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et vicinale du département de Maine-et-Loire... / par A. Goblot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021085q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530229898/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de Maine-et-Loire et ses environs / par L.-A. Pointeau,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530229898"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439411v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Maine-et-Loire. Chemin de fer d'intérêt local d'Angers à Baugé et à Noyant. Etude de variantes dans le tracé entre Angers et Trélazé..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439411v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53061896v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bellière. - Mine de la Bellière. Plan d'ensemble des installations d'ensemble et du jour"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53061896v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530277556/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Angers et de ses environs, avec indications des altitudes... / dressé par A. Moreau, fils, 1890"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530277556"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53028043k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Angers / dressé par M. E. Morel, ,... 1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53028043k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84406719/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Angers (Environs d')"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84406719"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442181k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Angers / dressé par M. E. Morel, ,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442181k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441552x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière de Maine-et-Loire, à l'usage des touristes cyclistes, indiquant les principales pentes, les endroits dangereux et les localités curieuses à visiter / dressée par L. Fuseiller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441552x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84416061/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Angers / dressé par M. E. Morel, ,... 1897"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84416061"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029639g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique de Maine-et-Loire / dressée sous la direction de M. Alard, ,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029639g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443277b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Saumur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443277b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060335p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Angers 1/80.000. Revision de 1894"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060335p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53174959j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du réseau des chemins de fer de la Compagnie d'Orléans"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53174959j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063731f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière des environs de Saumur, à l'usage spécial de MM. les officiers de l'Ecole de cavalerie... / dressée d'après les documents fournis par l'Etat-major, l'administration des ponts et chaussées et le service des chemins vicinaux par E. Milon, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063731f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530669084/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gare de Saumur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530669084"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066621p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Saumur (Est-Ouest)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066621p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019697r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre de la ville d'Angers"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53019697r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019750b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre de la ville d'Angers"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53019750b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060411f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Saumur. Extrait de la carte de France au 50 000e du Service géographique de l'armée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060411f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066910z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gare d'Angers / Chemins de fer de Paris à Orléans"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066910z"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

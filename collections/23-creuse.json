@@ -1,0 +1,403 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/23-creuse.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Creuse (23)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530790673/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dépt. de la Creuse ([Reprod. en fac-sim.])"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530790673"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250832g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte itinéraire du département de la Creuse. An 1809 / Fait et dressé par l'ingénieur en chef... P.-J.-M. Du Planier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250832g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100559g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Département de la Creuse indiquant avec Exactitude la position des Communes, les limites des Cantons, le cours des Rivières, l'Emplacement des forêts de l'Etat, Etangs, Marais, Eaux thermales, etc. et le tracé des Routes royales, départementales, communales de 1er ordre, avec le mètré de ces routes de kilomètre en kilomètre... / par Potier, Géomètre en Chef du Cadastre. Echelle de 1 : 100 000 ; Gravé par Blondeau, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100559g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84432120/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Creuse : ponts et chaussées. Plan général des traverses dans la ville de Guéret des deux routes royales... d'Uzerches à Montargis et... de Clermont à Poitiers, dressé d'après les ordres de M. le Directeur général des ponts et chaussées pour faire connaître l'ensemble des deux traverses / (Signé A Guéret ; le 2 mai 1826, l'ingénieur en chef du département Callier.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84432120"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567670g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guéret"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567670g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495576z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Côtes-du-Nord,Creuse,Dordogne,Doubes (pl. 6)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495576z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530229574/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Creuse. Ponts et chaussées. Route départementale n° 1 de Tulle à La Châtre et routes impériales nos 141 et 142 de Clermont à Saintes et à Poitiers. Arrondissement du Sud. Avant-projet des travaux à exécuter pour garantir la ville d'Aubusson contre l'envahissement des eaux des ruisseaux du Fôt et de l'Ouchette. Plan d'une partie de la vallée du ruisseau du Fôt,pour servir à déterminer l'emplacement des réservoirs projetés dans cette vallée,1/2.500 / dressé par... Chénaud,Aubusson,le 27 août 1860"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530229574"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443954r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan figuré des ruines du château de Crozan (Creuse) : 29 août 1861 / C. Pensée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443954r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532237521/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Creuse indiquant les limites... / dressée... par Adenis..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532237521"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063689q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Creuse... / dressée... par Adenis,agent-voyer en chef"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063689q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530847551/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bassin houiller d'Ahum. Plan général. Bassin houiller de Bostmoreau... Bassins houillers de Bouxogles et Mazuras..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530847551"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458852d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Expertise : différend entre MM. Murat de Guillebaud,Jacques,de Saint-Yriex la Montagne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458852d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53023038p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et vicinale du département de la Creuse... / par M. Darfeuille,1884"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53023038p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443213d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Creuse. Plan de la ville de Guéret levé en 1806. (Signé : l'Ingénieur en chef du département de la Creuse,Callier.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443213d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060653r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Creuse,d'après la carte du ministère de l'Intérieur,... / par H. Roux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060653r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060473t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Camp d'instruction de La Courtine"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060473t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064938p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et vicinale du département de la Creuse / dressée en 1884 par M. Darfeuille ; et mise à jour... par M. Veyronnet,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064938p"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/36-indre.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Indre (36)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443196b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Vendoeuvres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443196b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530352603/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la partie de Château-Robert située sur la commune de Vendoeuvres / gravé par Ferdinand  lithographie de Desportes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530352603"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035139h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de l'Indre réduite du cadastre / et publiée par Salviat libraire à Châteauroux  Lith. de P. Bineteau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035139h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567666r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Aigurande"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567666r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53245457f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Compagnie du chemin de fer du Centre. Carte de la partie comprise entre Orléans et Vierzon,Vierzon et Châteauroux,Vierzon et Nevers,dressée par ordre du conseil d'administration..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53245457f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136429v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Châteauroux / par le m[aréch]al des logis Faure  gravé par F. Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136429v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531025739/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de l'Indre publiée sous les auspices de Mr. H. Sohier, Préfet / par Ad. Nuret, ... avec le concours de MM. les Agents Voyers sous la direction de ; M. Le Grand, Agent Voyer-en-Chef. 1 : 200 000 ; Gravé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531025739"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223756t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte murale du département de l'Indre... / dressée par H. Soulette,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223756t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010905n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de l'Indre / par H. Soulette"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55010905n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53248176q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique du département de l'Indre... / dressée par H. Soulette,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53248176q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550109063/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de l'Indre / publiée par A. Aupetit,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b550109063"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84415570/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "L'Indre kilométrique"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84415570"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441508h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "L'Indre kilométrique"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441508h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530606385/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Châteauroux. Revision de 1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530606385"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532651390/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville d'Ecueillé. Département de l'Indre. 1 : 2.000. Plan topographique régulier / dressé... par M. Dubois,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532651390"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

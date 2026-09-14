@@ -1,0 +1,863 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/61-orne.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Orne (61)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011362v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des deux cantons d'Alençon. Association française"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011362v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100330v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la commune de la Chapelle Biche, Département de l'Orne, Arrondissement communal de Domfront, canton de Tinchebray. Levé en exécution de l'Arrêté du Gouvernement du 12 Brumaire An 11, terminé le 20 Thermidor. An 12 / par le Cn. Vallée, géomètre en Chef ; et le Cn. Morel, arpenteur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100330v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84458274/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Orne,décrété le 25 janvier 1790 par l'assemblée nationale... / Doudan,fecit"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84458274"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530280011/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Alençon,avec les projets et les alignements... / Godard,del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530280011"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530353091/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte extraite du cadastre du département de l'Orne : Territoire de Saint Vandrille les Bois et de Ferrières la Verrerie] / N. Colliard compo[siteu]r autog[raph]e"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530353091"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035230v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte extraite du cadastre du département de l'Orne : Territoire de Ferrières la Verrerie] / N. Colliard compo[siteu]r autographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035230v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035238f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte extraite du cadastre du département de l'Orne : Territoire de Ferrières,Laguyon,La Mouchevalerie,Le Moncet,La Croix,etc.] / N. Colliard comp[ositeu]r autog[raph]e"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035238f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105676498/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Alençon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b105676498"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087882b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte communale du département de l'Orne / dressée par J. F. Beuzelin ancien géomètre du cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087882b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84955833/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves (pl. 16) : Orne,Pas-de-Calais,Puy-de-Dôme,Basses-Pyrénées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84955833"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53083160k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Grand étang de Vrigny (Orne) et ses abords"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53083160k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530833288/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la rivière d'Orne et du canal entre Caen et la mer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530833288"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084892q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service vicinal,Carte routière du département de l'Orne... / par M. Lévéque..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084892q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085019v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la propriété de Mme Vve Blanchet,née Besnard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085019v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53083329q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la rivière d'Orne et du canal entre Caen et la mer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53083329q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53020921h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Alençon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53020921h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854126p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Mortagne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854126p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530231560/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "I. Plan de l'embouchure de l'Orne. 1/20 000. II. Plan de l'avant-port d'Oyestreham"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530231560"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440303f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Percement d'une avenue du centre de la ville de Gacé à la gare]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440303f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441574h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Bagnoles et des environs / dressé par A. Lory,,... 1897"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441574h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532507808/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de l'Orne / dressée par M. L. Le Chevallier..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532507808"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441683t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Alençon,1898 / dressé par A. Marais,vérifié et augmenté en 1898"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441683t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029653m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la rivière d'Orne et du canal entre Caen et la mer,1898"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029653m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029746x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte agronomique du canton de Sées établie sur l'initiative de MM. Loutreuil,... et Hommey,... / par M. le Dr Joseph Hommey ; pour la partie géologique et M. Langlais, ,. .. pour la partie agronomique. Mai 1899"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029746x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445740n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la station thermale de Bagnoles-de-l'Orne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445740n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060452j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Alençon. - Plan d'Alençon... 1904"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060452j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530645296/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Alençon. Révisé en 1894-99,1905"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530645296"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53209931z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Alençon. 1/50.000. Révisé en 1894-99,1905"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53209931z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530648690/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Environs de Bagnoles-de-l'Orne] / Dressé et dessiné par O. Alleaume"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530648690"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530665683/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Alençon,dressé... d'après les documents les plus récents"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530665683"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84585561/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Alençon,dressé... d'après les documents les plus récents"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84585561"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84586764/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département de l'Orne / par A. Bigot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84586764"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066576m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Station thermale de Bagnoles-de-l'Orne. - Bagnoles de l'Orne et ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066576m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066556s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la forêt domaniale d'Ecouves / dressée avec le concours de M. Granger par E. Girard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066556s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213317s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Alençon... révisé en 1894-99,1905"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213317s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53174966m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Argentan. 1 : 5.000. Plan topographique régulier dressé... en 1946 / par Ad. Pontabry..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53174966m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192738f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Orne. Ville de Briouze. 1 : 2.000. Plan topographique régulier dressé et dessiné en 1949 / par M. Ad. Pontabry,... Vérifié le 5 avril 1950..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53192738f"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

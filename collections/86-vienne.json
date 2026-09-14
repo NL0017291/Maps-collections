@@ -1,0 +1,748 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/86-vienne.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Vienne (86)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84397552/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Galliae christianae provincia ecclesiastica Viennensis,continens direceses Viennensem,Gratianopolitanam,Valentinensem,Gebenneusem,Diensem,Vivariensem,Maurlanensem,Camberiacensem"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84397552"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442023s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Vienne ancienne et moderne réduit et lithographié... / par Ene Rey,avec tous les changements survenus jusqu'en 1819"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442023s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530352855/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de Poitiers / Desminières"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530352855"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530336672/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de Poitiers / Desminières"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530336672"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087477n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique et archéologique de Poitiers dressé sur le plan original du cadastre de 1840 / Mémoires de la Société des Antiquaires de l'Ouest  lith. de Pichot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087477n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530999496/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique et archéologique de Poitiers dressé sur le plan original du cadastre de 1840 / Mémoires de la Société des Antiquaires de l'Ouest  lith. de Pichot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530999496"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030138b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique et archéologique de Poitiers dressé sur le plan original du cadastre de 1840 / Mémoires de la Société des Antiquaires de l'Ouest  lith. de Pichot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030138b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087441q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait du plan de la ville de Poitiers : Projets de rues et de place publique à ouvrir..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087441q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088064q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique levé à l'échelle de 1:5 000 de la ville Vienne (Isère) / par AD. Apté directeur de l'école régiment[ai]re,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088064q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84431985/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de Poitiers dressé sur le plan original du cadastre,1846"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84431985"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440366z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Poitiers. Achille Piqst fecit"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440366z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025340b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "1860. Nouvelle Edition du plan topographique et archéologique de Poitiers,dressé sur le plan original du cadastre de 1840,comportant toutes les rectifications et améliorations qu'il a subies depuis cette époque"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53025340b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099950k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "1860. Nouvelle Edition du plan topographique et archéologique de Poitiers,dressé sur le plan original du cadastre de 1840,comportant toutes les rectifications et améliorations qu'il a subies depuis cette époque"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099950k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530851106/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique et agronomique du département de la Vienne... / par M. A. Le Touzé de Longuemar..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530851106"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100059k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte monumentale du Département de la Vienne par Mr de Longuemar,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100059k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53024900m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Châtellerault,1876"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53024900m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530211747/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Poitiers / dressé à l'échelle de 1/3 000, par M. C. Grange, agent-voyer en chef du département, 1882 ; Atlas général de la Vienne publié par L. Chanche"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530211747"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025027h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville de Vienne,avec les faubourgs,la banlieue et la commune de Ste-Colombe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53025027h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063687t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale,administrative et vicinale du département de la Vienne / dressée à l'échelle de 1/160.000 par C. Grange..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063687t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84402337/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Temples et puits de Mercure (Poitiers) / C.C. s.j."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84402337"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440114j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Poitiers. 1/40 000 / (Signé de Bournonville)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440114j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84414604/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de Poitiers"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84414604"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441459g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Poitiers,avec les nouveaux changements de rues"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441459g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060392t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Poitiers. Revisions de 1892,93,94"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060392t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530757016/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Jardins,espaces verts dans le Poitiers de la fin du XVIIe siècle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530757016"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53209820q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Champ de tir de Biard. 1/20.000 / Dressé... et publié par le Service géographique de l'Armée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53209820q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213265k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Poitiers et environs Est,levés de 1922-25-26 et 27"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213265k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532132644/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Poitiers et environs,levés de 1922-25-26 et 27"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532132644"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532132661/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Poitiers et environs,levés de 1922-25-26 et 27"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532132661"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066892s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Tours à Bordeaux. Gare de Poitiers"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066892s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532668640/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Poitiers et environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532668640"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53195616c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Poitiers"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53195616c"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

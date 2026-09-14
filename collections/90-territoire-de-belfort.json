@@ -1,0 +1,472 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/90-territoire-de-belfort.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Territoire de Belfort (90)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531027393/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de Belfort et de ses environs pour suivre les opérations du siège. 1 : 20 000 / Gravé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531027393"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52513820j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique de Belfort et de ses environs avec indication des travaux du siège 1870-1871"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52513820j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53033013x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte über den Gebietsaustausch an der deutsch französischen Grenze in folge des zu Frankfurt am 10 Mai 1871 geschlossenen und am 20 Mai ratificirten Friedensvertrages / Nach französischen Originalquellen zusammengestellt von H. Kiepert. Theil des Arrondissements Briey im ehemaligen Hergothum Lothringen...Theil des ehemaligen Departements Haut-Rhin..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53033013x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494998m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Belfort et ses environs pendant le siège de 1870-71. Echelle en mètres. 5000 [=Om. 125 ; 1 : 40 000 ] / Dressée par A. Haffner, ... ; Gravé par A. Martin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494998m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53083103f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte indiquant le Chemin de fer de Belfort à la Suisse"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53083103f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021033r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Belfort"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021033r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021235d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Belfort / Par M.J. B. Schmitt,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021235d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029631w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte scolaire du Territoire de Belfort publiée / par les soins de la Délégation cantonale du Canton de Belfort. [1 : 40 000 ]  Dressée par P. Koehler"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029631w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443276x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Belfort. 1 : 80 000 Revision de 1896"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443276x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445396n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Doubs et Territoire de Belfort"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445396n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063511v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les principaux camps retranchés de la Seine au Rhin, avec les environs de Berlin. Camp retranché de Metz-Thionville, ... de Paris, . .. de Strasbourg, 1 : 200 000 Anvers 1 : 250. 000. Namur, Liège, Cologne, Coblentz, Mayence, Verdun ; Toul, Berlin et ses abords, Epinal, Belfort, 1 : 150. 000 / René Brouzé, cartographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063511v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446145z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Doubs et Territoire de Belfort"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446145z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10111244s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Haut-Rhin et Territoire de Belfort : carte physique, démographique et administrative, économique et touristique / dressée par H. Thubet... ; dessinée et mise sur planche par Ch. Schott"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10111244s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066599s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Haut-Rhin et Territoire de Belfort. Carte physique, démographique et administrative, économique, touristique... / dressée par H. Thubet... ; dessinée et mise sur planche par Ch. Schott"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066599s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066632j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Belfort. 1 : 80 000 Revisions de 1913 et 1927"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066632j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264957m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Beaucourt (Territoire de Belfort). 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264957m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264979b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Delle (Territoire de Belfort). 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264979b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531926007/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte guide \" Tourist \" Territoire de Belfort et pays de Montbéliard / Editée sous le patronage du Syndicat d'initiatives de Luxeuil-les-Bains, 10 kms"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531926007"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192757t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte guide \" Tourist \". Territoire de Belfort et pays de Montbéliard / éditée sous le patronage de la Chambre de Commerce de Belfort"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53192757t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53058005r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Lure-Belfort"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53058005r"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4658 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/13-bouches-du-rhone.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Bouches-du-Rhône (13)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530277304/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan routier de la ville et faubourg de Marseille / levé par Campen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530277304"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530230377/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique et hydrographique du port,de la ville et des environs de Marseille / publié,par Auguste Logerot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530230377"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029272g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Canal du Verdon. Plan du territoire de la commune d'Aix,avec l'indication des principales dérivations du canal... / dressé par l'ingénieur des ponts et chaussées T. de Tournadre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029272g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060295s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bouc [Plans du nouveau port de Bouc]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060295s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027574t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille. - Plan à l'appui de la proposition de M. Mirès"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027574t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030080f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Parties du cours et de la rive gauche du Rhône]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030080f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10679893p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général d'agrandissement du port de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10679893p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443368q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ile de la Camargue. Département des Bouches-du-Rhône"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443368q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530603525/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Marseille indiquant en retombée les différents projets de docks soumis aux enquêtes. Annexé au projet de docks de MM. Thérond et Maurel / présenté par M. Eugène Flachat,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530603525"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439145m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du port de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439145m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440711c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Carte du golfe de Fos et des étangs voisins,avec tracé du projet de canal d'Arles à Bouc.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440711c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442082n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Marseille avec un projet d'agrandissement et d'embellissement. 1804"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442082n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532728589/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etat nominatif des batteries de côte dépendantes de la Direction de Toulon depuis Cassis jusqu'au Cap Sicié"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532728589"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53272857v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etat nominatif des batteries de côte dépendantes de la Direction de Toulon depuis Cassis jusqu'au Cap Sicié"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53272857v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53272859r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etat nominatif des batteries de côte dépendantes de la Direction de Toulon depuis Cassis jusqu'au Cap Sicié"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53272859r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532779446/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la côte et des îles des environs de Marseille / Dressée au Dépôt des Cartes et Plans de la Marine ; d'après les plans levés par les Ingénieurs des Camps et Armées en 1777 et 1778 assujettis aux triangles de la carte de France ; et aux opérations trigonométriques faites par St. Jacques-Sylvabelle, Bernard, Garnier et Thulis de l'Académie de Marseille [...], 1792"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532779446"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53272856d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etat nominatif des batteries de côte dépendantes de la Direction de Toulon depuis Cassis jusqu'au Cap Sicié"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53272856d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029736h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan routier de la ville et faubourg de Marseille / levé par Campen  et gravé par Denis Laurent en 1808"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029736h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532331433/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Prospectus. Planche 2°. Etendue et Principal trait du Plan Topographique de la Ville de Marseille et d'une partie de son Territoire levé sur l'Echelle de un à Mille avec tous les Details de ses Maisons de Campagne ou Bastides et avec les Plans particuliers de son Lazaret, de son Jardin Imperial de Botanique et en Général de tous ses principx. monuments et edifices. Commencé sous Mr Charles Delacroix Prefet du Département des Bouches du Rhône et terminé en 1808... / par P. Demarest... Echelle de Cinq Cents Mètres [=Om. 100 ; 1 : 5 000 ] ; Gravé par Chamoin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532331433"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532507681/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Prospectus. Etendue et principal trait du plan topographique de la ville de Marseille et d'une partie de son territoire... commencé sous M. Charles Delacroix,préfet du dépt des Bouches-du-Rhône,et terminé en 1808... / par P. Demarest,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532507681"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84423210/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Sondes du port de Marseille à l'époque du 1er septembre 1809... Présenté par l'ingénieur en chef soussigné (à Marseille le 1er septembre 1809,Sigaud)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84423210"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441923k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Sondes du port de Marseille à l'époque du 1er juin 1810... par l'ingénieur en chef de 1re classe soussigné : Sigaud. Marseille,le 1er octobre 1810"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441923k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53163321s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Inspection des côtes de la Méditerranée depuis Cavalaire jusqu'aux Bouches du Rhône : description des villes,plages,caps [...] depuis Cavalaire jusqu'à L'Estaque dans la baye de Marseille. 2me station / 5me Commission"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53163321s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53277943r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Etat nominatif des batteries de côte depuis celle de Niolon jusqu'à celle de Riou] / Ce tableau a été communiqué par le Dépôt des Fortifications"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53277943r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84434667/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'un projet de port pour que les bâtiments puissent aborder par tous les airs (sic) de vent,... par J. Guimet,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84434667"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444983s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444983s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84439629/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte physique du département des Bouches du Rhône / par MM. Toulouzan et Nègrel Féraud fils"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84439629"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121096v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Marseille et de ses faubourgs... / gravé par Vicq"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121096v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530228675/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des iles de la rade de Marseille et du Port Dieudonné destiné à la quarantaine des navires provenant des pays infectés de la fièvre jaune / levé et dessiné par... H. Garella"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530228675"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063684g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Marseille et de ses faubourgs..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063684g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440204h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Fos et de ses environs,où sont indiqués les emplacements des villes anciennes : Maritima Avaticorum Stomalimne,Fossae Marianae,et les camps retranchés de Marius,1825 / levé par M. Matheron,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440204h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52504088m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique du cours du Rhône depuis Tarascon jusqu'à la mer..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52504088m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530277126/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Marseille et de ses faubourgs,avec les plans particuliers de son lazaret,de tous ses principaux monuments,édifices et endroits remarquables. 1828"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530277126"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84431918/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Marseille et de ses faubourgs..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84431918"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444577p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille réduit du plan / levé en 1808 par M. Démarest  avec les changements opérés jusqu'en 1830... Dessiné sur pierre par Honoré Thibaut"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444577p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84922656/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la rade de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84922656"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53277902n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la rade de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53277902n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062211c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille,de ses faubourgs et bastides... donnant tous les changemens qui ont eu lieu jusqu'à l'année 1831"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062211c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530996920/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Marseille et de la totalité de son territoire. Réduit du plan cadastral parcellaire de la dite commune à l'échelle de 1 mètre pour 25, 000. Commencé en 1819, terminé en 1821 et publié en 1830. Sous les auspices de Mr. le Comte de Villeneuve, préfet du dépar.t des Bouches-du-Rhône,... / et sous la direction de Mr. Royer Dupré,... et de Mr. Dieuset,... directeurs des Contributions directes et du Cadastre ; et de Mr. Delavau, géomètre en chef,... ; Par Mr. Mr. les Géometres du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530996920"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492538b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Marseille de ses Faubourgs et Bastides Donnant les Plans détaillés de son Lazaret,Principaux Monumens et Endroits remarquables / Dressé par Vicq,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492538b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445749c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Marseille 1830 / Dessiné par P. Matheron,J. J. B. du B. dirext Lutetiae,1833"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445749c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530353252/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet de chemin de fer [de St Cannat à Marseille] / Lithographie de Griolet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530353252"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440352x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan indiquant tout (sic) les monuments anciens et moderne (sic) de la ville d'Arles / dressé par Pélissier,septembre 1834"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440352x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035396d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Marseille et d'une partie de son territoire : avec toutes les nouvelles rues en construction qui ont eu lieu jusqu'à l'année 1836 / dessiné et rectifié par Ph. Jarry  lithographié par H[ono]ré Thibout"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035396d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035338t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Marseille et des environs contenant les projets de docks, de canaux maritimes et de port militaire / dressés par Alexandre Corréard ingénieur civil ; autographié par E. Bergier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035338t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442461v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille,de ses faubourgs et bastides,... / dressé par Vicq,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442461v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035322q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'une partie de la ville de Marseille avec les tracés de trois projets de dock / N. Desmadryl sc[ulpsit]  Lith. de Castille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035322q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530353809/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille,de ses faubourgs et bastides : avec les plans détaillés de son lazaret,principaux monumens [sic] édifices et endroits remarquables,donnant tous les changemens [sic] qui ont eu lieu jusqu'à l'année 1837 / gravé par Vicq"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530353809"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035324m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Marseille / dessiné et rectifié par Jh Jarry  lithographié par H[ono]ré Thibout et Poize Fils"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035324m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035229g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille,de ses faubourgs et bastides : donnant les plans détaillés de son lazaret,principaux monumens [sic] et endroits remarquables / dressé par Vicq"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035229g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10679895k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'une partie de la ville de Marseille avec les tracés de trois projets de dock / N. Desmadryl sc[ulpsit]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10679895k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84419722/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique des communes d'Arles et des Stes-Maries (département des Bouches-du-Rhône) / dressée par Gme Véran,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84419722"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84413542/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Marseille / dessiné et rectifié par Jh Jarry"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84413542"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84423440/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Marseille,1837 / dessiné et rectifié par Jh Jarry"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84423440"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025028z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille. - Département des Bouches-du-Rhône. Service des ports maritimes. Etudes des travaux d'amélioration du port de Marseille. Plan général du port et de la passe,indiquant : 1° les différentes profondeurs du fond. .. 2° le système d'alignement proposé pour le relargissement des quais de Vieille-Ville et de Riveneuve... Marseille,le 15 juin 1839"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53025028z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035131x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département des Bouches du Rhône / par Mr Philippe Matheron, agent voyer en chef du département ; Litho. A. Matheron"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035131x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530351543/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville de Marseille : Comprenant tous les changements opérés jusqu'à ce jour / Ad. Hocquart Dir[ec]t[ion]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530351543"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530351689/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille : de ses faubourgs et bastides : Avec les plans détaillés de son lazaret,principaux monuments,édifices et endroits remarquables,donnant tous les changements qui ont eu lieu jusqu'à l'année 1839 / Vicq,grav. édit."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530351689"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106798944/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille : réduit au plan levé en 1808 par M[onsieur]r Demarest, avec les changements opérés jusqu'en 1839 / réduit et dessiné par François Roux ; dessiné sur pierre par Honoré Thibout"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106798944"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495528w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du territoire de Marseille / dessiné par Jh Jarry et lithographié par Honoré Thiboul"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495528w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035421n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du port de Marseille indiquant les différentes profondeurs du fond au-dessous du zéro de l'échelle des marées : dédié à M. Durbec cap[itai]ne de frégate en retraite off[ici]er de la légion d'honneur et cap[itai]ne du port de Marseille / par M. Bellue éditeur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035421n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530850118/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille,de ses faubourgs et bastides,avec les... changemens... jusqu'à l'année 1841"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530850118"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530876475/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille de ses faubourgs et bastides donnant les plans détaillés de son lazaret, principaux monumens [sic] et endroits remarquables / dressé par Vicq, graveur-éditeur ; écrit par Mlle Vicq"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530876475"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087574p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière en myriamètres et kilomètres du régulateur judiciaire des délais à raison des distances : Pour le ressort de la cour royale séant à Aix. Bouches du Rhône / lith. Arbieu &amp  Cie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087574p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087626w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plans comparés des projets d'avant-ports et ports de Marseille présentés à l'enquête / par Mrs Bernard et Raffeneau de Lisle inspecteurs divisionnaires des Ponts &amp  lith. Viale-Geoffroy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087626w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445907q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville de Marseille comprenant tous les changements opérés jusqu'à ce jour"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445907q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440308h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan ou guide de l'étranger dans Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440308h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530876458/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale et profils comparatifs des chemins de fer projetés entre Marseille et le Rhône"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530876458"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84413683/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville d'Arles et de son faubourg / dressé par Gme Véran"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84413683"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443779w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la ville de Marseille comprenant tous les changements opérés jusqu'à ce jour"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443779w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029297j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des étangs de Berre et de Caronte,de leurs dépendances et de leurs environs..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029297j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530877876/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Cartes des phares : (1ère feuille) / lith. Bellue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530877876"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530881141/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille,de ses faubourgs et bastides : Avec les plans détaillés de son lazaret,principaux monumens édifices et endroits remarquables,donnant tous les changemens qui ont eu lieu jusqu'à l'année 1845 / Vicq,grav. édit."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530881141"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443195x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille. - Aperçu du projet du port de la Joliette / dessiné par Théophile Cavalier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443195x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530878701/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille / lith. Bellue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530878701"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531633155/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Marseille et Cette [sic]]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531633155"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53163316m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Marseille et Cette [sic]]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53163316m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029312c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille,de ses faubourgs et bastides... donnant tous les changements qui ont eu lieu jusqu'à l'année 1847"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029312c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84423247/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville de Marseille comprenant tous les changements opérés jusqu'à ce jour. Ad. Hocquart dirt."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84423247"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530293237/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Aix, pour servir à l'ouvrage ayant pour titre : \" Les Rues d'Aix \"... / par Roux Alphéran ; 1848, édité par Aubin, 1/2.500 (Mrius Gasquy fecit.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530293237"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531362437/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique et géométrique des communes d'Arles et des Stes-Maries, présentant les grandes divisions de ces territoires : Camargues, plan du bourg, Crau et Trébon, la position des communes limitrophes, les limites des propriétés, les chaussées, canaux, travaux d'irrigation et de dessèchement / dressé par Guillaume Véran, architecte-voyer, ancien géomètre du cadastre ; gravé sur pierre par les f[rè]res Avril ; lith. Kaeppelin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531362437"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531361199/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille : comprenant tous les nouveaux quartiers ainsi que les principaux changemens [sic] opérés jusqu'en 1851 / réduit du plan levé en 1808, par Mr Demarest ; dessiné par A. Ginouxlith. F. Raibaud"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531361199"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84414389/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille réduit de celui de M. Demarest,comprenant tous les nouveaux quartiers ainsi que les principaux changements opérés jusqu'en 1851"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84414389"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027923t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du territoire de Marseille... / dessiné par Mittenhoff,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027923t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531362526/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille,de ses faubourgs et bastides : donnant les plans détaillés de son lazaret,principaux monumens et endroits remarquables / dressé par Vicq,graveur-éditeur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531362526"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443482b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Parc paysagiste dépendant des propriétés de M. D de L. Cohen situées à Ste Marguerite,Vallon de Toulouse (Marseille)... 1852-1853 / F. Dilvillers,architecte..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443482b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530226803/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille. - Plan de la ville de Marseille, 1/10 000, réduit du plan levé en 1808 / par Mr Demarest ; comprenant tous les nouveaux quartiers, ainsi que les principaux changements opérés jusqu'en 1853. Dessiné par A. Ginoux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530226803"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530301479/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille,de ses faubourgs et bastides,... donnant tous les changements qui ont eu lieu jusqu'à l'année 1854"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530301479"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495573q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Aube,Aude,Aveyron,Bouches-du-Rhône (pl. 3)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495573q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025043j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bouches-du-Rhône (Département des). - Carte hydrographique du département des Bouches-du-Rhône,dressée,sur la demande du conseil général du département,par les ingénieurs du service hydraulique. 1855"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53025043j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060542h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille. - Société des ports de Marseille. Plan général des ports de Marseille et de leurs abords avec indication des divers projets présentés"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060542h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440372p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille. - Office immobilier du Midi. Port des Catalans. Avant-projet dressé par les ingénieurs civils soussignés. Marseille,le 9 Sbre 1856 / R. de Curel,Léon Cahier,Jules Corso"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440372p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530833483/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des terrains du Syndicat des chaussées du Plan du Bourg... dressée par les soins de la commission spéciale des chaussées..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530833483"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53083124q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des terrains du Syndicat des chaussées du Plan du Bourg... dressée par les soins de la commission spéciale des chaussées..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53083124q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530850135/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Société des gaz et hauts-fourneaux de Marseille. Plan de la canalisation du gaz de la ville..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530850135"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085014m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan de Marseille avec les projets de voirie,port de la Joliette,vicille ville et concessions diverses.]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085014m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84432409/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Marseille indiquant les travaux projetés,1859"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84432409"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84431755/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille. - Plan général de la distribution des quartiers et des quais de la Joliette et d'Arenc,concédés a M. Mirès,appartenant à la Société des ports de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84431755"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443176k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille. - Compagnie des docks et entrepôts de Marseille. Plan indiquant les nouveaux ports et établissements de la Compagnie en construction et en projet. Avril 1860"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443176k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099821d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique et hydrographique du Port,de la Ville et des Environs de Marseille. Echelle de 18. 000 / Gravé par F. Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099821d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085017z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bouches-du-Rhône. Ville de Marseille. Elargissement de la rue Noailles... Plan des terrains à aliéner..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085017z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84403414/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille. - Compagnie des docks et entrepôts de Marseille. Plan indiquant les nouveaux ports et les établissements de la Compagnie en construction et en projet. Avril 1861"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84403414"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029200p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du littoral de Cette à Marseille. 1/250 000 / Alfred Potiquet,del. (1861.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029200p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441289x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du littoral de Cette à Marseille. 1/500 000 / Alfred Potiquet,del. (1861.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441289x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085012q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique et hydrographique du port de la ville et des environs de Marseille..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085012q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085016h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ouverture de la rue Impériale dans la vieille ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085016h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530280659/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique et hydrographique du Var,des Bouches-du-Rhone,de Vaucluse et des Basses-Alpes,ancienne Provence / dressée par M. de Villeneuve-Flayosc..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530280659"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084840r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et agronomique du département des Bouches-du-Rhône,dressée... / par M. Edouard Bonnet,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084840r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440953d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Marseille,indiquant les travaux projetés"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440953d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260390g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle gare de Marseille. Raccordement avec la ligne de Marseille à Toulon... Plan parcellaire en 3 parties... / Dressé par l'ingénieur en chef de la Compagnie (Signé :) Desplaces"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260390g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260391x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle gare de Marseille et raccordement avec la ligne de Marseille à Toulon... Plan parcellaire des terrains à acquérir pour la nouvelle gare et ses abords..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260391x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530748699/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille. - (Projets de bassins : La Joliette,Catalans,etc.,pour le port de Marseille)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530748699"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440954t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Marseille,indiquant les travaux projetés"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440954t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060635t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Marseille et de ses environs indiquant les travaux projetés et changements survenus jusqu'à ce jour / Dressé G.l Rey"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060635t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530850152/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la paroisse Ste Marie Madeleines"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530850152"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029243p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan inachevé de Marseille.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029243p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53287601c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la navigation intérieure de la France"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53287601c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223724p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tarascon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223724p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223825h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la commune de Marseille et des communes environnantes / dressé et publié par L. Lan,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223825h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011378z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille et la prochaine guerre maritime"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011378z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53277958d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte du golfe de Marseille ([Retirage de la carte d'Ayrouard]) / Levé et dessignée par le S.r Ayrouard [...] en 1736"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53277958d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532238242/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Marseille. Avant-projet de bassins au Sud. Contre-projet de M. Farcy... Ports et docks de M. le colonel Deshorties"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532238242"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550108772/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Marseille - Avant-projet des bassins du Sud"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b550108772"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010878h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Marseille - Avant-projet des bassins du Sud"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55010878h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010876m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Marseille - Avant-projet des bassins du Sud"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55010876m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530208805/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de Marseille,indiquant les travaux en voie d'exécution,ainsi que les travaux projetés"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530208805"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530209041/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des voies navigables et des chemins de fer de la France,et carte spéciale dressée au point de vue du port Saint-Louis-du-Rhône"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530209041"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530577359/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la commune de Barbentane [Bouches-du-Rhöne],destiné à servir à l'Intelligence du sectionnement adopté par le Conseil Général..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530577359"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84392612/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du port de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84392612"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439143s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des environs / dressé d'après les travaux de M M. Fouque et A. Matheron  et les documents les plus récents par Henri Leleu"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439143s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440054q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille. - Port de Marseille. Plan des décès cholériques pendant l'épidémie de juin à octobre 1884 / dressé par M. Ad. Guérard,1er décembre 1884"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440054q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011272w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Marseille / dressé par A. Vuillemin  gravé et imprimé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011272w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011271f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Marseille / dressé par A. Vuillemin  gravé et imprimé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011271f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550112774/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille / dessiné par L. Thuillier  gravé et imprimé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b550112774"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550112846/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille / dessiné par L. Thuillier  gravé et imprimé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b550112846"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011281v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille / dessiné par L. Thuillier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011281v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439739z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille / dessinée par L. Thuillier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439739z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53198423q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des environs de Marseille par... Paul Gourret et Achille Gabrial 1 : 80 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53198423q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441819b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille / dressé par Armant Pinet,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441819b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525228929/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des environs de Marseille par... Paul Gourret et Achille Gabrial 1 : 80 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b525228929"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854149v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ports du Frioul et de Pomégues"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854149v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532455531/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte spéciale des chemins de fer de la France / publiée,d'après les documents officiels,par la Librairie Chaix"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532455531"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440254d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille, plan de la ville et des environs / dressé d'après les travaux de MM Fouque ; et A. Matheron ; et les documents les plus récent spar Henri Leleu"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440254d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108541507/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Cassis"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108541507"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530290591/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530290591"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440451v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Arles ancienne et moderne / dressé par Augusto Véran,1871"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440451v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854144m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port d'Arles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854144m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108541452/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port-de-Bouc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108541452"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854146h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "I. Étang de Caronte. II. Martigues"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854146h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854147z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Berre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854147z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530279890/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Marseille. Nouveau plan de la ville et de ses environs, dress / d'après les documents les plus récents par H. Leleu ; et P. Laffitte, 1894"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530279890"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029166g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Bouches-du-Rhône,dressé sous les auspices de la municipalité marseillaise / par F. Pègues,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029166g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441315z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441315z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441560g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan indicateur de Marseille à l'usage des étrangers / (dressé par Alexis Duch)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441560g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441558d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan-Guide de la ville d'Aix (Bouches-du-Rhône)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441558d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459954w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8459954w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531676075/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte spéciale des chemins de fer de la France / publiée,d'après les documents officiels,par la Librairie Chaix"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531676075"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532627486/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Grande Camargue. Projet d'irrigation,dessèchement,dessalement,colmatage"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532627486"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531213174/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de France publiée par le Petit Journal d'après les documents les plus récents,indiquant la division par départements,avec les chemins de fer,les cours d'eau,les routes,les canaux,les uniformes de l'Armée française,les pavillons des différentes nations,les décorations françaises,les monnaies,etc. / Dressée et dessinée... par A. Guibal"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531213174"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53119263g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan autos,feuille n° 12 / gravé par A. Léguillon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53119263g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445911m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville des Baux / dressé par Michel Corpet,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445911m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444692q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville des Baux / dressé par Marcel Corpet,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444692q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459953g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du port de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8459953g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53061393m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte bathylithologique sous-marine des côtes de France. Mer Méditerranée. Etang de Berre / par M. A. Chevalier,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53061393m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53287595h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille / dressé et publié par Curet Louis, géométre.. . ; Frison Augustin, dessinateur..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53287595h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064783r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La nouvelle France,Paix du 28 juin 1919"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064783r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530645563/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville,des ports et des environs de Marseille (Nouvelle édition) / dressé par L. Lan,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530645563"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064445v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Marseille..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064445v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531926884/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville, des ports et des environs de Marseille (Nouvelle édition mise à jour) / dressé par L. Lan,... ; Gravé par E. Morieu"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531926884"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84599522/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan programme des améliorations et extensions du Port de Marseille (Octobre 1924)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84599522"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530589824/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville de Marseille. 1 : 26.000 / gravé par P. Testa"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530589824"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530581556/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530581556"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532132627/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rhône maritime"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532132627"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530650358/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[4 documents géologiques sur la même planche] / Marcel Bertrand"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530650358"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066574q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Compagnie générale française de tramways. Plan des réseaux de Marseille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066574q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213328n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille (Ed. 1910-1919 mises à jour) / levé et dressé par G.-L. Curet,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213328n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530666726/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan directeur de la région marseillaise. Application de la circulaire du 20 août 1928 de M. le Ministre de l'Intérieur dressé par nous H. Delfini, Préfet des Bouches-du-Rhône, 24 novembre 1928; J. Causeret, Préfet... 1er juillet 1931..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530666726"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532133276/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Marseille (Ed. 1910-1919 mises à jour) / levé et dressé par G.-L. Curet,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532133276"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532133615/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'extension et d'aménagement de la ville de Marseille Application de la circulaire du 20 août 1928... / dressé par nous H. Dellini ; préfet des Bouches-du Rhône, 24 novembre 1928 J. Causeret, préfet... 1er juillet 1931..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532133615"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53070183d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "E.Fonné / Ville de Marseille,1 : 14 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53070183d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260430c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Marseille et de sa banlieue. Communes d'Allauch et Plan de Cuques"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260430c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530580568/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Arles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530580568"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121463s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de France"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121463s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84602843/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Marseille0 / E. Fonné dess."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84602843"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019744q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Marseille. 1 : 14.000 / E. Fonné dess."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53019744q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019741c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Marseille. 1 : 14.000 / E. Fonné dess."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53019741c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53175929n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Miramas. 1 : 2.000. Plan topographique expédié / dressé par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53175929n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525163394/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La Couronne-Carro : plan topographique / dressé... par la Société de Travaux et d'Etudes Topographiques..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b525163394"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532606628/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Saint-Chamas. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532606628"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260740x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Bouches-du-Rhône. Commune de Fos-sur-Mer. 1 : 2.000. Plan topographique. .. / dessiné en 1945 par Henry Azan,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260740x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530585815/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte illustrée de la Camargue. 5 kms"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530585815"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532627770/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan graphique expédié de la ville de Cassis,tiré d'un photoplan redressé / exécuté par la Société Générale de Photo-topographie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532627770"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264939p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Communes de Marignane et de Saint-Victoret. Département des Bouches-du-Rhône / fond de plan topographique régulier dressé.. . par Socotec..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264939p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532649387/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Bouches-du-Rhône. Commune de Berre-L'Etang. 1 : 5.000. Fond de plan topographique régulier dressé... / par Socotec,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532649387"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265028r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port-Saint-Louis-du-Rhône [Bouches-du-Rhône] 1 : 2.000. Plan topographique / expédié... vérifié... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265028r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53267907k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La Couronne-Carro : plan topographique / dressé... par la Société de Travaux et d'Etudes Topographiques..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53267907k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530574427/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Marseille (9ème édition) / E. Fonné"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530574427"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266709c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Bouches-du-Rhône. Ville de Fuveau. 1 : 2.000. Fond de plan topographique régulier / dressé et dessiné en 1947 par Socotec,... ; vérifié le 18 février 1948 par le service du cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266709c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266697t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Bouches-du-Rhône. Ville de Trets. Fond de plan topographique / dressé et dessiné en 1947 par SOCOTEC,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266697t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192542d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Cuges-les-Pins (Bouches-du-Rhône). 1 : 20.000 / dressé... par l'Institut géographique National"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53192542d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530573975/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Marseille. 1 : 14.000 / E. Fonné (dess.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530573975"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530585832/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Marseille. 1 : 15.000 / E. Fonné dess."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530585832"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

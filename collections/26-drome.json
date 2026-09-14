@@ -1,0 +1,426 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/26-drome.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Drôme (26)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030080f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Parties du cours et de la rive gauche du Rhône]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030080f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443264q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Drôme avec ses différentes subdivisions,sous les rapports administratif,judiciaire et religieux,dressée à Valence l'an XII..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443264q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440794n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Drôme. Ponts et chaussées. Plan servant à faire connaître l'emplacement du pont en bois de treize travées à construire sur la rivière d'Isère à la Roche,route de Lyon à Marseille conformément au détail estimatif en date du 25 floréal an XII [= 15 mai 1804] / [Signé :] Lelage"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440794n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440568g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Copie de la vérification faite par les Srs Martignac et Gleizole pour la commune de St Vallier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440568g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035299c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte des routes tracées le long du Rhône depuis Serrières jusqu'à Pont St Esprit] / Lith. Desportes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035299c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84439147/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de la Drôme... en 1838"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84439147"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495577c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Drôme,Eure,Eure-et-Loir,Finistère (pl. 7)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495577c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439837g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de la Drôme,dressée sur la demande faite par le conseil général dans sa session de 1848. Edition rectifiée en 1854"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439837g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006663c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de la Drôme,dressée sur la demande faite par le conseil général dans sa session de 1848. Edition rectifiée en 1854"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006663c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84434845/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du parc sericicole agricole fruitier,potager dépendant des propriétés de M. Eugène Chabaud situées à Montelimart... 1846-1856-1860. Fcois Duvillers architecte..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84434845"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098656s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Arrondissement de Valence. Canton de Tain,dressé sous l'Administration de Monsieur Amiot-Dabeaux,Préfet et de Monsieur V. Poinçot,Agent-voyer en chef,par Augustin Taurelle,agent-voyer. 1 : 30 000 . Gravé par Erhard / Département de la Drôme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098656s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440719p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Montélimart,dressée par le cap. Piales d'Axtrez"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440719p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250844s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Drôme dressée sur la demande du conseil général... / par M. Herpin,1900"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250844s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53119263g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan autos,feuille n° 12 / gravé par A. Léguillon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53119263g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459965p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Valence-sur-Rhône. Plan général au 1 : 10.000 / dressé par Mr Clerc  dessiné par Mr Penel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8459965p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53058000h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Valence / E. Fonné,dess."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53058000h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53195357b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Drôme. Commune de Valence. 1 : 5.000. Plan topographique régulier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53195357b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53061602k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Valence / E. Fonné,dess."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53061602k"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

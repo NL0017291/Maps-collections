@@ -1,0 +1,357 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/79-deux-sevres.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Deux-Sèvres (79)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530877033/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Niort / levé par Thénadey  lith. de Robin et Comp."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530877033"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495587r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves (pl. 20) : Seine-et-Oise,Deux-Sèvres,Somme,Tarn"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495587r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532330640/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Département des Deux-Sèvres. Dressé par l'Administration Vicinale Sous les Auspices du Conseil-Général et dédiée à M. Lorette,Préfet de ce Département"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532330640"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085028t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Boulevard projeté à Niort entre les routes de Paris et de Limoges,desservant le lycée et le champ de foires.]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085028t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84941627/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Département des Deux-Sèvres / dressée par C. Desessards..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84941627"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494165g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte administrative, routière et vicinale du département des Deux-Sèvres / dressée par C. Desessards... ; Gravée par J.Geisendörfer, Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494165g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494163n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département des Deux-Sèvres. dressée par C. Desessards,.... 1 : 233 372 . Gravée par J. Geisendörfer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494163n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439500d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Saint-Maixent"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439500d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029383q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Saint-Maixent (4e édition...)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029383q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441597h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Saint-Maixent (2e édition,revue et corrigée)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441597h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029381t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Saint-Maixent 1/80 000. Revisée en 1893"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029381t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446165q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Saint-Maixent (Nouvelle édition)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446165q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530650714/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Maixent l'Ecole..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530650714"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064960b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Maixent l'Ecole..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064960b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192698j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Niort"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53192698j"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

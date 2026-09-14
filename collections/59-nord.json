@@ -1,0 +1,5394 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/59-nord.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Nord (59)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063563t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dunkerque et ses projets"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063563t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53028025n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Lycée national de Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53028025n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121510r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la côte maritime de la direction de Saint-Omer depuis Wissant exclusivement jusqu'à Dunkerque inclusivement. État des forts... et signaux servant à la défense... Batteries construites en l'an 11..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121510r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029989p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Maubeuge"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029989p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508819k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des forêts de Raismes et Vicoigne dressée par M.M. les lieutenants et sous-lieutenants du 8e dragons"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52508819k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011387x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département du nord / par M. J. Gosselet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011387x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532579847/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département du Nord ou les provinces de Flandre,du Hainaut et du Cambrésis construite et exécutée sur une ligne pour deux cent toises / par J.B. de Bouge,ingénieur géographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532579847"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84424628/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pour l'étude de la topographie ancienne de la ville de Douai / F.R. et L.,delt"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84424628"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84405531/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dunkerque"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84405531"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445774f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet d'un bassin franc à Dunkerque / par M. J. Cordier,député du Jura"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445774f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445777p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'ensemble du port de Gravelines et projet d'une nouvelle ville aux docks et enceinte fortifiée à construire à l'est ou à l'ouest du chenal intérieur / proposé par Mr Van de Rest,promoteur et demandeur en concession des chemins de fer de Gravelines à Watten par Bourbourg,de Calais à Dunkerque par Gravelines et des docks-entrepôts de Gravelines"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445777p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445093c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des concessions et chemins de fer de la Compagnie propriétaire des mines d'Anzin,Raismes,Fresnes,Vieux-Condé,Denain,Saint-Saulve,Odomez et Hasnon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445093c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445810v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'ensemble du port de Gravelines et projet d'une nouvelle ville avec docks et enceinte fortifiée à construire à l'est ou à l'ouest du chenal intérieur / proposé par Mr Van de Rest,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445810v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030235c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Dunkerque"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030235c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105676229/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Reconnoissance Hydrographique de la Côte Nord de la France - 1ère partie / Beautemps-Beaupré,Charles-François (1766-1854)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b105676229"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8493900k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Bouchain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8493900k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8493565j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Valenciennes. 1774"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8493565j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53032962m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte des côtes de la Mer du Nord,aux environs de Dunkerque et de Calois,depuis Nieuport jusqu'au Cap Gris-Nez,où sont indiquées les positions des troupes françaises,face à l'Angleterre]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53032962m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8493669j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du camp de la 3ème Division du Camp de Bruges commandé / par le Gal. de Div. Gudin en Brumaire an 13 [aux abords] de Dunkerque"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8493669j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440347m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan der königl. westphälischen Haupt und Residenzstadt Cassel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440347m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530253980/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Nord. Carte des routes royales et départementales du Nord... / (Signé : Lille,le 20 avril 1812,l'ingénieur en chef du département du Nord Drappier.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530253980"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445249n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des fortifications d'Avesne (Nord) avant 1814"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445249n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53032958w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Lille,de ses canaux couverts et de ses fortifications / Fait par l'Ingénieur en chef du Dept. du Nord,J. Cordier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53032958w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53033732z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet d'une Ecluse,d'un sas et d'un déversoir à Comines,sur le territoire de la France / Fait par l'Ingénieur en Chef du Département du Nord"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53033732z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530337571/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des abords de l'écluse de Comines sur la Lys"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530337571"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530328750/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Navigation intérieure. Ville de Douai Distribution générale du Projet [d'aménagement du Canal] / Département du Nord  fait par l'Ingénieur en Chef du Dépt. du Nord [Signé illisible]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530328750"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029876j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et citadelle de Lille... / revu et corrigé par Rudemare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029876j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029533d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Douai,département du Nord"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029533d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440609z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du camp de Dunkerque / dessiné et gravé par Ambroise Tardieu,1820"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440609z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441083r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique de l'arrondissement de Lille... / dressée par le Capitaine Coste"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441083r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444766k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement d'Hazebrouck divisée en sept cantons / dressé par Desmadryl Frèr. et Joumar"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444766k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443464d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille en 1821"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443464d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531001199/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Lille, chef-lieu du Département du Nord, dédié à la Ville : et agréé par le Conseil municipal, dans sa séance du 17 août 1820, indiquant les principaux édifices, le détail de toutes les propriétés, les rues, les places, marchés, etc. Ainsi que les nouveaux projets de percemens et Redressemens qui y sont relatifs / Levé par F.F. Rousseau [...] ; Réduit et dessiné par V.J. Biston ; Gravé par J.M. Darmet [...] ; Écrit par Hacq"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531001199"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bd6t5255242q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Collection Faille. Cartes,plans et gravures. In-plano XI : Cartes du département du Nord. Département du Nord par Aupick et Perrot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/bd6t5255242q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84442997/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Arrondissement d'Hazebrouck,département du Nord indiquant les projets de percements de nouvelles rues et redressements de celles existantes / dessiné par L. Duhem,architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84442997"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531004826/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Valenciennes, Chef-lieu d'Arrondissement, avec une esquisse de la banlieue indiquant les principaux édifices, le périmètre de toutes les propriétés, les Rues, Places, Canaux, etc. ainsi que les nouveaux projets de Percements et Redressements qui y sont relatifs / Département du Nord ; Dressé par P.F.Rousseau, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531004826"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444279g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Dunkerque... indiquant les projets de redressements des rues, quais, places, marchés, etc / levé par J. Derudder ; dessiné et écrit sur pierre par L. Duhem ; d'après le dessin d'Ate Lustreman, 1827"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444279g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84434704/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Hazebrouck... Indiquant les projets de percements de nouvelles rues et redressements de celles existantes / dessiné... par L. Duhem"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84434704"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492262z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'Arrondissement de Lille. Echelle de quinse Mille Mètres [=Om. 088  1 : 170 000 environ]. Dessiné et Ecrit sur pierre / par L. Duhem"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492262z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84438923/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Dunkerque et de ses environs / Dressé et dessiné par M. Bosquillon,ingénieur en chef directeur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84438923"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84925123/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Lille. 400 Mètres [=Om. 080  1 : 5 000 ]. La lettre / gravée par Abel Malo"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84925123"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492537x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville et des environs de Lille / Par Brun-Lavainne. 8e Epoque en 1667. Echelle de Mille mètres [=Om. 128 ; 1 : 7 800 environ] ; Dessiné sur pierre par Duliau Cadet, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492537x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035275r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des environs de Lille : 9e époque, en 1708 / par Brun-Lavainne ; dessiné sur pierre par Duhem cadet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035275r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035407h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Cambrai : indiquant le détail des propriétés, les rues, les places, marchés ca ainsi que les projets de percemens et redressemens [sic] dressé d'après le cadastre exécuté en 1829 / par H. Bruyelle, géomètre du cadastre ; exécuté sur pierre par Ls Duhem"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035407h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439136n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Douai,Jules Mortreux facit"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439136n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444845r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Douai"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444845r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035408z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Cambrai / dessiné et écrit sur pierre par L. Duhem, architecte à Lille ; Lith. de L. Danel, à Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035408z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035451w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement d'Hazebrouck / dessiné et écrit sur pierre par L. Duhem, architecte à Lille ; Lith. de L. Danel, à Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035451w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442443x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Restauration des thermes de Saint-Amand,département du Nord,projetée... / par M. Malet,architecte à Doual"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442443x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84442678/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84442678"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530354134/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des environs de Lille : 10e époque, 1792 à 1796 / par Brun-Lavainne ; dessiné sur pierre, par L. Duhem cadet, architecte ; Lith. de L. Danel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530354134"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035158w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des canaux du département du Nord : et partie de ceux des départements voisins et de la Belgique / Lith. de L. Danel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035158w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035141b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Dunkerque / dessiné et écrit sur pierre par L. Duhem  Lith. de L. Danel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035141b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035452b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Dunkerque / dessiné et écrit sur pierre par L. Duhem  Lith. de L. Danel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035452b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530602571/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du tracé du chemin de fer de Valenciennes à Lille par St-Amand,Orchies et Cysoing,avec embranchement sur Marchiennes / par Marc Jodot,mai 1837"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530602571"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035295k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte charbonnière des environs de Valenciennes / Salomé gr. à Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035295k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530352838/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte charbonnière des environs de Valenciennes / Salomé gr. à Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530352838"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035213c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan figuratif des communications par eau et par chemins de fer dans une partie du départ[emen]t du Nord / Lith. de P. Bineteau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035213c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035298x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Nord, arrondissement d'Avesnes / gravé sur pierre par L. Duhem, architecte ; Lith. de L. Danel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035298x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035418c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan figuratif des communications par eau et par chemins de fer dans une partie du départ[emen]t du Nord / Lith. de P. Bineteau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035418c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084828h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des départemens du Nord et du Pas-de-Calais composant le ressort de la cour royale et de l'académie de Douai / J. Mortreux del.  Lith. de Fx. Robaut à Douai"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084828h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029249c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des environs de Lille. 1838. Chambre de commerce de Lille. Chemins de fer / Dessiné sur pierre par Duhem,cadet,architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029249c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035306p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville et des environs de Lille : Chambre de Commerce de Lille,Chemins de Fer / Dessiné sur pierre,par L. Duhem Cadet,Architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035306p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035457k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Lille : Département du Nord : Dédiée au Conseil général du Département et au Conseil de l'Arrondissement / par Marquette, Agent-Voyer en chef ; Gravée sur pierre par Ls Duhem, Architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035457k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530353487/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Lille : Département du Nord : Dédiée au Conseil général du Département et au Conseil de l'Arrondissement / par Marquette, Agent-Voyer en chef ; Gravée sur pierre par Ls Duhem, Architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530353487"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445998j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des environs de Lille / Dessiné sur pierre par L. Duhem,cadet,architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445998j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064979s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Nord. Arrondissement de Lille,d'après le Dépôt de la Guerre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064979s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088102q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Dunkerque : département du Nord / exécuté par L. Duhem à Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088102q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530880047/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Valenciennes et de ses environs / E. Boldoduc lith.  lithog. de Fx Robaut"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530880047"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530875218/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la partie de la concession de Fresne située sur la rive droite de l'Escaut,d'après l'ordonnance du 10 septembre 1841 / lith. de A. Prignet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530875218"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446186w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port de Dunkerque. [18.333]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446186w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446020s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Valenciennes et de la banlieue / Publié par Fx Robaut"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446020s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087607h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et administrative du département du Nord / par J. M. Darmet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087607h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530849906/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Partie du quartier Saint-Sauveur.] Maison et jardin de M. Bonte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530849906"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084885n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et administrative du département du Nord / par J. M. Darmet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084885n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087513r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille / typ. et lith. de Blocquel-Castiaux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087513r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530875487/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet de débarcadère sur l'esplanade de Valenciennes pour les voyageurs et les marchandises avec port et gare pour les bateaux / dressé par la Société d'agriculture, des sciences et des arts de Valenciennes ; lith. de A. Prignet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530875487"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087570w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port de Dunkerque / N. Corenwinder  lith. de L. Houbloup"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087570w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439969s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port de Dunkerque / N. Corenwinder  lith. de L. Houbloup"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439969s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567650n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Mortagne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567650n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087706f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Bailleul : Projet d'alimentation d'eau : Plan général de la conduite alimentaire et des tuyaux de distribution en ville / gravé sur pierre par L. Duhem  lith. de Vanackère"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087706f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087707w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Profil de la conduite alimentaire / gravé par L. Duhem  lith. de Vanackère"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087707w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084829z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des départements du Nord et du Pas-de-Calais composant le ressort de la cour royale, de l'académie de Douai et de l'archevêché de Cambrai (2e éd.) / Lith. de Fx. Robaut à Douai ; Lith. à la plume par Ed. Boldoduc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084829z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087704j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Concessions houillères du bassin de Valenciennes / lith. de A. Prignet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087704j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087938b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Douai : Nord / dessiné et lithographié par Jules Mortreux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087938b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530878597/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Douai / lith. de F[éli]x Robaut"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530878597"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087939s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Douai : Nord / dessiné et lithographié par Jules Mortreux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087939s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84454537/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Douai (nord) / dessiné et lithographié par Jules Mortreux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84454537"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087837h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des environs de Cambrai / dressé par Aimé Robiquet agent-voyer  Ed. Boldoduc lith."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087837h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530591632/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Douay et du fort d'Escarpe place forte du comté de Flandres située sur la rivière d'Escarpe à sept lieues de Lille six de Tournay et à six de Cambray elle fait partie de la Chatellenie de Lille il y a une bonne université. Alf. Robant d'apr. un plan de 1711"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530591632"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087838z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département du Nord / publiée par F[éli]x Robaut, auteur de carte géog[raphiqu]es... ; litho. de F[éli]x Robaut à Douai ; Ed. Boldoduc lith."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087838z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088231w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Douai, publié en 1648 ([Reproduction en fac-similé]) / extrait de l'ouvrage de Jean Blaew d'Amsterdam, intitulé : Novum ac Magnum Theatrum urbium Belgiae regalis ; autographie de Félix Robaut"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088231w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444332d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des environs de Cambrai / dressé par Aimé Robiquet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444332d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088073p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière &amp; industrielle des arrondissements de Douai &amp; Valenciennes,... / publiée par Félix Robaut ; litho. de F[éli]x Robaut à Douai ; Ed. Boldoduc lith."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088073p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530849260/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière &amp; industrielle des arrondissements de Douai &amp; Valenciennes,... / publiée par Félix Robaut ; litho. de F[éli]x Robaut à Douai ; Ed. Boldoduc lith."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530849260"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088106h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département du Nord / publiée par F[éli]x Robaut, auteur de carte géog[raphiqu]es,... ; litho. de F[éli]x Robaut à Douai ; Ed. Boldoduc lith."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088106h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532238153/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Douai indiquant... le détail de toutes les propriétés... les nouveaux projets d'alignement... D'après le plan cadastral levé en 1824... / redressé... par Félix Robaut..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532238153"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088201n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement d'Hazebrouck, département du Nord / dressée par C. Lebleu, agent-voyer principal ; gravée sur pierre par David Monnier, dessinateur ; lith. L. Danel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088201n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53061931h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Douai indiquant les édifices civils et militaires... les rues,plans,marchés,etc... ainsi que les nouveaux projets d'alignement qui y sont relatifs d'après le plan cadastral levé en 1824 / redressé en 1850 par Félix Robaut"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53061931h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102722j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Douai indiquant les édifices civils et militaires,le détail de toutes les propriétés,les rues,places,marchés etc.,ainsi que les nouveaux projets d'alignement qui y sont relatifs / d'après le plan cadastral levé en 1824,redressé en 1850 par Felix Robaut,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102722j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084928w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement d'Hazebrouck, département du Nord / dressée par C. Lebleu, agent-voyer principal ; gravée sur pierre par David Monnier, dessinateur ; lith. L. Danel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084928w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531360906/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille / lith. de Blocquel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531360906"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136408k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Tracé des limites de concessions de mines houillières dans le département du Nord]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136408k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136091n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de et des environs de Lille / lith. de Blocquel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136091n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136426h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des communes de Dourlers,St Aubin,Floursies,Semousies / lithog. et aut. de Regnandin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136426h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531362130/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et industrielle de l'arrondissement de Valenciennes d'après les plans cadastraux... / sous la direction de F[éli]x Robaut, imprimeur, lithographe et libraire ; litho. de F[éli]x Robaut ; Ed. Boldoduc, lith. à la plume"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531362130"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531362939/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Scarpe inférieure. Plan général avec l'indication des redressements de son cours, exécutés par les concessionnaires pendant les années 1835, 1836, 1837, et 1838 / dressé par A. M. Tisseron ; gravé sur pierre par E. Rembielinski"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531362939"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440250r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Douai"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440250r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531360673/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port de Dunkerque / V[ict]or Derode  Noël Leblond delin[eavi]t"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531360673"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445451d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Douai"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445451d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530847712/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique du territoire occupé par les camps de Boulogne etc. en 1854"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530847712"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530848863/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et administrative du département du Nord / par J.-M. Darmet..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530848863"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495582p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Nièvre,Oise,Nord (pl. 15)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495582p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030247p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Roubaix / dressé par E. Barbotin..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030247p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084988c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Arrondissement de Lille et villes de Lille,Wazemmes,Armentières,Tourcoing et Roubaix / dressés... par A. Heurley,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084988c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442472n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille,1857 / par J.-M. Darmet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442472n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532238208/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du territoire des communes de Lille,Wazemmes. Esquermes et Moulins-2 flles compris dans la nouvelle enceinte projetée... 1/5000 / Simonnet,delineavit"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532238208"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52503976c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port de Dunkerque / dressé en vue des projets d'agrandissement par Charles Larochette"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52503976c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53079264h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ponts-et-Chaussées. Port de Dunkerque,plan d'ensemble avec l'enceinte de la ville et le tracé des zones de servitudes militaires"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53079264h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223821q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille agrandie indiquant les alignements..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223821q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532238225/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville de Lille agrandie sur le type du plan de Lyon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532238225"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084830b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et administrative... du Nord,du Pas-de-Calais et de la Somme... / dressée par J. Leclercq"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084830b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084980s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ponts et Chaussées. Port de Gravelines. Plan d'ensemble avec l'enceinte..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084980s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063351r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ponts et chaussées. Port de Dunkerque. Plan d'ensemble avec l'enceinte de la ville et le tracé des zones de servitudes militaires. 1/5.000 / Dessiné par Honoré Gauthier,conducteur des ponts et chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063351r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530653322/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service des études. Agrandissement de Lille. Vente des terrains militaires appartenant à la ville. Plan général"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530653322"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084989t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des terrains militaires mis en vente conformément à la délibération... du 14 mai 1862"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084989t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440063p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etude de l'alimentation de la ville de Lille en eaux potables Plan joint au rapport de la commission instituée par M. le maire le 24 juillet 1863"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440063p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532132805/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet d'établissement d'un jardin d'acclimatation et d'un jardin botanique. Plan général"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532132805"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84400465/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille agrandie,indiquant la répartition des eaux souterraines,1866"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84400465"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445905w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Arpentage de la ferme de Zeauvis à M. Edmond Vallée... certifié véritable par le géomètre soussigné au Quesnoy,le 15 septembre 1867 : Boufflers. 1/1.000. - Emparquement de récoltes à M. Adolphe Pétain,cultivateur au Quesnoy (en 1807),certifié exact et véritable / par le géomètre soussigné... le 26 juin 1867 Boufflers"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445905w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445919x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'ensemble du port de Gravelines et projet d'une nouvelle ville avec docks et enceinte fortifiée à construire à l'est ou à l'ouest du chenal intérieur / proposé par M. Van de Rest,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445919x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530988197/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du Département du Nord dressée par ordre du Conseil Général / Par B. Romain, Agent-Voyer en chef, 1870 ; Dessinée par C. Segard, Agent-Voyer. Réduction de la Carte du Dépôt de : a Guerre. 1 : 160 000 ; Gravé par Erhard-Schieblé"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530988197"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444130w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444130w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444118f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Dunkerque et des environs avec indication des nouveaux travaux en cours d'exécution ou en projet / par Durand..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444118f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530651022/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530651022"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53258092p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Dunkerque... Construction de l'écluse à sas d'entrée du nouveau bassin... Plan général de la ville et du port de Dunkerque,dressé par l'ingénieur ordinaire soussigné : Dunkerque,le 5 juillet 1871 / Signé F. Guillain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53258092p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445206w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Lille. 1871"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445206w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223765s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ponts et chaussées. Carte du département du Nord"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223765s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532580934/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Dunkerque / par P. Ternant,agent-voyer principal"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532580934"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84458118/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'ensemble de la ville et de la commune de Gravelines, avec projet d'agrandissement du port et de construction d'un dock-entrepôt, à l'endroit désigné, en 1762 et 1763, par les ingénieurs de l'Etat, et en 1827 et 1847 / par M. J. Cordier ; ,... auteur du projet de canal maritime de Dunkerque à Gravelines, et de réouverture de l'ancien chenal éclusé à Mardick... Fait et dressé par le soussigné... Van de Rest, le 15 mars 1872"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84458118"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445186k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Sur un calcaire coqantlier extrait d'un aquaduc à Tourcoing..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445186k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84457412/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Agrandissement du port de Gravelines et du Pt Fort Philippe. Projets de MM. Van de Rest et Cie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84457412"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065104z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille agrandie,de la banlieue et des communes limitrophes... d'après le plan officiel établi par la direction des travaux municipaux..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065104z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530636401/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ponts et chaussées. Port de Dunkerque. Plan d'ensemble avec l'enceinte de la ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530636401"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8468792v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8468792v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098649q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille agrandie de la banlieue et des communes limitrophes / Photogravé sous l'Administration de Mr. Catel-Beghin, Maire de Lille ; Dressé par Mr. A. Mongy, ... ; sous la direction de Mr. Masquelez, ... ; directeur des Travaux Municipaux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098649q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530623484/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Gravelines"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530623484"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84451002/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville de Roubaix,... par le directeur des Travaux municipaux soussigné : Roubaix,le 15 janvier 1874,Emile Moreau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84451002"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213279s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Profils en long et plan général [des eaux de Lille.] / M. Masquelez, ingénieur en chef... ; M. Parsy, Aimé, conducteur..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213279s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084758c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général des concessions houillères du grand bassin houiller du Nord et du Pas-de-Calais / par le Breton-Dulier..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084758c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063540n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille agrandie de la banlieue et des communes limitrophes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063540n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029905k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille agrandie de la banlieue et des communes limitrophes / dressé d'après le plan officiel établi par la direction des travaux municipaux,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029905k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530620480/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille agrandie de la banlieue et des communes limitrophes,dressé d'après le plan officiel établi par la Direction des travaux municipaux sous l'administration de M. Catel-Beghin maire (Deuxième édition)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530620480"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530651329/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille agrandie de la banlieue et des communes limitrophes,dressé d'après le plan officiel établi / par la Direction des travaux municipaux,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530651329"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532330801/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Bassin Houiller du Nord,par Jules Canelle,Ingénieur civil des Mines. Dédiée aux Conseils généraux du Nord et du Pas-de-Calais (1876-1877). 1 : 50 000 Gravé et imp. par P. Méa"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532330801"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53022681j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan von Cassel vom Jahre 1878 / ausgeführt durch W. Neumann"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53022681j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213278b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "E. Plan du réseau suburbain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213278b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53239475f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Nord Ville de Lille. Direction des travaux municipaux. Concours pour la construction d'un palais des beaux-arts. Plan et coupe du terrain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53239475f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53022715t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Valenciennes et de ses environs / dressé par M. Fourquez,1881"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53022715t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530277484/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Dunkerque. Plan général de la ville et du port,1881"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530277484"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530653144/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'ensemble des travaux à exécuter sur le territoire de Lille par suite de l'agrandissement de 1858"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530653144"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84410756/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des concessions de la compagnie des mines d'Anzin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84410756"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011213v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte bijou des dép[artemen]ts du Nord et du Pas de Calais avec leurs aboutisssants / C[ésa]r Mille à Douai (Nord) ; gravé par Erhard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011213v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550112166/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du dessèchement des waeteringues. 4e section et partie belge / (Par L. Guiguet.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b550112166"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011221c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Petit atlas progressif du département du Nord (réduction de la carte murale simplifiée) avec texte provisoire et questionnaires / par M. A. Wacquez-Lalo,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011221c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444119v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan de Dunkerque.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444119v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532394869/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Lille et de ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532394869"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53242829k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des nouvelles promenades de Lille / del. Henri Desrumaux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53242829k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439495j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Douai"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439495j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532428697/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Département du Nord / par César Mille,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532428697"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53242868s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le département du Nord / par César Mille,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53242868s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532429077/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière,industrielle,commerciale et agricole des deux cantons de St-Amand... / par C. Delerue,1889"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532429077"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53242897k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la commune de Saint-Amand (Nord) et de ses environs / dressé en 1889 par G. Delerue ; 1/10 000, dessiné par Lie Hornez ; sous la direction de Cr Mille, ,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53242897k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53245442s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nord. Cours d'eau,relief du sol,par un groupe d'instituteurs du département"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53245442s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53245441b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nord. Arrondissements et cantons,par un groupe d'instituteurs du département"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53245441b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006777z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan du port de Gravelines]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006777z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532455531/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte spéciale des chemins de fer de la France / publiée,d'après les documents officiels,par la Librairie Chaix"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532455531"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53245565b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Valenciennes. Projet d'agrandissement / dressé par l'architecte de la ville soussigné,à Valenciennes,le 17 août 1890 E. Dusart"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53245565b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440672q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille / par V. Pigache"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440672q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027636f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Armentières. - Plan monumental d'Armentières commercial et industriel,publié par l'administration des plans monumentaux de France,16,rue Brémontier,Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027636f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444247h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des circonscriptions électorales de la ville de Lille en 1893"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444247h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530291132/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Avant-Projet de transformation des vieux quartiers de Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530291132"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441316c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441316c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53146335d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Mer du Nord. Nieuport à Ghyvelde"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53146335d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53146336v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Mer du Nord. Nieuport à Ghyvelde"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53146336v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029531h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Dunkerque. Dunkirk harbour"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029531h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441777f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441777f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531676075/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte spéciale des chemins de fer de la France / publiée,d'après les documents officiels,par la Librairie Chaix"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531676075"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53075856w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte hypsométrique de la surface... Région de Lille [1 : 80 000 ]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53075856w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53076339v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique et hypsométrique de la... région de Valenciennes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53076339v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444248x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Histoire des canonniers de Lille : plan des enceintes successives de la ville de Lille / par le capitaine Cazier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444248x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030012f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du bassin houiller du Nord et du Pas-de-Calais / par M. L. Bouffault..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030012f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532581833/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du bassin houiller du Nord et du Pas-de-Calais. Concessions houillères. Faisceaux,veines et sondages / dressé par L. Bouffaut"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532581833"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84452739/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Cambrai"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84452739"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445393d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Nord"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445393d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530634281/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Rosendael. Plan d'ensemble 1/5.000. (Signé : Rollet dessinateur.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530634281"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84461419/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Nord"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84461419"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85934641/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Grandes batailles de la première guerre mondiale entre 1916 et 1918]. 05,Bataille de Cambrai : Novembre et Décembre 1917"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b85934641"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530641715/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Grandes batailles de la première guerre mondiale entre 1916 et 1918]. 08,Offensive britannique finale : août-novembre 1918"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530641715"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593466v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Grandes batailles de la première guerre mondiale entre 1916 et 1918]. 09,L'Avance alliée en 1918"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8593466v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593465f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Grandes batailles de la première guerre mondiale entre 1916 et 1918]. 07,Offensive allemande sur la Lys : avril 1918"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8593465f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85934767/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte spéciale des régions dévastées. 08 SO,Douai [Sud-Ouest] / [Service géographique de l'armée]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b85934767"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064783r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La nouvelle France,Paix du 28 juin 1919"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064783r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530643837/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Cambrai. Plan d'ensemble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530643837"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066876r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Valenciennes à Aulnoye. Reconstitution du réseau. Gare de Berlaimont. Commune de Berlaimont"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066876r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530668759/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Valenciennes à Aulnoye. Reconstruction du réseau. Gare de Valenciennes. Commune de Valenciennes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530668759"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065237x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique d'ensemble du bassin houiller du Nord et du Pas-de-Calais,dressée à l'aide des documents fournis par la Chambre des houillères du Nord et du Pas-de-Calais"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065237x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213295t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bassin houiller du Nord et du Pas-de-Calais / par MM Charles Barrois ; Paul Bertrand ; et Pierre Pruvost, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213295t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525121089/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte industrielle du Nord et du Pas-de-Calais..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b525121089"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512233p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte industrielle du Nord et du Pas-de-Calais..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52512233p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260448c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ministère des Travaux publics. Service de la carte géologique et des topographies souterraines. Bassin houiller du Nord et du Pas-de-Calais / par MM. Charles Barrois,Paul Bertrand et Pierre Pruvost..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260448c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458723b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Boulogne-sur-Mer / exécuté... par Nord-France-Publicité"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458723b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84599485/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Dunkerque. Situation actuelle et programme d'extensions"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84599485"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458927p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Lille / publié par les annuaires Ravet-Anceau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458927p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532133689/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte administrative de la France"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532133689"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121046s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Lille 1 : 50.000e / Levée... et publiée par le Depot de la Guerre,revisee en 1914"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121046s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213385s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Lille. corroyage kilométrique. Projection Lambert. zone nord de guerre. Revisé en 1931"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213385s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530667375/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Caudry. 1/5.000e. Dressé tous les auspices... de la municipalité / par M. Ballin,géomètre-expert..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530667375"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066848d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Tourcoing. Plan général dressé d'après photographies aériennes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066848d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260403g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des chemins de fer français / dressé,dessiné et publié par le Service géographique de l'armée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260403g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121346x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Stadtplan von Armentières"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121346x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121463s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de France"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121463s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532604847/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte administrative de la France. Régions (novembre 1941) / Institut géographique national"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532604847"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121539m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan régional de Bouchain. 1 : 10.000 / dressé par G. Vailland"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121539m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531756784/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Nord. Ville de Roeulx. 1 : 2. 000. Fond de plan topographique / dressé... par Paul Bourgoin,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531756784"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53262947h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Nord. Commune de Lambres-lez-Douai. 1 : 2.000. Plan topographique régulier / dressé et dessiné... par G. de Miniac..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53262947h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53175167c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Nord. Commune de Lambres-les-Douai. 1 : 5.000. Plan topographique régulier... / dressé... en 1943 par G. de Miniac..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53175167c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260536f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Organisation militaire territoriale de la France. Décrets du 18 février et du 13 mars 1946"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260536f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531893470/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Nord. Ville d'Aniche. 1 : 5.000. Plan topographique expédié dressé... / dessiné par G. de Miniac,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531893470"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532667061/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Escaudain [Nord]. 1 : 5.000. Plan topographique expedié... / dressé et dessiné en 1947 par A. Castelain.. ."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532667061"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266575q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Denain (Nord). 1 : 2.000. Plan topographique régulier / dressé et dessiné en 1947 par A. Castelain,. .."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266575q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266708x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Escaudain [Nord]. 1 : 2.000. Plan topographique / établi... par A. Castelain,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266708x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84438671/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan of the city and citadel of Dunkirk For Mr Tindal's Continuation of Mr Rapin's History of England"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84438671"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53195624w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nord. Ville de Loos. 1 : 5.000. Plan topographique expédié / dressé et dessiné... par M. Guy de Miniac..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53195624w"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

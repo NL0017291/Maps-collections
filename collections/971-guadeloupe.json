@@ -1,0 +1,357 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/971-guadeloupe.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Guadeloupe (971)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53076095d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La Guadeloupe / par A.M. Perrot...Lieues de France de 25 au Degré, 3 [=Om. 057] ; lieues Marines de 20 au Degré, 3 [=om. 071 ; 1 : 234 000 env] ; gravé par les frères Malo..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53076095d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025264k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Triangulation de la Guadeloupe. 1/250 000. Marées à la Pointe à Pitre,29 Dbre 1867"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53025264k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260620q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Guadeloupe et dépendances / dressée par A. Meunier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260620q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066743s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Guadeloupe et dépendances. 1/100 000e / Dessinée par R. Clairon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066743s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260363k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Guadeloupe et dépendances... / dessinée à Basse-Terre,par M. R. Clairon..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260363k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029764v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte réduite de la Guadeloupe et dépendances... (Nouvelle édition) / dressée d'après les documents recueillis de 1825 à 1831 par H. A. Fricsz..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029764v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8491528n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Antilles, réduite d'après celle de Sprünner [sic] / par L. Dussieux ; Gr. par Marlier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8491528n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494050p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Isles de la Guadeloupe,Marie Galante et les Saintes / Morin delineavit"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494050p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098646c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Guadeloupe et dépendances / Par E. Devèze  Gravé par L. Wuhrer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098646c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53032835b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Colonies Françaises. Guadeloupe et dépendances. Plan de la Redoute Joseph projetée à la Terre d'en Haut, aux Saintes. 20 toises [=Om. 137 ; 1 : 288 ]. Le sous-directeur des fortifications, Fortin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53032835b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84937249/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan,coupe et profil du Fort Charlotte,aux Saintes. C'es à prèsant le Fort Napoléon. Echelle de trois lignes pour toise [1 : 288 ] / Dessiné par le Lieutt adjoint du Génie,Pautriset fils. Le sous directeur des Fortifications : Fortin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84937249"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84937212/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bourg et environs des Saintes N° 15"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84937212"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10106721x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte particulière des îles Antilles ou des Indes occidentales. rédigée par A. Brué,géographe du Roi"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10106721x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84937190/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Reconnaissance du terrain situé sur les derrières de la ligne de défense des hautuers depuis le Morne Houel jusqu'à la rive gauche du petit Carbet, par ordre du Général en Chef. Echelle de 900 toises [=Om. 176 ; 1 : 10 000 Signé : ]. Faujay"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84937190"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53057923r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la reconnaissance militaire faite dans les hauteurs de la Basseterre,à partir du pont de Rosière jusqu'à la Soufrière d'après les ordres de S.E. le Capitaine Général / par son très obéissant serviteur,Pautrizel fils,capitaine adj. du génie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53057923r"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

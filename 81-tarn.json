@@ -1,0 +1,380 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/81-tarn.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Tarn (81)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030078m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Mazamet. 1/4 000 / Signé J. Miquel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030078m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53036609h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique du Collège et de la Ville de Sorèze. Par Mr Dèzes de Grèzes,Ingénieur Géomètre de 1ère Classe,dédié à M. de Bernard Anselme,... Directeur de l'Ecole"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53036609h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035133t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique du collège et de la ville de Sorèze / Mr Dèze de Grèzes, ingénieur géomètre de 1re classe ; Lithographie de Bonnal F[rè]res et Escudier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035133t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84459744/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Albi... / dressé... par Augte Bousquel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84459744"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442468r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Albi dédié à Mrs les membres formant l'Orgon Judiciaire du Tal civil d'Albi... / par Augte Bousquel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442468r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439715j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département du Tarn, extraite de la grande carte géologique de France / de MM. Dufrenoy ; et Elie de Beaumont..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439715j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439733g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du théâtre des grandes manoeuvres du 16e corps d'armée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439733g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84417850/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de diverses parcelles comprises dans le périmètre des concessions houillères de Lacaze,Serons et Palayret,pour servir à l'expertise constatant les redevances dues aux propriétaires de la surface / par la Compagnie des forges et fonderies de l'Aveyron"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84417850"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495587r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves (pl. 20) : Seine-et-Oise,Deux-Sèvres,Somme,Tarn"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495587r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439376v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte archéologique du département de Tarn aux époques antéhistorique,gauloise,romaine et franque / dressée... par M. A. Caraven..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439376v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442618j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Albi... / par A. Lacroux,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442618j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84448947/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan guide du touriste dans le Sidobre près Castres (Tarn). 1/40.000 / dressé par Paul Labadie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84448947"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066918j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gare d'Albi. Plan d'ensemble (état actuel)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066918j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233002m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte vicinale du departement du Tarn"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233002m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260767w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Croquis topographique de la région de Carmaux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260767w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532627501/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan graphique expédié de la ville de Carmaux,tiré d'un plan photo redressé / exécuté par la Société générale de Photo-topographie,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532627501"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

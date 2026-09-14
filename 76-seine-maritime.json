@@ -1,0 +1,6636 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/76-seine-maritime.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Seine-Maritime (76)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029869g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029869g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530606830/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Morcellement du domaine de Vitanval..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530606830"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062043r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Seine-Inférieure. 1/200.000 / dressée par la Direction des cartes et plans,Ministère des Travaux publics"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062043r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530606296/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des canalisations de la ville du Hâvre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530606296"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060524k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Hâvre avec les agrandissements projetés..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060524k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53061924f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Rouen monumental, industriel et commercial / gravé par H. Rollet ; Edité par MM Schneider Fres ; Publié par l'Administration des Plans monumentaux de France"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53061924f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530230231/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Havre,de ses alentours et des terrains des diverses compagnies / établi par les gérants de la Société Ricou,Gerdret et compagnie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530230231"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021231m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la ville et des environs du Havre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021231m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10679857t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10679857t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106798514/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Havre et de la plaine comprise entre la côte d'Ingouville et la Seine : Fac simile d'un plan manuscrit sur parchemin du commencement du XVIIe siècle / Lith[ographie] de Coulon  Rebel sc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106798514"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10678972f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Seine inférieure et ses environs / Par Victor Levasseur, géographe, ingénieur-géomètre du Cadastre ; gravé par Laguillermie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10678972f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250938j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de la ville et du port du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250938j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440356k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port du Havre,après l'achèvement des grands travaux et de la nouvelle ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440356k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441446v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Assemblage du plan général d'alignement de la ville d'Elbeuf,Seine-Inférieure"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441446v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84441549/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la commune de Sanvic"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84441549"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84449616/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Eglise Saint-Hilaire,à Rouen / L. Sauvaget,arch.te"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84449616"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84447492/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Vue à vol d'oiseau du nouveau quartier de l'Eure et du canal de Tancarville / Michelet,sc."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84447492"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443906p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général d'agrandissement du port et de la ville du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443906p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84447655/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'Oppidum gallo-belge vulgairement connu sous les noms de Cité de Limes et de Camp de César, situé à 3.000 mètres nord-est de la ville de Dieppe / Monnoyeur del. ; Adam, sc."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84447655"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442544p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442544p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444148k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Emplacement des maisons Barbet et Sirot à démolir pour le percement d'une rue neuve projetée allant de la rue de l'Hôpital au Bassin neuf..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444148k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442551t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Rouen renfermée dans sa première enceinte,comme elle était sous Raoul et nos premiers ducs qui l'augmentèrent beaucoup du côté du midi et resserrèrent le lit de la rivière de près d'un tiers. 943"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442551t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439546d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan of Trouville-sur-Mer, shewing the properties proposed to the adquired by the Trouville association limited and the existing and proposed roads / A. Crepinet architecte ; Marsh, Nelson and Harvey architects"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439546d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84447477/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Eglise de Ste Marie à Grasville près le Havre / Dessiné par Frissard  Gravé par Adam"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84447477"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439547t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des environs de la ville de Dieppe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439547t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84439006/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général d'agrandissement du port et de la ville du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84439006"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84419811/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84419811"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443467n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan indiqué de la ville et du port du Havre,dressé pour servir d'explication au projet de loi présenté aux Chambres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443467n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84439073/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général d'agrandissement du port et de la ville du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84439073"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84447425/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Seine-Inférieure / par E. G. de La Porte-Chapelle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84447425"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440564t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440564t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84441475/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan militaire de la ville,des environs et de la rade du Havre.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84441475"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84436413/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Agrandissement de la ville et du port du Hâvre 1er (-2e) projet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84436413"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444122b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Défense du Havre. Plan des ouvrages militaires et maritimes a exécuter tant à terre qu'en mer pour la défense du Hâvre et faisant l'objet des projets de loi présentés les 25 et 27 février par MM. les Ministres des finances et des travaux publics..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444122b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440725d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des environs de la ville de Dieppe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440725d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444127d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Havre nouveau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444127d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440627w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des faubourgs de Rouen,levé par MM. les ingénieurs des ponts et chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440627w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029536r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Seine-Inférieure,divisée en préfecture et sous-préfectures,avec les chefs-lieux de canton,les justices de paix et leur arrondissement / dressée par Dezauche,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029536r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444746t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Abbaye de Montivilliers. Bâtiments et enceinte en 1804"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444746t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84436465/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Hâvre avec les ouvrages projetés et ceux qui s'y exécutent"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84436465"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531004129/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte typographique du Département de la Seine-Inférieure,contenant sa division en Arrondissements communaux et en Justice de Paix,les noms de toutes les communes et les principales Rivières et grandes Routes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531004129"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53224070n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des départemens de la Manche, du Calvados, de la Seine Inférieure, de l'Eure et de l'Orne / par Mr. Clermont... ; et... par J. B. Poirson"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53224070n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027943n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan routier de la ville et faubourg de Rouen,divisé en ses 13 paroisses et 5 succursales"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027943n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530620196/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des faubourgs de Rouen,levé par MM. les Ingénieurs des Ponts et Chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530620196"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027846m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan routier de la ville et faubourgs de Rouen..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027846m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84425527/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan indicatif des rues et places de la ville de Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84425527"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530986236/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique de la Ville et des Faubourgs de Rouen,levée,dressée et. dessinée par Mrs J.G. Héliot et Hthe. Boutigny,Géomètres Architectes,sous la direction de Mr Lafosse,Architecte de la Ville. Dédiée à Monsieur le Maire de Rouen. 1 : 10 000 . Gravé par Blondeau,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530986236"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530252026/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan routier de la ville et faubourgs de Rouen,avec ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530252026"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530299813/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Havre d'après les changements les plus récents / dessiné et gravé par G. Lemaître"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530299813"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106789710/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Atlas national de France : département de la Seine inférieure décretée le 3 Février 1790 par l'Assemblée Nationale divisé en 5 Arrondissemens et en 50 Cantons (Revu corrigé et augmenté en 1818) / Gravé par P. A. F. Tardieu"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106789710"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444369f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Havre,d'après les changements les plus récents / dessiné... par G. Lemaître"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444369f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444849d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des ruines de l'abbaye de Jumièges / Alph. de Cailleux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444849d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441780x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Vue du port de Fécamp pendant la tempête du 23 8bre 1820 / par M. Frissard,ingénieur de ce port"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441780x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445797f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445797f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444167x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan d'une partie du village de Veules certifié conforme au plan de la commune déposé à la mairie et fait en 1755)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444167x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443698w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan du Havre.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443698w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444739p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pour servir à connaître la conduite des eaux,partant des sources de Irigauville (sic),et qui allimentent les quartiers St-François et la Citadelle. 1820 / fait par Boucard,architecte et fontainier de la ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444739p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060707v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan routier de la ville et faubourgs de Rouen avec ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060707v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445488f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Seine-Inférieure. Ponts et chaussées. Direction du Havre. Génie militaire. Port-du Havre. Fragment du plan de l'avant-port avec le tracé des divers projets proposés pour l'achèvement de la partie voisine du front ouest de l'ancienne citadelle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445488f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443953b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Hâvre avec ses ragrandissements"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443953b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53024981c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan routier de la ville et faubourgs de Rouen,avec ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53024981c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106798588/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Havre / Dessiné par A[uguste] Cornillon  Litho[graphi]e de G. Engelmann et cie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106798588"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444166h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la place de Veules / dressé par Cardon,géomètre... à St Valery,le 9 avril 1827"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444166h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098690r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan routier de la Ville et des Faubourgs de Rouen avec ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098690r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233050s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Département de la Seine-Inférieure / d'après les Plans parcelres du Cadastre confectionnée sous l'Adon de Mrs le Bon de Vanssay et le Cte de Murat Prefets,par Girard et Carbonnie,Géomètres en chef. 1 : 150 000 Gravée par F.P. Michel,La Lettre par Aubert Junior,Imprimée par Chardon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233050s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84925190/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville et du Port du Havre après l'achèvement des grands travaux et de la nouvelle Ville. 400 mètres [= Om. 078  1 : 5 125 environ] / Gravé par Adam"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84925190"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531029693/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département de la Seine-Inférieure et des parties limitrophes des départements voisins / par M. A. Passy  gravé par Ambroise Tardieu"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531029693"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085109t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique du département de la Seine-Inférieure... / par M. A. Passy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085109t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440494m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Du 27 février 1833 au 5 mars. Nivellement d'une partie du faubourg St-Sever,pour Mme Vve Joly (deux plans manuscrits avec 3 feuilles de cotes)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440494m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10678981d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'embouchure de la Seine (environs du Havre) Levé en 1834 : par les Ingénieurs hydrographes de la Marine sous les ordres de M. Beautemps Beaupré,ingénieur hydrographe en chef,membre de l'Académie royale des Sciences et du bureau des longitudes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10678981d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443608g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Hâvre avec les projets d'agrandissement de la ville et du port,proposés à la Chambre de commerce,le 10 avril 1834... / par Le Berrier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443608g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063585j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des cantons de Montivilliers,Ingouville,Le Havre... / par M. Lalouette,géomètre en chef du cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063585j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106789767/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Yvetot / redigée et gravée au Dépôt général de la Guerre sous la direction de M[onssieu]r le L[ieutenan]t G[énér]al Pelet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106789767"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8491500k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique et statistique du département de la Seine-Inférieure..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8491500k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035286m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du port de Dieppe en 1600  Plan d'Étretat / Lith. de Delevoye-Barrier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035286m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035293p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port du Havre après l'achèvement des grands travaux et de la nouvelle ville / Michel fils aîné dir[exi]t  Ch. Smith sculp[sit]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035293p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035155j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des cantons d'Elbeuf et Grand Couronne : divisée en 21 communes et présentant la situation de la ville de Rouen et ses environs [...] / par M. Lalouette, géomètre en chef du cadastre ; établissement spécial de gravure de Bouchard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035155j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443645r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général de l'agrandissement de la ville et du port du Hâvre adopté définitivement par la Commission spéciale"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443645r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530353146/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pour l'extension du port du Havre Présenté au Roi par Mr Ch. de Massas / Frèd[ér]ic Hellrigel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530353146"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444123r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pour l'extension du port du Havre présenté au Roi / par M. Ch. de Massas,le 10 juillet 1838..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444123r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439675g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port du Havre en 1838"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439675g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84426530/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84426530"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84441245/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet d'agrandissement et d'amélioration de la ville et du port du Havre / (Signé : Havre,le 26 mars 1838 Le Berrier.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84441245"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530878506/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Havre et vue du port / par Mr Paris, attaché aux Ponts et chaussées ; d'après Mr Frissard,... ; gravé par Barrière aîné"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530878506"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10678974b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Seine Inférieure / Par A[uguste] H[enri] Dufour"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10678974b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10678973w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Seine-Inférieure : Annuaire de Rouen 1839 / Michel fils aîné"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10678973w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10678980z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'embouchure de la Seine (environs du Havre) levé en 1834 : par les Ingénieurs hydrographes de la Marine sous les ordres de M. Beautemps Beaupré, ingénieur hydrographe en chef, membre de l'Académie royale des Sciences et du bureau des longitgudes publié par ordre du roi sous le Ministère de M. le Baron Tupinier, secrétaire d'État au département de la marine et des colonies / gravé par C. E. Collin ; écrit par J. M. Ha.."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10678980z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443797t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443797t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060576j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Seine-Inférieure. Plan général de la ville de Dieppe dressé par l'ingénieur soussigné. Dieppe,le 19 juin 1840"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060576j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530878864/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement du Havre : rédigée d'après les meilleurs documents et dressée spécialement pour servir à la Normandie pittoresque"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530878864"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10678979k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Havre 2e arrond[issement] / publiée par Tr. Ogier,litho[gra]phe : Seine-Inférieure"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10678979k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10679859q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Havre et vue du port / d'après M[onsieu]r Frissard avec les changemens opérés jusqu'à la fin de 1839 par M[onsieu]r Paris attaché aux Ponts et chaussées  Gravé par Barrière aisné"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10679859q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444764r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan de Dieppe.]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444764r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027830h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Domaine privé du roi. Plan du château et du parc d'Eu / dressé en 1841 par Beauchet,géomètre vérificateur des forêts du roi et de la maison d'Orléans"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027830h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53074847k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Description de trois projets relatifs à l'agrandissement du port et de la ville du Havre. Dressé par l'ingénieur en chef du port du Havre soussigné,Au Havre,le 13 août 1841.. ."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53074847k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087685x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087685x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443908h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "N° 2. Plan général de l'agrandissement de la ville et du port du Havre adopté définitivement par la commission spéciale"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443908h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443915n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(1er-3e.) Système d'agrandissement du port et de la ville du Havre... présenté à MM. les membres de la commission mixte / par Pre Hue,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443915n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444379t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Observations consignées au cahier d'enquête pour l'agrandissement du port du Havre / par P. Hue,(3 octobre 1841)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444379t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087650f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port du Havre / lith. de P. Bineteau  Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087650f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530604229/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte d'assemblage des sections de la commune de Graville l'Eure dressée d'après les plans parcellaires du cadastre... / par MM. de Saint Genis ; et Gordillot Hanez,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530604229"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530301049/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Havre et de ses environs indiquant les mutations parcellaires du cadastre sur les communes de Grasville,Ingouville et Sanvic / par MM de Saint-Genis et Gordillo-Ibañez,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530301049"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030154c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Havre et de ses environs indiquant les mutations parcellaires du cadastre sur les communes de Grasville,Ingouville et Sanvic / par MM de Saint-Genis et Gordillo-Ibañez,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030154c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087581r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Havre et de ses environs indiquant les mutations parcellaires du cadastre sur les communes de Grasville,Ingouville et Sanvic / par MM de Saint-Genis et Gordillo-Ibañez,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087581r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530849817/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte d'assemblage des sections de la commune de Graville l'Eure... / par MM. de Saint-Genis  et Gordillet-Haüez..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530849817"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530874531/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'agrandissement du port et de la ville du Havre / lith. Lenormand de l'osier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530874531"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087468p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer de Rouen au Hâvre [sic] d'après le tracé arrêté sur le terrain par MM. les ingénieurs de la Direction des Ponts et chaussées du département de de la Seine-Inf[érieu]re / dessinée par Edouard Lebrun,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087468p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530875129/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Havre et de ses environs : indiquant l'ancienne 1re zone de 250 mètres et la réduction de cette zone à 150 mètres selon la dernière décision ministériel [sic] / lit. H. Brel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530875129"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53061657w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet d'un débarcadère pour le chemin de fer du Hâvre [sic] à Rouen proposé par Mr. le Maire de Grasville / dessiné par E. Lebrun,... ; lit. H. Bret"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53061657w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087466s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet d'un débarcadère pour le chemin de fer du Hâvre [sic] à Rouen proposé par Mr. le Maire de Grasville / dessiné par E. Lebrun,... ; lit. H. Bret"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087466s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84414745/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gournay. Seine-Inférieure"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84414745"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530292516/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométral de division des terrains appartenant à la Sté Ricou et Gerdret et Cie,situés en la commune de Graville-Leure / Dressé et certifié véritable par E. Bucaille,géomètre... le 15 mai 1843"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530292516"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530605770/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général d'agrandissement du port et de la ville du Havre (Signé : 3 novembre 1843,l'Ingénieur en chef...)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530605770"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530876799/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Projet arrêté de débarcadère du chemin de fer du Havre à Rouen / autographie de H. Bret"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530876799"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088142c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan routier de la ville et faubourgs de Rouen avec ses environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088142c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087696s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique,statistique et administrative du département de la Seine-Inférieure indiquant les distances,les relais de Poste,la population des villes et des communes,ainsi que la classification des routes / dressée par C. V. Monin,ingénieur géographe..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087696s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495481x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan des travaux projetés en 1844 sur le port du Havre]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495481x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439999x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Rouen / par Ch. Hubert"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439999x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084909h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique... du département de la Seine Inférieure... / dressée par C.-V. Monin..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084909h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087700r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Havre / lith. Saunier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087700r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088044w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général d'agrandissement du port et de la ville du Havre : définitivement adopté par la Commission mixte des travaux / Aut. de Hue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088044w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530878919/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan d'agrandissement du port du Havre] / lith. Lenormand"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530878919"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087759v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du port et de la ville de Dieppe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087759v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445789w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port du Havre indiquant l'emplacement du projet de bassin Le Louis-Philippe ayant son entrée directe par l'avant-port et communiquant avec les autres bassins. L. Ladvocat delt"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445789w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441714x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Eu. (Signé : G. Maillard. )"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441714x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087716v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan de l'embarcadère projeté de la gare de Dieppe] / lith. Em. Delavoye"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087716v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087948r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bassin Vauban [au Havre]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087948r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530879780/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Agrandissement du port du Hâvre] / lith. Lenormand de l'Osier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530879780"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087977j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Départem[en]t de la Seine Infér[ieu]re et de ses environs / par Victor Levasseur. Géographe, ingénieur-géomètre du Cadastre ; gravé par Laguillermie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087977j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443225m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général d'agrandissement du port et de la ville du Havre. Paris fecit"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443225m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087835m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Rouen et de ses environs / dressé par Mr J. de Gordillo Ybanès, capitaine du Génie espagnol,... ; gravé et imprimé chez Gratin ; et Schwaerzlé"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087835m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445790j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan complet du Havre avec les grands travaux en cours d'exécution (année 1848)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445790j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84433961/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port du Havre après l'achèvement des grands travaux et de la nouvelle ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84433961"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136195t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du port et de la ville du Tréport / lith. Lutton"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136195t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136427z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Normandie comprenant les départements de la Seine-Inférieure,de la Manche,du Calvados,de l'Eure et de l'Orne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136427z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531361644/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville et des environs du Havre avec les agrandissements et constructions projetés / publié par A. Logerot  lith. Lemercier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531361644"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532237790/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service vicinal. Département de la Seine-Inférieure. Carte routière / dressé... par M. Fouché,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532237790"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530252204/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service vicinal. Département de la Seine-Inférieure / carte routière dressée... par M. Fouché... ; dessinée par Ed. Mauduit, 1852"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530252204"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136253n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ferme d'Écorchebœuf : Cultures de 18.. à 18.. / lith. P. Dupont"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136253n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531363499/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte du département de la Seine inférieure avec le tracé des routes, chemins de fer et l'indication des voies romaines / dressée [...] par Mr. J. Morlent,... ; gravé par Regnier et Dourdet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531363499"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136207c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Dieppe et ses environs / par Ch. Larochette, dessinateur au Dépôt de la Guerre ; gravé sur pierre par St. Mesme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136207c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445899m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Dieppe et ses environs / par Ch. Larochette, dessinateur au Dépôt de la Guerre ; gravé sur pierre par St. Mesme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445899m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223818f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville du Hâvre... / publié avec le concours de M. C.-B. Matenas. .."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223818f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b106798603/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville du Hâvre : comprenant une partie des communes de S[ain]te Adresse,Sanvic et Graville S[ain]te Honorine / publié par Aug[us]te Logerot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b106798603"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84436072/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Mémoire sur les eaux potables / par Eugène Marchand,Carte géologique des arrondissements du Hàvre et d'Yvetot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84436072"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444745d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la terre d'Orcher située près le Havre (Seine-Inférieure) / dressé par E. Bucaille"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444745d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495586b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves (pl. 19) : Seine,Seine Inférieure,Seine-et-Marne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495586b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443257k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Rouen d'après le plan cadastral de la ville,avec l'indication des rues et places projetées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443257k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84955603/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rouen,1855 / gravé F. Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84955603"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530278811/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la ville de Rouen et de ses faubourgs..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530278811"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532428769/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service vicinal. Département de la Seine-Inférieure. Arrondissement de Rouen. Carte routière / dressée... par M. Fouché,d'après les documens fournis par les agents-voyers de l'arrondissement"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532428769"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060468n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la ville et des environs du Hâvre avec les agrandissements et constructions projetés"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060468n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53242872h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service vicinal. Département de la Seine-Inférieure. Arrondissement de Dieppe Carte routière dressée sous l'administration de M. le Bon Ernest Leroy,... / par M. Fouché,d'après les documents fournis par les agents-voyers de l'arrondissement"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53242872h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444125k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan du port et de la ville du Havre / publié par Th. Cochard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444125k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53242873z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service vicinal. Département de la Seine-Inférieure. Arrondissement du Havre. Carte routière dressée... / par M. Fouché,d'après les documents fournis par les agents-voyers de l'arrondissement"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53242873z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53242874d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service vicinal. Département de la Seine-Inférieure. Arrondissement d'Yvetot / Carte routière dressée sous l'administrationde M. le B.n Ernest Leroy,par M. Fouché,d'par M. Fouché,d'après les documents fournis par les agents-voyers de l'arrondissement"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53242874d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084984k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Hâvre. Assainissement des plaines de l'Eure et de Graville... / par Nillus..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084984k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060297p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'un projet de boulevard maritime depuis la jetée du nord jusqu'à Sainte-Adresse / exécuté par M. Alph. Ladvocat,sur la demande de M. Just Viel,maire de la ville du Havre,avec le plan du nouveau quartier à créer sur l'emplacement des fortifications des fronts ouest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060297p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098755q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ponts et Chaussées. Departement de la Seine-Inférieure. Navigation de la Seine,4ème Section. Carte de la Seine Maritime... 1 : 40 000 / Lemaître sc."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098755q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085050g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du port de St Valery-en-Caux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085050g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53242875v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service vicinal. Département de la Seine-Inférieure. Arrondissement de Neufchatel. Carte routière / dressée... par M. Fouché,d'après les documents fournis par les agents-voyers de l'arrondissement"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53242875v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532455264/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service vicinal. Département de la Seine-Inférieure. Arrondissement de Dieppe. Cantons de Dieppe et d'Offranville. Carte routière / dressée... par M. Fouché,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532455264"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84418341/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Forêt-Verte et du bois communal de la Muette depuis 1861"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84418341"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10678975s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service vicinal. Département de la Seine-Inférieure. Arrondissement de Rouen. Cantons de Rouen et Darnétal. Carte routière / dressée sous l'administration de M. le Bon. Ernest Leroy G. O. sénateur préfet  avec le concours des agents-voyers de l'arrondissement et du canton"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10678975s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445798v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port du Havre. Tour François 1er. Coupe. Plan d'ensemble des anciens et nouveaux ouvrages de l'avant-port. Offert à la Société havraise d'études diverses pour être joint au rapport archéologique de M. l'abbé Leconte. 10 janvier 1862 / (Signé A. Marie,ingr civil.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445798v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53023107c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la ville du Havre, comprenant une partie des communes de Ste-Adresse, Sanvic et Graville-Ste-Honorine / publié par Augte Logerot ; ,... avec le concours de M. A. Delaporte,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53023107c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531451821/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du port et de la ville du Tréport en 1863 : Département de la Seine-Inférieure,arrondissement de Dieppe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531451821"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532428712/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service vicinal. Département de la Seine-Inférieure (6e édition) / Carte routière dressée... par M. Fouché,d'après les documents fournis par les agents-voyers du département"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532428712"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250717h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Rouen et de tout son territoire communal / dressé... par M. Fouché,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250717h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223819w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du port et de la ville du Hâvre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223819w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099677d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la Ville de Rouen. Publié par A. Logerot,Editeur. Echelle de 500 mètres [=Om. 100,1 : 5 000 ]. Gravé par Regnier et Dourdet,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099677d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223780c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ponts et chaussées. Carte administrative... de la Seine-Inférieure,dressée par les Ingénieurs de ce département..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223780c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445801w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Havre,situation du port et de la ville en 1872"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445801w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84441260/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84441260"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532394634/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port du Havre,année 1873. Courbes de niveau avant l'exécution des dragages"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532394634"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53239462p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port du Havre,année 1873. Courbes de niveau avant l'exécution des dragages"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53239462p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8469450s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8469450s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442486p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etretat,1874"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442486p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84424858/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Fécamp,1874"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84424858"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108540519/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Dieppe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108540519"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854052r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Harfleur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854052r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854050v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Eu"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854050v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108540536/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Fécamp"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108540536"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532331522/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan officiel de la Ville du Hâvre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532331522"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108540570/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Trouville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108540570"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854054n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Atlas des ports de France. Manche. I. Caudebec. II. Duclair"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854054n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445107z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Seine-Inférieure. 1877"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445107z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530606618/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'embouchure de la Seine (environs du Havre) levé en 1875 / par Mr. X. Estignard,... ; assisté de MM. E. Ploix,... ; Hatt et Caspari,... ; Dépôt des cartes et plans de la marine ; gravé par E. Delaune ; écrit par Er. Dumas Vorzet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530606618"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021094p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Dieppe,avec ses faubourgs et ses sections rurales / dressé par M. Condor..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021094p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530210507/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Dieppe,avec ses faubourgs et ses sections rurales / dressé par M. Condor..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530210507"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53258179c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan officiel de la ville du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53258179c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53258148p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53258148p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53020937m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait du plan de la ville de Rouen / dressé... par M. Gogeard...  et C. Leleu"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53020937m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53020942s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port du Havre. Plan d'une nouvelle entrée et d'un dixième bassin à flot. 1882-1883"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53020942s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021146w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ministère des travaux publics. Direction des cartes et plans. Seine-Inférieure,dressée. .. à l'aide de l'assemblage des feuilles... de la carte de France au 200 000e"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021146w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530210702/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Parc des Petites-Dalles (Seine-Inférieure). Vente de terrains boisés au bord de la mer. Plan de lotissement... / dressé par l'ingénieur soussigné,à Paris,le décembre 1882 C. Gondouin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530210702"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53145207b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Cours de la Seine en amont d'Aizier jusqu'à,et y compris le Port de Rouen] / l'Enseigne de Vaisseau,Davoust"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53145207b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440496f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Agrandissement du port du Havre. Projet de MM. les ingénieurs. (Discours de M. Mallet à la salle Ste-Cécile,le 30 avril 1883.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440496f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445791z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Agrandissement du port du Havre,projet de MM. les ingénieurs,1882-1883"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445791z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530211781/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Reproduction d'un ancien plan du château de Philippe-Auguste"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530211781"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53023117s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte particulière des côtes de France : embouchure de la Seine / d'après la reconnaissance hydrographique exécutée en juillet, août et septembre 1880 par Mr A. Germain, ingénieur hydrographe de 2d classe ; assisté de MM. Favé, Mion et Laporte sous ingénieurs hydrographes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53023117s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530231348/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du port et de la ville du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530231348"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550112149/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b550112149"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550112238/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b550112238"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84391498/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du port de Dieppe en 1600. Plan d'Etretat"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84391498"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443644b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port du Hâvre 1884. Plan général des travaux jugés nécessaires pour l'aménagement du port"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443644b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439214d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Société pour la défense des intérêts de la vallée de la Seine. Amélioration et extension du port de Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439214d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445792c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port du Havre,1884. Plan général des travaux jugés nécessaires pour l'aménagement du port"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445792c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011238x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rouen / dessiné par L. Thuillier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011238x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444121x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville Françoise et du Hâvre de Grâce en 1524 / dressé par Alphonse Martin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444121x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53022810z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte murale du département de la Seine-Inférieure / dressé par Ferry"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53022810z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444128t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Havre en 1887"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444128t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84394944/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Havre et ses environs. Nouveau plan,1887 / dressé par L. Leblanc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84394944"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530248810/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs du Havre / dressés par J. Gaultier,... ; Dessiné par A. Cuénot, et reproduit par le procédé héliographique J. Gaultier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530248810"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011292q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Supplément au journal \"le Temps\" du... 30 mai 1888. Le Havre, agrandissement du port, plan des travaux projetés"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011292q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53145210m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Seine maritime et du canal de Tancarville au 50, 000e / par R. Vuillaume ; gravé par A. Simon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53145210m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53058469j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Havre. Plan de la ville et du port"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53058469j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84404988/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Seine maritime et du canal de Tancarville,à 1/50 000 / par R. Vuillaume"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84404988"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53258180r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan du Havre monumental,industriel et commercial. Indicateur des principaux établissements industriels et des monuments publics du Havre et ses environs,dressé par la société des plans monumentaux de France"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53258180r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84458029/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84458029"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53248091x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Indicateur des principaux établissements industriels et des monuments publics du Havre et de ses environs,dressé par la Société des plans monumentaux de France"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53248091x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445803q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445803q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84415963/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Rouen. Forêt verte. Carte dressée d'après des documents officiels"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84415963"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029214w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte vélocipédique routière kilométrique de la Seine-Inférieure et des pays limitrophes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029214w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029213f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte routière kilométrique de la Seine-Inférieure et des pays limitrophes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029213f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441302b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Havre et des communes limitrophes,dressé... / par M. Pierre Degeorges,...,1896"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441302b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84418912/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Havre et des communes limitrophes... / par M. Pierre Degeorges,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84418912"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530293828/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Société lyonnaise des eaux et de l'éclairage. Service des eaux de la banlieue de Rouen. Plan général,dressé le 15 février 1897"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530293828"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k853837t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Atlas de statistique agricole : résultats généraux des statistiques agricoles décennales de 1882 et de 1892 / Ministère de l'agriculture. Direction de l'agriculture"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/bpt6k853837t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84417672/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière de la forêt de Roumare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84417672"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441764t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Rouen. Forêt verte. Carte dressée d'après les documents officiels. 1895"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441764t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84415733/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Havre et des communes limitrophes,dressé... / par Mr Pierre Degeorges,,... 1896"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84415733"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441833m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Forêt-Verte et des terrains devenus communaux après le cantonnement de 1551. 1/20 000 / (Signé : de La Serre)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441833m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441598x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière de la forêt de Roumare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441598x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006632p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Seine-Inférieure. Direction générale de l'enregistrement,des domaines et du timbre. Bureau des domaines du Havre. Vente aux enchères publiques de prairies,jardins et terrains à bàtir situés à Saint-Vigor d'Ymonville,canton de Saint-Romain,appartenant à l'Etat... (21 juillet 1897.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006632p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53145212h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Seine : [de Rouen à la Risle] / Service des Ponts et chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53145212h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441957c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Havre et des communes limitrophes (2e édition revisée) / dressé par M. Pierre Degeorges,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441957c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121044w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gare de Rouen R. D..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121044w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459962f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Rouen,édité pour l'Almanach de Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8459962f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84437349/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Rouen. Révisions de 1889-90-93"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84437349"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84439466/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Dieppe avec ses faubourgs et ses sections rurales"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84439466"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84439236/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Hàvre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84439236"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84461115/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt-Verte et ses environs. Plan général..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84461115"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444321m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Havre offert par le journal \"Les Petites Affiches\""
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444321m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445288r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'Echo de Paris... Départements de la Seine-Inférieure,de l'Oise et de la Somme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445288r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063671q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dieppe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063671q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063706f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063706f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064512n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan monumental du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064512n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065210z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan monumental du Havre,dressé d'après les documents officiels révisés et mis à jour"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065210z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064783r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La nouvelle France,Paix du 28 juin 1919"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064783r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100526759/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pavillon Flaubert à Croisset"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b100526759"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10052676r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pavillon Flaubert à Croisset"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10052676r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531213068/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Comité de l'Industrie,du Commerce et de l'Armement du Havre et de l'estuaire de la Seine. Projet d'extension du port du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531213068"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064623w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port du Hâvre après l'annexion de Graville / dressé par Th. Fabre,géomètre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064623w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530649377/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan monumental du Havre,Dressé d'après les documents officiels revisés et mis à jour"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530649377"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065333h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan monumental de Rouen / dressé par G. Peltier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065333h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530650375/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan monumental de Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530650375"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065031g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port du Havre après l'annexion de Graville / dressé par Th. Fabre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065031g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84587737/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Rouen édité pour \"l'Almanach de Rouen\"..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84587737"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065147z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065147z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066587g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan monumental de Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066587g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530666313/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Composition des élections financières ressortissant aux cours des aides de Paris et de Rouen,dans la seconde moitié du XVe siècle / par M. G.ve Dupont-Ferrier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530666313"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530666029/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port du Havre après l'annexion de Graville / dressé par Th. Fabre,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530666029"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53145192f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Reconstitution de la baie d'Harfleur à travers les âges / carte dressée par Marcel A. Hérubel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53145192f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532133543/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532133543"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019733v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre de la ville de Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53019733v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530196395/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre de la ville du Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530196395"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532133689/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte administrative de la France"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532133689"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213425p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la forêt de Lyons et de ses environs (Eure et Seine-Inférieure) / établie par Jean Dollfus,à Lyons-la-Forêt (Eure)..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213425p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066817q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Composition des élections financières ressortissant aux cours des aides de Paris et de Rouen dans la seconde moitié du XVe siècle / par M. G.ve Dupont-Ferrier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066817q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121184x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Stadtplan von Rouen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121184x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121418z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Stadtplan von Le Havre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121418z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121463s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de France"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121463s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530592192/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt domaniale Verte. Forêt domaniale de la Muette"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530592192"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530582025/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt domaniale de la Londe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530582025"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532604847/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte administrative de la France. Régions (novembre 1941) / Institut géographique national"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532604847"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531452186/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Seine Maritime : [de Rouen à Berville-sur-Mer] / Service des Ponts et chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531452186"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265199g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Seine-Inférieure. Saint-Etienne-du-Rouvray. 1 : 2.000. Fond de plan topographique / dressé en 1941 par Ph. Jarre,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265199g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530583426/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt domaniale d'Arques"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530583426"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531475236/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "S[ain]t Valery en Caux / produced under the superintendence of vice-admiral Sir John Edgell, K.B.E., C.B., hydrographer ; compiled and drawn by Inter-Service topographical Department"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531475236"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53175891k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt domaniale Maulevrier... Forêt Domaniale Trait-St-Wandrille..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53175891k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532628385/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Croquis topographique du Groupement d'Urbanisme de Fécamp établi... / par Chevaux,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532628385"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53057833s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Dieppe... indiquant les destructions et bombardements subis de septembre 1939 à août 1944"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53057833s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260536f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Organisation militaire territoriale de la France. Décrets du 18 février et du 13 mars 1946"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260536f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532607383/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Seine-Inférieure. Ville de Darnétal. 1 : 2.000... / Levé par Ph. Jarre,Juin 1945"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532607383"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265238x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Maromme [Seine-Inférieure]. 1 : 2.000. Plan topographique régulier / dressé... par Jarre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265238x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532667741/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Canteleu. Seine-Inférieure. 1 : 5.000. Plan topographique expédié / dressé... par R. Choquard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532667741"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531896830/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Saint-Etienne-du-Rouvray. Quartier du Madrillet. 1 : 5.000 / dressé par Ph. Jarre,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531896830"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

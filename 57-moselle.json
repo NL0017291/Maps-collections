@@ -1,0 +1,4865 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/57-moselle.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Moselle (57)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443359r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Metz assiégé par Charles V."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443359r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531003603/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte topographique de l'ancien lit de la Moselle vis à vis Cattenom. Fait et levé le... 1806"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531003603"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530329348/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte figurative des bois des communes de Kierft et de Beyren mixtes entre le département de la Moselle et celui de la Sarre. Dressée par moi,Géomètre arpenteur à Thionville en exécution des arrêtés des préfets desdits départements en datte des quinze nivôse et quatorze pluviose dernier. Fait et exécuté à Thionville,le premier floréal,au douze de la République française une et indivisible en foi de quoi j'ai signé"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530329348"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84936061/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Division en 8 parties des bois situés à Vaux,appartenant à Mr. Marin,provenant de Mr Ducherray (Herbélais ou Trou Herbaux,La Grande Plaine,La grande et petite Wade,le Bois Brûlé)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84936061"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8493607f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des bois de Trémery contenants en totalité 177 ha. la 78 cent... 700 [m. =Om. 170  1 : 4 100 env]. Le 4 frim. de l'an 14"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8493607f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444169r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Metz et de ses environs / Dessiné par Etienne Pétronin,à Nancy,le 6 mars an 1809"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444169r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8493969k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique / dressée par moi Jean Pierre Etienne Bertrand,géomètre arpenteur de l'Inspection forestière de Thionville,à la réquisition de Mr. Tailleur,propriétaire à Bouzonville pour obtenir la demande en concession d'un terrain pour en estraire la houille,lequel terrein est situé sur les Bans de Valmunster,Velving et Ottonville..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8493969k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84939707/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique / dressée par moi Jean Pierre Etienne Bertrand,géomètre arpenteur de l'Inspection forestière de Thionville,à la réquisition de Mr. Tailleur,propriétaire à Bouzonville pour obtenir la demande en concession d'un terrain pour en estraire la houille,lequel terrein est situé sur les Bans de Valmunster,Velving et Ottonville..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84939707"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8493597h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le bois de Vaux contenant 24 ha 73 a. 80 c. Le bois constant 8ha. 25 a. 06 c."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8493597h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006621t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Corps Impérial du Génie. Direction de Sarrelouis. Place de Phalsbourg. Plan indiquant le tracé de la Fontaine Militaire [depuis] Hultenhausen [jusqu'à] Phalsbourg,[par] Lutzelbourg [et] Les Trois Maisons"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006621t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495270f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Département de la Moselle Dédiée à M. le Préfet le Cte. de Tocqueville par son très-humble et très-respectueux serviteur Antoine,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495270f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53079487f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Région de Vic]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53079487f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530329202/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bois communal de Vittoncourt [et limites des communes de Vittoncourt et de Hémilly,Moselle 1 : 4 000 ]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530329202"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027627g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la Ville de Metz Avec tous les Changemens et Augmentations faites jusqu'en 1821 / par M. De... Ingénieur Géographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027627g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84920235/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Moselle divisé en 4 arrondissements / Michaud F."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84920235"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100388h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ancy (Plan du Bois communal d'Ancy,Dept. de la Moselle)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100388h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84939774/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan de la partie des fortifications de la ville de Metz) projet pour les travaux de 1822"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84939774"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492598m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'une partie de la Route Départementale N° 1 de Nancy à Landau,à la sortie de la porte D'allemagne de la Ville de fénétrange,environnant le terrain appellé Baumgarten,appartenant à Mme la Veuve Regnard,du dit lieu,entre le Ruisseau des Etangs,de Phalsweyer et de Klokenweyer au levant d'une part,le fossé de la ville et la maison du Sr. Nicolas Schaub au couchant d'autre... / Dressé par le conducteur des Ponts et Chaussées à la résidence de Dieuze,Zinesthein"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492598m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8493601z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique et horizontal des 4 parties de bois appartenantes à Mme. la Baronne du Coätlosquet lesquelles sont situées au lieu-dit la Haie d'Amnéville,Commune dudit nom.. ."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8493601z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440370v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Metz avec tous les établissemens publics et particuliers renfermés dans l'enceinte des fortifications / Dressé et dessiné par Mrs. G... et R..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440370v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84455770/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Diocèse de Metz / Dressé par Charle  gravé par Dumortier."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84455770"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495192p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvel Atlas National. Moselle. Echelles... 15000 Mètres [=Om. 042 ; 1 : 360 000 env] / Dressé par Charle, gravé par Dumortier. Ecrit par Arnoul"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495192p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444284s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Metz / lithographié par Ch.Hancké à l'échelle de 1 : 7 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444284s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030218w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Metz avec l'indication des etablissemens publics renfermés dans l'enceinte des fortifications. Echelle de Om. 002 pour 10 mètres [1 : 5 000 ] / Dessiné par L. Loyauté"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030218w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492591q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière de l'arrondissement [de Sarrebourg] indiquant le tracé des neuf chemins cantonnaux que l'administration se propose d'établir à partir de 1834. Echelle de 20. 000 Mètres [=Om. 222] / Par l'Inspecteur voyer de la Dn du Sud de Sarrebourg,Parmentier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492591q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10234210p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de France à 1:80 000 dite \"carte de l'Etat-Major\". 53, Sarrebourg"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10234210p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530848774/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "601 communes,par J. Miroménil / Département de la Moselle divisé en 4 Arrondissemens et en 27 Cantons,comprent"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530848774"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53033098g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Justice de Paix de Forbach. Administration des Forêts. Plan géométrique des Bois Communaux de Spicheren divisés en 25 coupes pour 25 ans... exécuté par moi,Ravier,arpenteur-géomètre attaché à l'Inspection Forestière de Sarreguemines / Commune de Spicheren,Département de la Moselle,Arrondissement communal de Sarreguemines"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53033098g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102342294/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du tracé du chemin de fer de Nancy à Saarguemines et Saarbrueck par Vic,Moyenvic,Marsal,Dieuze,Fenestrange,Saar-union et Saar-albe avec embranchemens sur Château-Salins et Sarrebourg par les départements de la Meurthe,du Bas-Rhin et de la Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102342294"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102574r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale indiquant le tracé du Chemin de fer partant de Metz pour se reunier [sic] à la Ligne de Nancy Sarreguemines et Sarrebruck ainsi que celui de Metz à Sarrebruck / par St. Avold-Vorbach"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102574r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029738d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du tracé du chemin de Fer de Nancy à Saarguemines et Saarbrück,par Vic,Moyenvic,Marsal,Dieuze,Fenestrange,Saar-Union et Saaralbe avec embranchements sur Château-Salins et Sarrebourg,par les départements de la Meurthe,du Bas-Rhin et de la Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029738d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84950804/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Département de la Moselle divisée en 4 arrondissements et 27 Cantons. 3 Myriamètres ou Lieues nouvelles [=Om. 110  1 : 275 000 env]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84950804"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102678x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Saline [de Dieuze]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102678x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445226n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Thionville. Echelle 1 : 10 000 / [Par] A. Clervin,Lt. au 14° Léger"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445226n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223764b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique du département de la Moselle (à l'échelle de 1 : 100 000 ) réduite de la Carte de France du Dépôt de la Guerre,conformément aux délibérations du Conseil Général... / par L.B. de Saint-Martin,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223764b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530621167/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Metz..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530621167"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084878k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Moselle divisée en 4 arrondissements  27 cantons"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084878k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532579256/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique du département de la Moselle (à l'échelle de 1 : 100 000 ) réduite de la Carte de France du Dépôt de la Guerre,conformément aux délibérations du Conseil Général... / par L.B. de Saint-Martin,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532579256"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494954f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte du théâtre des opérations du Corps de la Moselle sous les ordres de S.A.R. Monseigneur le Duc de Nemours"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494954f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494970j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494970j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027826s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Lorraine. Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027826s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088256z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Maison d'École des Frères des écoles chrétiennes,rue St Vincent à Metz / imp. et lith. Nouvian"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088256z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088258v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Maison d'École des Frères des écoles chrétiennes,rue St Vincent à Metz / imp. et lith. Nouvian"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088258v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530848791/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Moselle divisée en 4 arrondissements  27 cantons"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530848791"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53032833f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Chemin de fer de Nancy à Metz et à Sarrebruck,dressée sur les dessins et avec l'autorisation de Mrs. les Ingénieurs,par Toussaint,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53032833f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084932m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'Arrondissement de Thionville. Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084932m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53258038w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Génie. Direction de Metz. Place de Sarrebourg. Echelle de 0m. 001 pour 2 mètres. [1 : 2 000 ] Dressé par la garde du génie soussigné..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53258038w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495559f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'église de Bethléem et des chapelles souterraines"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495559f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84955818/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Meurthe,Meuse,Morbihan,Moselle (pl. 14)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84955818"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494961k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Metz au 1 : 80 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494961k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530620374/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan pour le projet de classement du chemin vicinal de Dabo à Lutzelbourg au nombre des lignes d'intérêt commun / Département de la Meurthe Arrondissement de Sarrebourg Chemins vicinaux  dressé par l'agent-voyer cantonnal [sic] soussigné Collot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530620374"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102632k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Revue corrigée et augmentée de nouvelles routes / Département de la Moselle divisé en 4 arrondissements et en 27 cantons comprent 628 communes,par J. Miroménil,dessinateur des Ponts et Chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102632k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530850207/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la Ville de Metz Avec tous les Changements et Augmentations faites jusqu'en 1857 / par M. de..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530850207"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084880d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Renseignements statistiques et synoptiques sur sa situation géographique accompagnés d'une carte routière et de quelques notices sommaires / De St. Martin,auteur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084880d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029762z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la Ville de Metz Avec tous les changemens et Augmentations faites jusqu'en 1858 / par M. de..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029762z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494986d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494986d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84942771/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Calvaire ou Chemin de la Croix. Plan général du projet de Chemin du Calvaire à établir sur le Mont-St. Quentin,Bans de Plappeville et de Scy,présentant dans son parcours l'aspect de la Voie Douloureuse suivie / par N.S. Jésus-Christ le jour du Crucifiement,Présenté par le soussigné Chanoine..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84942771"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494981b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Metz. Carte accompagnant le Tour d'horizon près de la Butte Charles Quint"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494981b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084881v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084881v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84452257/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Défense de Thionville. Félix Wimpffen (7 septembre 1792) / D'après Martinet. Reimpression de l'Ancien Moniteur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84452257"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84443095/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tour d'horizon prise [sic] de la Butte Charles Quint"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84443095"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84451054/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Metz. Carte accompagnant le tour d'horizon pris de la Butte Charles Quint"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84451054"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494977f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Castrum gallo-romain de Gross-Limmersberg 1 : 10 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494977f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494878h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des anciennes voies romaines dans le Département de la Moselle,dressée en 1860 par L.B. de St. Martin,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494878h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060355h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Thionville. Echelle de 0,001 Milltre. pour mètre [1 : 1 000 / Signé : ] Bentz Adrien,1861,Elève de Mr Lefèvre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060355h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494316p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ermitage St Anne sur le territoire d'Albestroff (Meurthe). Contenance 5 hect. 16 ares"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494316p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84943158/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Agriculture,Industrie,Horticulture. Beaux-Arts,Concours d'Orphéons. Exposition universelle ouverte à Metz,mai 1861 / Ville de Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84943158"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532579273/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte synoptique des Voies de communication du Département de la Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532579273"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84951614/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Metz au 1 : 80 000 Fac-simile extrait par report sur pierre de la Carte de France du Dépôt de la Guerre levée par les Officiers d'Etat-Major"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84951614"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84950144/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Avant-projet d'un chemin de fer d'intérêt local de Sarrebourg à Fénétrange avec prolongement éventuel sur Saarunion"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84950144"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102594k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102594k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531025951/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531025951"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53083093s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Moselle donnant l'état de l'instruction par canton,d'après le nombre des conscrits qui ne savent ni lire ni écrire. [1 : 250 000 env]. Cette carte . .. dressée par M. Vacca,... porte sur six années de 1862 à 1867..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53083093s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102634g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique du département de la Moselle : réduite de la Carte de France du Dépôt de la Guerre...  Tableau des communications / par L.B. de St. Martin..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102634g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530623126/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte des environs de Metz avec les champs de bataille. 1 : 40 000 ]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530623126"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102635x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte du département de la Moselle à l'usage des écoles primaires,indiquant les divisions administratives,les usines,fabriques,manufactures et les établissements industriels / Dressée par A. Vuillemin,d'après la carte à l'échelle de 1 : 320.000 par M. Baur..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102635x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010824n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de Meurthe-et-Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55010824n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84431117/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Metz. [1 : 50 000 ]. Bataille de Rezonville (16 Août 8h. du soir). Bataille de Gravelotte St. Privat (18 Août 7h. du soir). Bataille de Borny (14 Août,8 h. du soir) / Dessiné par Hédin,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84431117"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445152s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gefecht du preussischen Garden bei St-Privat,18 August 1870"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445152s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84945757/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du théâtre des opérations militaires de l'Armée de Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84945757"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494154p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Metz,à l'échelle d'un pour 80.000. Dessinée d'après la carte de l'Etat-Major / Mise à jour et complètée par L. Steff"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494154p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53033013x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte über den Gebietsaustausch an der deutsch französischen Grenze in folge des zu Frankfurt am 10 Mai 1871 geschlossenen und am 20 Mai ratificirten Friedensvertrages / Nach französischen Originalquellen zusammengestellt von H. Kiepert. Theil des Arrondissements Briey im ehemaligen Hergothum Lothringen...Theil des ehemaligen Departements Haut-Rhin..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53033013x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84941449/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique de l'ancien département de la Moselle. 1 : 320 000 / Dressée par L. Steff,... Les Divisions géologiques dessinées par Nas Paulin,à Ersey lès Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84941449"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84945705/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Spezialkarte der Umgebungen von Metz. Die Blokade von Metz im Herbst 1870 (Stellungen im Oktober)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84945705"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494569h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Spezialkarte der Umgebungen von Metz. Die Schlachten vom 14 ten,16 ten und 18 ten August 1870"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494569h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442108f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Metz et des environs pour suivre les débats du procès Bazaine. 1 : 120 000 Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442108f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100172n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Siège de Metz,1870"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100172n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084876p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Cette carte qui sera tenue au courant indique les communes,leurs principales annexes et l'état actuel des voies de communication / Département de la Meurthe et Moselle et pays environnants Dressée par L. Steff,... d'après les cartes d'Etat-Major corrigées et complètées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084876p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494152v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Procès Bazaine. Metz et ses environs / Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494152v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84941538/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Metz et ses environs au 1 : 80 000 Carte extraite de l'Etat-major avec additions et corrections (Août-Octobre 1870)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84941538"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494175v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Metz et ses environs au 1 : 80 000 Carte extraite de l'Etat-major avec additions et corrections (Août-Octobre 1870)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494175v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102790j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Colombey und das gefechtsfeld des VII. Armes-Corps am 14 August 1870 / gezeichnet von von Rüdgisch,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102790j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102614n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Topographische Karte der Umgegend / von Metz. 1 : 50 000 ; Nach den neuesten Quellen entworfen u. gezeichnet V.J. Algermissen, Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102614n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459017h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Metz au 1 : 80 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8459017h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84950322/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan von Metz 1876. 1 : 83 331 /3. Geograph. Anst. v. Wagner &amp; Debes, Leipzig"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84950322"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102612r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Topographische Karte des Kreises Metz. 1 : 50 000 Nach den neuesten Quellen entworfen u. Gezeichnet sowie erweitet u. revidirt... / on Joh. Ludw. Algermissen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102612r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530851017/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique et agronomique de Meurthe-et-Moselle dressée en 1878 / par M.A. Braconnier, Ingénieur au Corps des Mines. : 160. 000 ; Gravé par L. Sonnet, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530851017"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102337660/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte von Elsass-Lothringen / bearb. von der Geographische-Statistischen Abtheilung des Grossen Generalstabes ; gez.: Sit. v. Kleffner u. Richter. Terrain v. Korbgeweit. 1, Rodemachern"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102337660"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10229371d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte von Elsass-Lothringen 1 : 80 000 : Auf Grund besonderer Recognoscirungen unter Benutzung der \"Carte de France\" / bearb. von der Geographische-Statistischen Abtheilung des Grossen Generalstabes ; Gez.: Situation v. Kleffner; Terrain v. Kliewer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10229371d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233079n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique du département de Meurthe-et-Moselle / dressée suivant décision du Conseil Général par Ad. Garnier,conducteur des Ponts et Chaussées..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233079n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53257928j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique du département de Meurthe-et-Moselle dressée suivant décision du Conseil Général / par Ad. Garnier,conducteur des Ponts et Chaussées..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53257928j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84586749/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ubersichts-Blatt für den Kriegspiel-Plan der Umgegend / von Château-Salins"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84586749"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84456491/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des masses du Village. [1 : 2 500 Par]. Germain Bapst / Commune de St-Privat"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84456491"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531025934/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531025934"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531026136/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Topographische Karte des Kreises Metz. 1 : 50 000 Nach den neuesten Quellen entworfen u. Gezeichnet sowie erweitert u. revidirt im Mai 1881 / von Joh. Ludw. Algermissen. 2te. Auflage"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531026136"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530210882/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique et agronomique du Département de Meurthe et-Moselle Formée par l'assemblage des Cartes géologiques / Dressées par Mr. Levallois... et par Mr. Reverchon, ... ; revue et corrigée par Mr. Braconnier, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530210882"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446465r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446465r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495054n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Umgebung / von Metz. 1 : 50 000 Separatdruck aus Algermissen's Spezialkarte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495054n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8438978f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Meurthe-et-Moselle (2e édition,complêtée)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8438978f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530212127/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Lothringen im Auftrage des Kaiserlichen Bezirks-Praesidiums (4te Auflage) / von Lothringen nach amtlichen Quellen bearbeitet von Heinrich Rothenberger"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530212127"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53022704z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Uebersichtskarte der Eisenerzfelder des westlichen Deutsch-Lothringen / Herausgegeben von der Commission für die geologische Landes-Untersuchung von Elsass-Lothringen ; Topographie von L. Geissendörfer, Karlsruhe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53022704z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53023017d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Geologische Uebersichtskarte des Westlichen Deutsch-Lothringen / Herausgegeben von der Commission für die geologische Landes-Untersuchung von Elsass-Lothringen  Zusammengestellt von L. van Werveke"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53023017d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011334h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Vosges, Alsace et Lorraine. Environs de Metz / Dressé par A. Vuillemin. 1 : 260 000 ; Gravé et imprimé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011334h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102241530/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Uebersichtsplan der Gemarkung Malancourt,Kreis Metz (Land)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102241530"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53032863p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guerre Franco-Allemande de 1870-1871 : carte des opérations depuis le début de la guerre jusqu'à l'armistice du 28 janvier 1871 / par A. Wachter"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53032863p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530607697/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan / von Metz und den Vororten,entworfen von Geometer Haug"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530607697"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102231795/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saverne-Dabo et leurs environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102231795"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84599700/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte industrielle du département de Meurthe-et-Moselle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84599700"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532099455/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte für das Kaisermanöver 1908 / Bearbeitet in der Kartogr. Abteilung der Königl. Preuß. Landesaufnahme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532099455"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100617907/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "A travers l'Alsace et la Lorraine / L. et F.B. inv. &  del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b100617907"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532579290/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte [du département de Meurthe-et-Moselle] exécutée / sous la direction de M. Ch.Desses,Inspecteur d'Académie par Marius Viard,Directeur d'Ecole à Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532579290"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063511v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les principaux camps retranchés de la Seine au Rhin, avec les environs de Berlin. Camp retranché de Metz-Thionville, ... de Paris, . .. de Strasbourg, 1 : 200 000 Anvers 1 : 250. 000. Namur, Liège, Cologne, Coblentz, Mayence, Verdun ; Toul, Berlin et ses abords, Epinal, Belfort, 1 : 150. 000 / René Brouzé, cartographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063511v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459015p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan v. Tr.P. Bitsch"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8459015p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84461167/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France. Meurthe et Moselle / par Adolphe Joanne  Gravé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84461167"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593466v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Grandes batailles de la première guerre mondiale entre 1916 et 1918]. 09,L'Avance alliée en 1918"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8593466v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223601k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte des Deutschen Reiches. 584,Solgne ([Neue] Auflage) / herausgegeben von der Kartogr. Abteilung der Königl. Preuss. Landesaufnahme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223601k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53209941c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53209941c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85935488/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Alsace et Lorraine : cartes départementales : Moselle, Meurthe, Bas-Rhin, Haut-Rhin / [texte par Pierre Sixemonts] ; [cartes gravées] chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b85935488"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53209849k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Champ de tir de Bitche : Levé en 1921 / Dressé,héliogravé et publié par le Service géographique de l'Armée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53209849k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530651541/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Moselle,publiée sous les auspices du Conseil Général et / sous la direction de M. Renault,Inspecteur d'Académie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530651541"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064710h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Champ de tir de Bitche"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064710h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446455c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'Arrondissement de Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446455c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446456s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Sarrebourg"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446456s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532132199/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Champ de tir de Bitche"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532132199"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532132288/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Metz. 1 : 80 000 Révision de 1924 et 1925"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532132288"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530197616/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre de la ville de Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530197616"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213423s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Metz. 1 : 80 000 Revision de 1924 et 1925"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213423s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066664p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Metz et des environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066664p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531926956/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531926956"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213369r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de France au 1 : 50 000 (Type 1922). Environs de Metz. Carroyage kilométrique Lambert (zone Nord de guerre). Dessiné,héliogravé et publié... en 1930"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213369r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066869p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de situation. Cité ouvrière,Reding"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066869p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530667731/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plans directeurs. Environs N.O. de Metz. Environs S.E. de Metz / Service Géographique de l'Armée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530667731"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260336p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Strasbourg à la frontière du Luxembourg. Gare de Hagondange"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260336p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260334s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ateliers de Montigny. Echelle 0m 001 par mètre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260334s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102342438/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Metz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102342438"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066867s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ateliers de Basse-Yutz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066867s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532603480/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Thionville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532603480"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53263032s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bousseviller. 1 : 1.000. Plan topographique régulier / dressé... par le service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53263032s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532630354/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ottange (Nondkeil). 1 : 1.000. Plan topographique régulier / dressé et dessiné... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532630354"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532630337/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Puttelange-les-Farschviller. 1 : 2.000. Plan topographique régulier / dressé et dessiné... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532630337"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532628116/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rimling. 1 : 1.000. Plan topographique régulier / dressé et dessiné par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532628116"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264946r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Schorbach. 1 : 1. 000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264946r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265034c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Epping-Urbach [Moselle]. 1 : 1.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265034c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264960w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Escherange. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264960w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264962s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guénange. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264962s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264975j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Illange. 1 : 1.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264975j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264971r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Aumetz. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264971r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265087s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guiderkirch (Moselle). 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265087s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264996t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Faulquemont [Moselle]. 1 : 2.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264996t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265016f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Commune de Marsal. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265016f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532650474/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Postroff [Moselle]. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532650474"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264987v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bousbach. 1 : 1.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264987v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532649921/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Marsal. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532649921"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532649995/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Urbach [Haut-Rhin]. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532649995"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264982m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Barst. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264982m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265017w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Commune de Heming. 1 : 1.000. Plan topographique régulier dressé... / par le Service du Cadastre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265017w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532650457/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Kirschnaumen [Moselle]. 1 : 2.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532650457"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264969x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ottange. 1 : 2.000. Plan topographique régulier / dressé par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264969x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265007g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Grosbliederstroff. [Moselle] 1 : 2.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265007g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264994x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bousse. 1 : 1.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264994x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532650133/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Petit-Réderching [Moselle]. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532650133"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264925g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rémering-les-Puttelange. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264925g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265003p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Schweyen [Moselle]. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265003p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264984h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Waldhouse. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264984h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264941h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rohrbach-les-Bitche. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264941h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53264932j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gros-Tenquin. 1 : 1.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53264932j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532650993/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Roppeviller (Moselle). 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532650993"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265107v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Virming. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265107v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265130z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rodemack. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265130z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532652685/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Boust [Moselle]. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532652685"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532651875/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gondrexange (Moselle) 1 : 1.000. Plan topographique régulier / dressé par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532651875"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532651769/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Commune de Chambrey. 1 : 1.000. Plan topographique régulier dressé... / par le Service du Cadastre de la Moselle,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532651769"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532650959/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Morhange. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532650959"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265094v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Hanviller. 1 : 1. 000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265094v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532651697/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Volmunster. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532651697"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532651284/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Grundviller. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532651284"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532651428/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Schoeneck. 1 : 1. 000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532651428"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265182x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Commune de Trom-born. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre du Bas-Rhin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265182x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532651445/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Haspelschiedt. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532651445"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532651195/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Bliesbruck. 1 : 2.000 Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532651195"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265122f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Guntzviller. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265122f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265301x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Ormersviller 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265301x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265150s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Theding. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265150s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532651623/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tenteling. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532651623"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265339r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Rech. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265339r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532651712/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Mondorf [Moselle]. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532651712"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265104h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bettviller (Moselle). 1 : 1.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265104h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265120j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Liederscheid [Moselle] / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265120j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532651015/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Obergailbach. 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532651015"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532652416/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guinglange (Moselle). 1 : 1.000. Plan topographique régulier dressé et / dessiné... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532652416"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532653315/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Hilsprich. 1 : 2. 000 / Plan topographique régulier dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532653315"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265298d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Holving. 1 : 2.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265298d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265319x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Nousseviller 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265319x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532652700/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Sarralbe. 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532652700"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265181g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ibigny. [Moselle] 1 : 1.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265181g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265239c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bettviller (Guising) (Moselle). 1 : 1.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265239c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532653421/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bettviller (Hoelling). Moselle. 1 : 1.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532653421"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265336d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bitche [Moselle]. 1 : 2.000. Plan topographique régulier dressé... / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265336d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532650027/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Moselle. Pagny-les-Goin. 1 : 1.000. Plan topographique régulier / dressé et dessiné en 1946 par A. Caillat,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532650027"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266825s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Cheminot. 1 : 1.000. Plan topographique régulier / dressé... par A. Caillat..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266825s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266829k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Moselle. Sillegny. 1 : 1.000. Plan topographique régulier / dressé... par A. Caillat..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266829k"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

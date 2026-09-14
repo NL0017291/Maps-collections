@@ -1,0 +1,150 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/976-mayotte.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Mayotte (976)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531464456/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du port de Saint Pierre (Saint Pierre et Miquelon) : colonie française (Amérique du Nord)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531464456"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b59705484/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la rade de la partie habitée de l'île Miquelon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b59705484"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b5970549j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plans de la cale de St-Pierre de Terre-Neuve et d'une batterie fermée à la gorge]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b5970549j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530780506/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des îles St-[Saint]-Pierre-et-Miquelon ([Reprod. photogr. réduite])"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530780506"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213344p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port de Sainte-Pierre Miquelon,colonie française..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213344p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53171833m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du port de Sainte-Pierre Miquelon,colonie française..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53171833m"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

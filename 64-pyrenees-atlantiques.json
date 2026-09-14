@@ -1,0 +1,1806 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/64-pyrenees-atlantiques.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Pyrénées-Atlantiques (64)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10568004f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Basses-Pyrénées / Perrot,A. M."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10568004f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440949h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Bayonne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440949h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442484v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Pau / dressé par A. Perret,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442484v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441649s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du fort du Socoa et des môles qui en forment le port"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441649s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492561k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Navarreins Pour servir au projet de l'an XI. 200 mètres [=0m. 110 ; 1 : 800 environ]. Le Capitaine du Génie, Boucherat"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492561k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100190k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Croquis-carte du Pas de Behobie. Echelle de la Carte 200 Toises [=Om. 144 ; 1 : 2 700 env] / Dessiné par Coudert, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100190k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443324j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Canevas trigonométrique pour le rattachement des principaux points des environs de Bayonne au grand triangle de Cassini : Bayonne,Biarritz,fat de la Pointe 1/20.000... 1811"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443324j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443325z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Grands triangles de Cassini,dans le département des Basses-Pyrénées,auxquels on a rattaché le phare de St-Sébastien par quatre triangles... 1811"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443325z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10678909p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Basses Pyrenées Décreté le 8 Février 1790 par l'Assemblée Nationale,divisé en 5 arrondissemens et en 40 cantons (revu corrigé et augmenté en 1818) / gravé par d'Houdan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10678909p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532860490/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan figuratif d'une partie du cours de l'Adour au dessous de la Digue de St Maurice,ou figuré représentatif des lieux aux plus basses Eaux d'Eté,du 15 septembre 1819,sur lequel on a tracé les divers changements de la Rivière depuis 1786 / par le Conducteur Principal des Ponts et chaussées soussigné Pillieux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532860490"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567711t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Basses Pyrénées. Echelle 1 / 500.000 e. / Aupick,J."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567711t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531929977/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la baie de Saint-Jean-de-Luz levé en 1826 / sous les ordres de M. Beautemps-Beaupré, ingénieur hydrographe en chef ; gravé par Et. Collin et fils"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531929977"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105677128/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Basses- Pyrénées. Echelle 1 / 250.000 e. / Dufour,A.H."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b105677128"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192991j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'embouchure de l'Adour levé en 1837 (le 7 et 8 juin) / par M. P. Monnier,ingénieur hydrographe de la Marine"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53192991j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530067161/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Carte de la commune d'Hendaye.) Fait à Urrugne / par Dilharrigny,géométre,ce 13 février 1837"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530067161"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087625f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la ville des Eaux-bonnes, et visuel pour les promenades qui sont indiquées par des lignes ponctuées, terminé sur le terrain dans le courant du mois de juillet en 1841 / par F. Noble employé de cadastre ; lith. E. Vignancour"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087625f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84413772/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Bayonne / lith. Damaré"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84413772"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087718r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Bayonne / lith. Damaré"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087718r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10580399d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Départ. des Basses-Pyrénées. Carte de l'arrondissement de Pau / Perret,A."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10580399d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53258171s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Basses-Pyrénées. Carte de l'arrondissement de Pau,dressée d'après les plans du cadastre... / par A. Perrel..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53258171s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567984t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Basses Pyrénées / Levasse,V."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567984t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136300m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement d'Orthez / dressée d'après les plans du cadastre et autres documents [...] par A. Perret géomètre en chef du cadastre  lith. Lemercier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136300m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136350p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer partant de Tarbes et devant desservir les vallées de la Baïse ou du Gers : avec indication de la déviation du Grand Central sur Aiguillon par la vallée du Lot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136350p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136370h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Basses-Pyrénées. Carte de l'arrondissement de Mauléon / dressée d'après les plans du cadastre et autres documents [...] par A. Perret géomètre en chef du cadastre  gravé sur pierre par Avril f[rè]res"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136370h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136034h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer partant de Tarbes et devant desservir les vallées du Gers ou de la Baïse : avec indication de la déviation du Grand-Central sur Aiguillon par la vallée du Lot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136034h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84955833/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves (pl. 16) : Orne,Pas-de-Calais,Puy-de-Dôme,Basses-Pyrénées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84955833"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567717h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Atlas des Basses-Pyrénées. Feuille d'ensemble d'après les cartes topographiques des 5 arrondissements nouvellement éditées. Echelle 1 / 160 000 e / Perret,A."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567717h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223772v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Atlas des Basses-Pyrénées. Feuille d'ensemble d'après les cartes... / nouvellement éditées par A. Perret,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223772v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531929994/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la rade de Saint-Jean-de-Luz levé en 1857 / par M. Lieussou et M. Larousse"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531929994"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192998p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la rade de Saint-Jean-de-Luz levé en 1857 / par M. Lieussou et M. Larousse"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53192998p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192996s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des environs de Biarritz / levé par André Louis, ex officier de la Garde mobile ; gravé par F. Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53192996s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084946t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Bayonne..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084946t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531930009/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Baie de St Jean de Luz : Levé du 25 avril au 10 mai 1864 / par Mr A. Bouquet de la Grye,Ingénieur hydrographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531930009"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53193001r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Baie de St Jean de Luz : Levé du 25 avril au 10 mai 1864 / par Mr A. Bouquet de la Grye,Ingénieur hydrographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53193001r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494134x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etude et plan géométral des terrains compris entre les Rues Bordeaux et Cours Bayard,la Route de Paris à Perpignan et la limite de Billère au point de vue de leur avenir prochain [à Pau]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494134x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530302143/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Tracé approximatif du chemin de fer d'Espagne à Bayonne et des nouveaux chemins classés nos 6 et 7,le premier appelé d'Abbadia / dressé... par le géomètre en chef soussigné : Pau,le 21 août 1865,Perret"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530302143"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53032915w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des communes d'Hendaye et d'Urrugne (Arrondissement de Bayonne) faite d'après la carte du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53032915w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494136r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Pau et des environs. dressé par H. Latour,géomètre à Pau pour le Syndicat de la Ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494136r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532237739/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ponts et chaussées. Carte générale du département des Basses-Pyrénées indiquant le projet de classement des voies de communication.. . / dressée par M. Conte-Grandchamps"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532237739"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53156486m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale des dunes du golfe de Gascogne, indiquant... la situation des semis exécutés... depuis 1790 jusqu'à 18.. / Ponts et chaussées, département des Landes ; gravé par Regnier et Dourdet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53156486m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84924706/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Rade de St Jean de Luz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84924706"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84924684/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville,du Port et de la Rade de Jean de Luz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84924684"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494135b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Pau et de ses Environs avec vue prise de la Place Royale par H. Latour,géomètre et dessinateur des jardins et parcs à Pau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494135b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531930026/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Copie d'un plan de Saint Jean de Luz / A. Bouquet de la Grye"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531930026"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492467q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Baie de St Jean de Luz / Levé en 1873 par Mr A. Bouquet de la Grye,Ingénieur Hydrographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492467q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530849478/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière des environs de Bayonne... depuis capbreton jusqu'à St Sébastien..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530849478"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531930043/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Socoa / d'après les Ponts et Chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531930043"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010932j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la vallée d'Ossau / dressée par J.-B. Bonnecase,,... 1876"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55010932j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567695j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la baie de St Jean de Luz. Echelle 1 / 5.000 e. / Bouquet de La Grye,Jean Jacques Anatole"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567695j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532238299/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pau et ses environs, dédié au 18e de ligne et à la ville... / par E. Luya ; et A. Grosse"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532238299"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192995b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Biarrits [sic] : plan général / Ponts et Chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53192995b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530208985/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des environs de Biarritz / dressé par E. Ardoin..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530208985"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53193003n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la baie de Saint Jean de Luz : Levé en 1882 / par Mr Bouillet, Ingénieur hydrographe ; gravé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53193003n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10585014f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de France de l'État-major. Échelle 1 / 80.000 / France. État-major des armées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10585014f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53193005j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Baie de Saint Jean de Luz : projets / [d'après les Ponts et Chaussées]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53193005j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440227h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Pau... Plan de l'ancienne église St Martin dressé par l'architecte... soussigné : Pau le 31 mai 1884 / F. Touzis"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440227h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854135n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Biarritz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854135n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108541346/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Bayonne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108541346"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108541363/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Saint-Jean-de-Luz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108541363"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011348q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bayonne - Biarritz - Cambo : Pyrénées / par Ad. Joanne  dressé par A. Vuillemin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011348q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011352f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Eaux-Chaudes - Eaux-Bonnes - Cauterets / dressé par A. Vuillemin,... ; gravé et imprimé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011352f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84397359/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et des environs de Pau et des communes de Jurancon. Bilière,Gélos et Bizanos,1888"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84397359"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567983c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Atlas forestier de la France : département des Basses-Pyrénées / France. État-major des armées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567983c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567821m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la France. Echelle 1 / 100.000 e. : X.37 - Ste-Engrâce / France. Ministère de l'intérieur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567821m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029290d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Biarritz. - Plan général de la ville de Biarritz..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029290d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445948n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Basses Pyrénées. Arrondissement d'Oloron Commune de Laruns. Propriété de la commune d'Aste-Bion"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445948n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443384t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Pau et environs... / Plan dressé par H. Latour  révisé et complété en 1902 par H. Toulet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443384t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10580402x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Cote ouest de France. Environs de Bayonne. Fosse du Capbreton / France. Ministère de la marine"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10580402x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84447017/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Pau et environs Plan / dressé par H. Latour,revisé et complété en 1908"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84447017"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445294g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Pau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445294g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064976f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Camp de Ger"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064976f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458675q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la région de Bayonne-Anglet-Biarritz / éditée par le Syndicat d'initiative du Pays Basque"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458675q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066578h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Pau et ses environs édité... pour le Central Office"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066578h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530665916/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de St Jean-de-Luz et Ciboure... 1/7 000 / dressé par M. Elissalt,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530665916"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105677575/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "L'Habitat rural des Basses-Pyrénées. Echelle 1 / 320.000 / Higounet,Ch."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b105677575"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530669228/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Toulouse à Bayonne. Gare de Pau. Etat actuel. Plan d'ensemble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530669228"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266748k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Lescar. 1 : 2.000. Plan topographique régulier dressé et / dessiné en 1946 par A. Besnard..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266748k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266602v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bayonne (Basses-Pyrénées) 1 : 5.000. Plan topographique / expédié... complété... par le Cabinet Danger,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266602v"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

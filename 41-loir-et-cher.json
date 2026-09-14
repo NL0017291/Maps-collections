@@ -1,0 +1,771 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/41-loir-et-cher.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Loir-et-Cher (41)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439483b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Association française. T XIII. Pl XI. Réseau de télégraphie optique restitué à l'aide des buttes du deptt de Loir et Cher. De Rochas. Les buttes et la télégraphie optique dans l'antiquité / dressé par le dr Chauveau  et le Ct de Rochas"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439483b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062016v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Atlas National de France. N° 3. Département de Loir et Cher. Décrété le 26 Janvier 1790 par l'Assemblée Nationale, Divisé en 5 Arrondissemens et en 26 Cantons. Revu, corrigé et augmenté en 1818. Echelle de 40 Mille Mètres [=Om.150 ; 1 : 333 000 env] / Gravé par d'Houdan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062016v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233176p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait du Tableau d'assemblage de la Commune de Chambord rapporté à l'Echelle de 1 à 10. 000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233176p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029252n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la forêt de Bruadan... dressé en 1832 / par M. Boutefol,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029252n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531003944/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan linéaire de la Commune de Blois"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531003944"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441350d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du parc de Chambord / [Signé N. Desmadryl]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441350d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53286087r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Romorantin. Forêt de Bruadan / [Signé :] Paris le 15 xbre 1848,l'ingénieur géomètre du Domaine privé Beauchet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53286087r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530298770/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Aménagement de la forêt de Montrichard,4re série dite des vingt arpens. (Paris,le 26 mai 1851,l'ingénieur des forêts de la Maison d'Orléans : Beauchet.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530298770"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495569t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Isère,Landes,Jura,Loir et Cher (pl. 10)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495569t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062229c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Blois. - Plan de la ville de Blois dressé par les soins de l'administration municipale. Géomètre : M. J. Bressler,voyer de la Ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062229c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223758q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de Loir et Cher dressée... / par Amédée Maurice,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223758q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532238136/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la terre de Cheverny Située sur les Communes de Cheverny, Cour-Cheverny, Contres, Fontaine et Soings Appartenant à Mr. le M[ar]quis de Vibraye / Dressée par Pavie, Géomètre à Châteaudun ; Sous l'Adm[inistrati]on de Mr. Charrier, Intendant ; Gravé par L. Kautz"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532238136"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84467169/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des zones des orages à grêle des départements d'Eure-et-Loir et du Loir-et-Cher / par M. Becquerel..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84467169"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495460r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Théâtre des opérations de la deuxième armée de la Loire (septembre-décembre 1870) / par le général Chanzy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495460r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532237595/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de Loir et Cher dressée... / par Amédée Maurice,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532237595"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84415718/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Vendôme / Plan dressé par MM. les officiers du 10e rég. de chasseurs et exécuté par M. de Vaussay,(Novembre 1873)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84415718"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440414k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chateau de Vendôme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440414k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441570v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Vendôme. 1/4 000. (Signé : St-Martin.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441570v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440407f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Enceinte de St Mandé (Loir et Cher) 1/2 000 - Enceinte de la Fontenelle Cne de Viévy le Rayé 1/2000. Commune de Viévy le Rayé"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440407f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84403021/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Blois / dressé et dessiné par G. Desbarres,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84403021"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53248219z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique des environs de Blois. 1/40.000 / A. Duval,1896"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53248219z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441554r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Vendôme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441554r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060443k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Essai de reconstitution de plan de Blois au commencement du XVIIIe siècle / par A. Duval,1903"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060443k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006639t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Vendôme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006639t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84587574/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Loir-et-Cher politique et économique. 1/550. 000. - Loir-et-Cher physique. 1/750.000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84587574"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065013j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des forêts domaniales des environs de Blois / dressée avec le concours de M. Jagerschmidt,inspecteur des forêts,par E. Girard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065013j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530669406/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de la ville de Romorantin et d'une partie... de la commune de Lanthenay / Dressé... sous la direction... de M. Tarnier,ingénieur en chef des Ponts et chaussées,par la Société des plans régulateurs de Villes..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530669406"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066891b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne d'Orléans à Tours. Gare de Blois"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066891b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530669067/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gare de Vendôme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530669067"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121079c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Loir-et-Cher. Ville de Vendôme. 1 : 2000 / Dressé et revisé par R. Ménard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121079c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121542w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Blois. Plan général... 1 : 5.000 ; établi d'après photographie aérienne / par R. Ménard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121542w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260532n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Blois. Plan général. 1 : 5.000. Etabli d'après photographie aérienne / par R. Ménard... Zonage"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260532n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532605333/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Loir-et-Cher. Ville de Blois. Plan de reconstruction et d'aménagement,... / Charles Nicod,urbaniste,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532605333"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

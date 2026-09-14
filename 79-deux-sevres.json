@@ -1,19 +1,19 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/46-lot.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/79-deux-sevres.json",
   "type": "Collection",
   "label": {
     "fr": [
-      "Cartes et plans par département : Lot (46)"
+      "Cartes et plans par département : Deux-Sèvres (79)"
     ]
   },
   "items": [
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100467m/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530877033/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "Carte du Département du Lot / Dressée par l'Ingénieur vérificateur du Cadastre pour servir au mémoire sur les Antiquités"
+          "Commune de Niort / levé par Thénadey  lith. de Robin et Comp."
         ]
       },
       "metadata": [
@@ -25,18 +25,18 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b53100467m"
+              "ark:/12148/btv1b530877033"
             ]
           }
         }
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530623037/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495587r/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "Carte du département du Lot dressée d'après une délibération du conseil général / par M. Reilhac,,..."
+          "France nouvelle en 86 départements à l'usage des jeunes élèves (pl. 20) : Seine-et-Oise,Deux-Sèvres,Somme,Tarn"
         ]
       },
       "metadata": [
@@ -48,18 +48,18 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b530623037"
+              "ark:/12148/btv1b8495587r"
             ]
           }
         }
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440116c/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532330640/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "Plan de la ville de Cahors,chef-lieu du dépt du Lot..."
+          "Carte du Département des Deux-Sèvres. Dressé par l'Administration Vicinale Sous les Auspices du Conseil-Général et dédiée à M. Lorette,Préfet de ce Département"
         ]
       },
       "metadata": [
@@ -71,18 +71,18 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b8440116c"
+              "ark:/12148/btv1b532330640"
             ]
           }
         }
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136034h/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085028t/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "Carte du chemin de fer partant de Tarbes et devant desservir les vallées du Gers ou de la Baïse : avec indication de la déviation du Grand-Central sur Aiguillon par la vallée du Lot"
+          "[Boulevard projeté à Niort entre les routes de Paris et de Limoges,desservant le lycée et le champ de foires.]"
         ]
       },
       "metadata": [
@@ -94,18 +94,18 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b53136034h"
+              "ark:/12148/btv1b53085028t"
             ]
           }
         }
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84955796/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84941627/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "France nouvelle en 86 départements à l'usage des jeunes élèves : Lot,Lot-et-Garonne,Lozère,Maine-et-Loire (pl. 12)"
+          "Carte du Département des Deux-Sèvres / dressée par C. Desessards..."
         ]
       },
       "metadata": [
@@ -117,18 +117,18 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b84955796"
+              "ark:/12148/btv1b84941627"
             ]
           }
         }
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084863x/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494165g/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "Carte routière et hydrographique du département du Lot..."
+          "Carte administrative, routière et vicinale du département des Deux-Sèvres / dressée par C. Desessards... ; Gravée par J.Geisendörfer, Paris"
         ]
       },
       "metadata": [
@@ -140,18 +140,18 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b53084863x"
+              "ark:/12148/btv1b8494165g"
             ]
           }
         }
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84917505/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494163n/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "Luzech (Uxellodunum). Plan relief / modelé par Karl Schroeder"
+          "Carte géologique du département des Deux-Sèvres. dressée par C. Desessards,.... 1 : 233 372 . Gravée par J. Geisendörfer"
         ]
       },
       "metadata": [
@@ -163,18 +163,18 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b84917505"
+              "ark:/12148/btv1b8494163n"
             ]
           }
         }
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443171h/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439500d/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "Plan de Cahors"
+          "Environs de Saint-Maixent"
         ]
       },
       "metadata": [
@@ -186,18 +186,18 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b8443171h"
+              "ark:/12148/btv1b8439500d"
             ]
           }
         }
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530633259/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029383q/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "Carte du département du Lot / dressée en 1865 par M. Favas,...,rééditée et complétée en... 1885..."
+          "Environs de Saint-Maixent (4e édition...)"
         ]
       },
       "metadata": [
@@ -209,18 +209,18 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b530633259"
+              "ark:/12148/btv1b53029383q"
             ]
           }
         }
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029451z/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441597h/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "Carte du département du Lot dressée en 1865 (3e édition revue et complétée... par M. J. Berget,,... avec le concours de M. J. Lagarde,,... et de M. J. Lescale,,...) / par M. Favas,,..."
+          "Environs de Saint-Maixent (2e édition,revue et corrigée)"
         ]
       },
       "metadata": [
@@ -232,18 +232,18 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b53029451z"
+              "ark:/12148/btv1b8441597h"
             ]
           }
         }
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532132911/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029381t/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "Environs de Cahors. 1/50.000. Revisée en 1908"
+          "Environs de Saint-Maixent 1/80 000. Revisée en 1893"
         ]
       },
       "metadata": [
@@ -255,18 +255,18 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b532132911"
+              "ark:/12148/btv1b53029381t"
             ]
           }
         }
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066916n/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446165q/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "Gare de Capdenac. Plan d'ensemble (Etat actuel)"
+          "Environs de Saint-Maixent (Nouvelle édition)"
         ]
       },
       "metadata": [
@@ -278,18 +278,18 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b53066916n"
+              "ark:/12148/btv1b8446165q"
             ]
           }
         }
       ]
     },
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530669190/manifest.json",
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530650714/manifest.json",
       "type": "Manifest",
       "label": {
         "fr": [
-          "Gare de Cahors. Plan d'ensemble. (état actuel)"
+          "Saint-Maixent l'Ecole..."
         ]
       },
       "metadata": [
@@ -301,7 +301,53 @@
           },
           "value": {
             "none": [
-              "ark:/12148/btv1b530669190"
+              "ark:/12148/btv1b530650714"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064960b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Maixent l'Ecole..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064960b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192698j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Niort"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53192698j"
             ]
           }
         }

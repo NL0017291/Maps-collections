@@ -1,0 +1,1185 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/25-doubs.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Doubs (25)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530277969/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte de Franche-Comté: Haute-Saône,Doubs,Jura / d'après les Cartes du Dépôt de la Guerre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530277969"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084804w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle Carte de Franche-Comté, Doubs, Haute-Saône et Jura d'après les Cartes du Dépôt de la Guerre. Echelle de 8 Lieues communes de France [=Om. 125 ; 1 : 281 600 env] / Lithogr par Regniez Jne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084804w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495576z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Côtes-du-Nord,Creuse,Dordogne,Doubes (pl. 6)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495576z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494968g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Département du Doubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494968g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84400695/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Salins comprenant la situation d'Alaise (Extrait de la carte d'état-major)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84400695"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84596981/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des environs d'Alaise en Franche-Comté,d'après celui qui accompagne le mémoire de M. Delacroix. 1 : 80.000. - Plan des environs d'Alise Sainte-Reine-en-Auxois (Bourgogne),pour servir à l'intelligence des opérations du siège d'Alésia,... d'après le plan au 20.000 publié dans le Spectateur Mre en 1839,t. XXVIII. 1 : 40.000. - Plateau d'Alise Sainte-Reine-en-Auxois (Bourgogne),d'après le dessin accompagnant le mémoire de M. Maillard de Chambure"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84596981"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495167m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pompierre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495167m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84950307/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte des Départements de la Haute-Saône, du Doubs et du Jura Divisés en Arrondissements et Cantons. Franche-Comté / d'après Cassini et Chrysologne. ; Dessiné et lithographié par Valluet aîné ; Revue et augmentée d'après le Dépôt de la Guerre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84950307"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440376b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la ville de Montbéliard avec les projets d'alignement. Echelle,un demi-millimètre pour un mètre [1 : 2 000 ] / Laurillard fecit"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440376b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441707s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte spéciale des voitures publiques et des chemins de fer de Franche-Comté"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441707s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84417086/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Besançon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84417086"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84432387/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Besançon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84432387"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494972c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique et phytostatique des environs de Montbéliard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494972c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495183q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du siège d'Alaise"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495183q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8468730r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Besançon. 1 : 80 000 Extrait de la Carte de France au 1 : 80. 000 publiée / par le Dépôt de la Guerre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8468730r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530623410/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville de Besançon / Publié par Valluet Jeune,éditeur,dess. et graveur géographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530623410"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531027643/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Besançon / par Mr. J.J. de Kirwan,Ingénieur en Chef du Cadastre du Département du Doubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531027643"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440363q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et citadelle de Besançon avec le Projet de Navigation en lit de rivière"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440363q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011404n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte orogéologique du Jura Bisontin. 1 : 90 000 / Dressée par Georges Boyer d'après le plan-relief de Louis Ceoz,... et la carte géologique de Marcel Bertrand"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011404n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530761213/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Besançon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530761213"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530210848/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Besançon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530210848"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445742g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan Besançon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445742g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531028097/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière de l'Arrondissement de Baume,indiquant les routes royales,les routes déples et les Chemins Vicinaux reconnus et divisés en trois classes par l'Administration suivant leur degré d'utilité..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531028097"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530587507/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Montbéliard. [Trouvailles des âges préhistoriques] Carte de M. Henry L'Espée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530587507"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440365j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Montbéliard et de la partie du Canal Monsieur qui l'avoisine,pour servir à la demande formée par le conseil municipal de ladite ville,dans sa délibération du 1er mars 1825 / par le soussigné architecte,... F. Morel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440365j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087768t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la communauté libre de Bouchéage de Pontarlier et des seigneuries féodales qui l'environnaient / par Mr Bourgon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087768t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440419n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Capitole de Vesontio. Plan d'ensemble des ruines et de leurs abords. Echelle de Om. 001 p. mtre. [1 : 1 000 ] / A. Ducat Froissard del"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440419n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100550f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pontarlier. [Plan de la ville et de la route de Lausanne jusqu'à Les Vernets. 1 : 5 000 environ]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100550f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440453p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Besançon. 1 : 8 000 Constructions nouvelles 1872-1880 d'après les plans / de L. Rouzet,Ingénieur-Voyer de la Ville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440453p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099993k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la Rivière de l'Ognon depuis le Moulin de Voray appartenant à Mr. Quégain jusqu'en Amont de la Prairie de Buthiers. Extrait du Plan parcellaire Cadastral des Communes de Voray et de Buthiers à la réquisition de Mr. Quégain et / d'après les renseignemens demandés par Mr. Boud'hors Ingénieur en Chef des Ponts et Chaussées. Certifié conforme par le Géomètre des forêts soussigné... Leroy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099993k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087767c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la communauté libre de Bouchéage de Pontarlier et des seigneuries féodales qui l'environnaient / par Mr Bourgon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087767c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088167f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du canton du Warasch d'après les chartes les plus anciennes / Cette carte,encore bien incomplette [sic],est extraite d'un travail inédit et commencé par M.M. Ed. Clerc et Bourgon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088167f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088168w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du canton du Warasch d'après les chartes les plus anciennes / Cette carte,encore bien incomplette [sic],est extraite d'un travail inédit et commencé par M.M. Ed. Clerc et Bourgon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088168w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445396n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Doubs et Territoire de Belfort"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445396n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446145z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Doubs et Territoire de Belfort"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446145z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53258114n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Manoeuvres de l'Est en 1911"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53258114n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260656n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département du Doubs. Commune de Roches-les-Blamont. 1 : 2.000... Plan topographique régulier / dressé... en 1945 par le Service du Cadastre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260656n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121395j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Besançon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121395j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260674k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Clerval (Doubs). 1 : 2.000. Plan topographique régulier... dressé... en... 1945 / par le Service du Cadastre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260674k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53078290m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Besançon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53078290m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445709v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Besançon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445709v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530653379/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Besançon (et de ses environs)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530653379"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53262751g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Séchin et Bréconchaux (Doubs) / plan topographique régulier... dessiné par le Service du Cadastre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53262751g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530635180/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Besançon (et ses environs)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530635180"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064773b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Besançon (et ses environs)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064773b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531752095/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Baume-les-Dames (Doubs). 1 : 2.000. Plan topographique régulier... dressé... en 1945 / par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531752095"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532649760/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Voujeaucourt (Doubs). 1 : 2.000. Plan topographique régulier / dressé... par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532649760"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84446185/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs du Camp du Valdahon. 1 : 80 000 Révisions de 1895-96-97"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84446185"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266571x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan régional de Montbéliard (Doubs). 1 : 20.000. Plan expédié... / dressé par M. R. Choquard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266571x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062187k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Camp d'instruction de Valdahon. Levé... en 1906 ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062187k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066601v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Besançon et ses environs / dressé et dessiné par L. Bernard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066601v"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

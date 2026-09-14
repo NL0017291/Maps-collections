@@ -1,0 +1,725 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/66-pyrenees-orientales.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Pyrénées-Orientales (66)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443681m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la place et citadelle de Perpignan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443681m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442657n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Perpignan,Ist eine Capital Festung in Roussillon... / Gabriel Bodenehr,fec. et exc."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442657n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444566w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Pyrénées Orientales. Plan de Port Vendres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444566w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099900h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan topographique du Col du Perthus et du Fort de Bellegarde,à la frontière de l'Espagne] / fait par le Lieut.t en prem.r à la 14e Comp. e u 5e Régiment d'Artillerie à pied,Noël"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099900h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233214p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan de] Collioure. Echelle de Om. 001 pour 2 Mètres [1 : 2 000 ] / Fait... par moi,Lair,Capne. d'Artillerie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233214p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532332137/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Port-Vendres,des ouvrages qui en dépendent et du terrain environnant. Echelle de 9001m. pour deux Mètres [=1 : 2 000 ]. Fait... par moi,Lair Cap. d'Artillerie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532332137"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099634d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Collioure,des ouvrages qui en dépendant et du Terrain environnant,sur l'Echelle de Om. 001 pour mètre [1 : 1 000 ]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099634d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087878m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Port-Vendre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087878m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530878775/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Port-Vendre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530878775"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087708b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pyrénées orientales / dressées par A. H. Dufour géographe  gravées par Ch. Dyonnet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087708b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530880242/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer de Narbonne à Perpignan et en Espagne,s'embranchant sur le chemin de Bordeaux à Cette / par C. M. Bachelot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530880242"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088151b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Environs de Glorianes,arrondissement de Prades,Pyrénées-Orientales] / lith. Fourquemin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088151b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495584h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves (pl. 17) : Bas-Rhin,Hautes-Pyrénées,Haut-Rhin,Pyrénées Orientales"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495584h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84690453/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Perpignan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84690453"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442336f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Perpignan. Plan de nivellement"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442336f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550113478/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Amélie-les-Bains - Le Vernet - Le Canigon / dressée par A. Vuillemin,... ; gravé et imprimé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b550113478"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108541380/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Port-Vendres"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108541380"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854137j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Banyuls-sur-mer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854137j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53028048t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des Pyrénées,de Perpignan à Bordères / par M. Joseph Roussel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53028048t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84410578/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Perpignan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84410578"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441455t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des massifs du Canigou et de l'Albère / par M. J. Roussel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441455t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442050p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des massifs du Canigou et de l'Albère / par M. J. Roussel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442050p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443083c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Essai d'une carte botanique et forestière de la France : feuille de Perpignan / par Ch. Flahault"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443083c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066928z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Narbonne à Port-Bou. Port-Vendres. Consigne spéciale de sécurité. Croquis d'ensemble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066928z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531926973/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Massif du Canigou / carte dressée par MM. Ch. Blachère,G. Combrade et J.-B. Raynier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531926973"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121133d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Pyrénées-Orientales. Ville du Tech. 1 : 2.000. Fond de plan topographique dressé en 1943 par l'Aérophotographie,... / vérifié par M. Jourda,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121133d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121212h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Stadtplan Perpignan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121212h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260678c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Pyrénées-Orientales. Ville d'Arles-sur-Tech. 1 : 2.000. Fond de plan topographique dressé en 1942 par l'Aérotopographie..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260678c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260562w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Villes de Amélie-les-Bains et Palalda. Département des Pyrénées-Orientales. / fond de plan topographique dressé en 1942 par l'Aérophotographie à Courbevoie  vérifié par M. Souquet..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260562w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532607561/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Cyprien-Plage. 1 : 2.000... Plan topographique... / dessiné... par J. Macabies,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532607561"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53262916t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Perpignan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53262916t"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

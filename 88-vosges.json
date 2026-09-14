@@ -1,0 +1,3347 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/88-vosges.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Vosges (88)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102801n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Vosges"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102801n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531026388/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département des Vosges. 1 : 120 000 / E. Marchal,lith"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531026388"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530621290/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département des Vosges / dressée par Ad. Garnier,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530621290"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84951488/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84951488"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84461842/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Vosges (Section Nord). Basse Alsace. Vosges (Section Sud). Haute Alsace"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84461842"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029479c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des Vosges par Henri Hogard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029479c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530250747/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale des Routes du Département des Vosges. 1 : 200 000 Les Routes Royales (3e classe) se distinguent par une teinte jaune"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530250747"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223799t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département des Vosges dressée sous le contrôle de l'Ingénieur en Chef du Département par Ad. Garnier,Conducteur des Ponts et Chaussées. 1 : 160 000 / Gravé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223799t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446131x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Vosges / gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446131x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530849209/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges par Henri Hogard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530849209"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84389667/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale des voies romaines du département des Vosges et de quelques départements environnans"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84389667"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063425p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département des Vosges dressée en 1911 / par L. Girol,Agent-Voyer Inspecteur..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063425p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53032856m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique du Département des Vosges / dressée sous les auspices du Conseil général Département par Ad. Garnier..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53032856m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53033024s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les Vosges / L. Thuillier delt."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53033024s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439662v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les Vosges / L. Thuillier delt"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439662v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84414530/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les Vosges,du Mont Donon au Ballon d'Alsace"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84414530"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439793r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les Vosges,du Mont Donon au Ballon d'Alsace"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439793r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065255v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Jean Jung. Carte géologique des Vosges Hercyniennes. Publiée par le Service de la Carte géologique d'Alsace et de Lorraine"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065255v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53197235x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les Vosges Die Vogesen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53197235x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459981s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La percée des Vosges"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8459981s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121059j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte relief des Vosges méridionales,publiée sous le patronage du Syndicat d'Initiative des Vosges et de Nancy et / dressée par A. Truchet,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121059j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260749z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Corcieux (Vosges). Plan topographique au"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260749z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532607527/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Vosges. Commune de Jeanménil"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532607527"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121060x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte générale des Vosges et des régions voisines. Publiée sous le patronage du Syndicat d'Initiative des Vosges et de Nancy et / dressée par le Commandant Frézard,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121060x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85934715/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Vosges et Alsace. 1 : 250 000 P. Bineteau delint"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b85934715"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495589k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves (pl. 22) : Vienne,Haute-Vienne,Vosges,Yonne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495589k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495017c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Percement des Vosges. Carte des différents tracés soumis à l'enquête"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495017c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84936365/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Vosges. Carte d'une portion de l'Arrondissement de Mirecourt sur laquelle se trouvent des Vestiges d'une route Romaine AB-KL,selon qu'il est détaillé dans le rapport fait le 27 juin 1821 à la Commission de la recherche des Antiquités du Département des Vosges par le soussigné géomètre à Epinal et membre de cette Commission. Echelle dans le rapport de 1 à 50. 000 / Signée Hogard. Pr. copie conforme,le secrétaire de la Commission,Parisot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84936365"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593470r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Campagne de 1914. Opérations en Haute et Basse-Alsace (Ligne des Vosges)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8593470r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441682d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Lorenz Neueste Vogesen-Karte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441682d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53209901q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte du front,avec le tracé des positions adverses en Alsace et dans les Vosges]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53209901q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066788p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Epinal. Revisée en 1911 et 1927"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066788p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84941375/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des Usines de Blano-Murger (Vosges). Avec leurs propriétés,aisances et dépendances"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84941375"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441498k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Octroi d'Epinal. 1 : 10 000 La ligne du périmètre de l'octroi est indiqué [sic] par un liseré vert. La ligne de l'agglomération est indiqué [sic] par un liseré jaune"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441498k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441485z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Octroi d'Epinal. 1 : 10 000 La ligne du périmètre de l'octroi est indiqué [sic] / par un liseré vert. La ligne de l'agglomération est indiqué [sic]  par un liseré jaune"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441485z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027768z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Commune du Val d'Ajol (Vosges) / dressée par M. Richard...  gravé par R. Hausermann..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027768z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459018x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte des environs de Beaufremont] / Levé expédié exécuté à Aulnois (Vosges) [par le] Capne Ronneaux,4e Groupe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8459018x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8494963d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Topographie de la Maison de Jeanne d'Arc à Domrémy (Vosges) et les bâtiments qui en dépendent / par A.F.F. Huin,instituteur à Domrémy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8494963d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53257963z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Vosges. Mirecourt. 1 : 5.000. Plan topographique régulier / dressé et dessiné en 1949 par M. Charles  Vérifié le 17 août 1950 par le Service du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53257963z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495250p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du Canton de Plombières,Arrondissement de Remiremont,Département des Vosges. Echelle de 1 à 40 000 / Dressé par Xavier Tocquaine Arpenteur Forestier à Remiremont"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495250p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532238047/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière de l'arrondissement de Saint-Dié avec les régions voisines (Chaîne des Vosges) / par Pr. Antoine, Agent-Voyer Chef. 1 : 40 000 ; Gravé par Erhard, ..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532238047"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531004771/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan des rigoles pour l'irrigation des prairies à Sainte Marguerite (Vosges),sur la rive gauche de la Meurthe,depuis le ruisseau de l'Anoux jusqu'à la route de Colmar. 1 : 2 000 ]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531004771"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495158n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan indiquant à peu près la constitution géologique du petit plateau qui existe entre Vicherey et Maconcourt dans les Vosges. Echelle de 1 à 10. 000. Fait en Novembre et Décembre 1860 / par le soussigné A. Mathieu"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495158n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213227t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'une partie du Village de Contrexéville sur les rives des Ruisseaux de Dombrot,de Suriauville et du Vair entre les Maisons,Colin Edmond et Courcelle (Ulysse) et spécialement les traversées de ces Ruisseaux dans le Parc de l'Etablissement / Commune Contrexéville (Vosges)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213227t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029177b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs d'Epinal"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029177b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063358w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Epinal. 1 : 80 000 Edition provisoire,reproduction de la révision de 1911"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063358w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530668111/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan-barême de la ville d'Epinal / dressé par Paul Testart,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530668111"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121508x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Epinal"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121508x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530701122/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Epinal (Altitude moyenne : 326 mètres)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530701122"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84454960/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville d'Epinal / dessiné et publié par Vor. Peyron,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84454960"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84950359/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Promenades et excursions de Gérardmer / Dressé par L. Hermann"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84950359"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492610m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géométrique des terreins et de la route qui sont traversés par les différentes files de corps provenant de la fontaine des Capucins située à Remiremont... Echelle de trois cents mètres [=Om. 120 ; 1 : 2 500 ]. Fait et levé sur les lieux par le soussigné, géomètre et architecte... Daval"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492610m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441524m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etude de topographie (Plan de Charmes et environs / signé : Le S.-lieutenant élève E. Féraud)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441524m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495156t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gérardmer et ses Environs d'après la carte de l'Etat-Major réduite à 1 : 200 000,... / par E.S."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495156t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84413060/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Indication des principales excursions à faire depuis l'hôtel de l'Altenberg [au col de la Schlucht]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84413060"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84408176/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Club alpin français, section vosgienne. Environs de Celles. Régions de Cirey, Raon-l'Etape, Raon-sur-Plaine, Senones. Jalonnements exécutés en 1893, avec le concours de l'administration forestière / par MM Henry Ganier ; et Henri Chenut ; Albert Barbier, dosst"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84408176"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495004r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du territoire de Gérardmer d'après celle de l'arrondissement de Saint-Dié / par P. Antoine"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495004r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495060c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de Plombières &amp; des environs avec indication des Promenades, Chemins, leurs distances de Plombières &amp; CCa. dressé par Amé Resal"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495060c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441029z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Hérival entre Plombières et Remiremont. 1 : 25 000 Autogr. Albert Barbier,Nancy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441029z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441517g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Martigny-les-Bains. Vue générale du Parc de l'Etablissement thermal,dressé à l'échelle de Om. 0005 pour mètre [1 : 200 ]. Certifié sincère conforme et véritable,Le Maire / signé : Ferry. Martigny-les Bains. le 15 Février 1897"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441517g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440554f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bussang et les Environs. 1 : 50 000 Gravé chez L. Wuhrer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440554f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84951577/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gérardmer et ses environs d'après la carte de l'Etat-Major réduite à 1 : 200 000 / E.S. del"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84951577"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495124v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Sources minérales de Plombières et environs. Carte géologique. 1 : 200 000 / P. Jutier, Ingr. des Mines, Plombières delineavit ; Gravée chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495124v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011388c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Petite carte historique de Saint-Michel-sur-Meurthe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011388c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011418v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Plombières / L. Thuillier delt"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011418v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011327f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Plombières / L.Thuillier delt  gravé et imprimé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011327f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223165z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guides Joanne : S[ain]t Dié,S[ain]te Marie-aux-Mines,Kaysersberg / L. Thuillier delt"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223165z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136188r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bois des Trézièmes situé Territoire de Morville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136188r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063511v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Les principaux camps retranchés de la Seine au Rhin, avec les environs de Berlin. Camp retranché de Metz-Thionville, ... de Paris, . .. de Strasbourg, 1 : 200 000 Anvers 1 : 250. 000. Namur, Liège, Cologne, Coblentz, Mayence, Verdun ; Toul, Berlin et ses abords, Epinal, Belfort, 1 : 150. 000 / René Brouzé, cartographe"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063511v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102231509/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guides Joanne : Les Vosges / L. Thuillier delt"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102231509"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495095k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêts royales de Nayemont et Lenvergoutte / lith. de Drouin  J. B. Reiner sc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495095k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495091x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Croquis figuratif des forêts composant l'ancienne principauté de Salm / lith. Drouin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495091x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088098r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêts royales de Nayemont et Lenvergoutte / lith. de Drouin  J. B. Reiner sc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088098r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530882688/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Croquis figuratif des forêts composant l'ancienne principauté de Salm / lith. Drouin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530882688"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223164h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guides Joanne : Les Ballons / L. Thuillier delt"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223164h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102232353/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Uebersichtskarte der Vogesen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102232353"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102235518/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Montagnes françaises : chaine des Vosges / [par] L. J. Bardin  dessiné par Muret. feuille de Colmar"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102235518"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102293828/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000 / editée par le Comité central du club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102293828"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10233790j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000 / editée par le Comité central du club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10233790j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223854r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen. Blatt XVI, Kaysersberg-Münster (2., neue bearbeitete Auflage) / Bearbeitet im kartographischen Institut von Carl Flemming ; herausgegeben vom Central-Ausschuss des Vogesen-Clubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223854r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223863q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XVIII,Guebwiller / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223863q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223838q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XI,Vallée sup[érieu]re de la Bruche / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223838q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223603g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000 / editée par le comité central du club vosgien. feuille XII,M[on]t S[ain]te-Odile-Hohwald"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223603g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102238410/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XII,M[on]t S[ain]te-Odile-Hohwald / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102238410"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223925b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XII,M[on]t S[ain]te-Odile-Hohwald / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223925b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223833g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille IX,Abreschwiller-Dabo / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223833g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223921j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XVII,Wildenstein / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223921j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223606t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000 / editée par le Comité central du club vosgien. feuille XVII,Wildenstein"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223606t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102238590/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XVII,Wildenstein / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102238590"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223845s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XIII,S[ain]te-Marie-aux-Mines / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223845s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223924w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XIII,S[ain]te-Marie-aux-Mines / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223924w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102238484/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XIV,Sélestat-Ribeauvillé / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102238484"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102239277/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille II et III,Bitche - Sturtzelbronn / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102239277"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223923f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XV,Schlucht-Gérardmer / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223923f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223852v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XV,Schlucht-Gérardmer / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223852v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102239991/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille VI et VII,Niederbronn - Woerth / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102239991"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102337895/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000 / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102337895"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10229381t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000 / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10229381t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102238378/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XI,Oberes Breuschtal (4.,neu bearbeitete Auflage. Bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102238378"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223926s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XI, Oberes Breuschthal (3., verbesserte Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223926s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102240040/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XI,Oberes Breuschtal (4. neu bearbeitete Auflage. Bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102240040"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10224005f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XII,Odilienberg - Hohwald (4.,verbesserte Auflage. Bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10224005f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223840j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XII, Odilienberg (2., neu bearbeitete Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223840j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102238556/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XVI,Kaysersberg-Munster / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102238556"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102238645/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000. feuille XXIII,Grand Ballon et ses voies d'accès / editée par le Comité central du Club vosgien"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102238645"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10224006w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XIII,Markirch (3. Auflage,neu bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10224006w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223843w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XIII, Markirch (2., verbesserte Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223843w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223844b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen. Blatt XIII, Markirch (3. Auflage, neu bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; Bearbeitet im Kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223844b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223842f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XIII, Markirch / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223842f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223861t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XVIII, Gebweiler (2., neu bearbeitete Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223861t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102238628/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XVIII,Gebweiler (3.,verbesserte Auflage. Bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102238628"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223860c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XVIII, Gebweiler / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223860c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10224013z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen. Blatt XVIII, Gebweiler (3., verbesserte Auflage. Bearbeitet von Max Seeger) / [herausgegeben vom Central-Ausschuss des Vogesen-Clubs] ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10224013z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223856n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XVII, Wildenstein / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223856n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223847p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XIV, Schlettstadt - Rappoltsweiler (3., verbesserte Auflage. Bearbeitet von Max Seeger) / [herausgegeben vom Central-Ausschuss des Vogesen-Clubs] ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223847p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223834x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt X, Molsheim / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223834x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223858j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XVII, Wildenstein (3., verbesserte Auflage. Bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223858j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102238467/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XIV, Schlettstadt - Rappoltsweiler (2., neu bearbeitete Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102238467"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223836t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt X,Molsheim (3. Auflage,neu bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223836t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102238573/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XVII, Wildenstein (2., neu bearbeitete Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102238573"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223605c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt VIII,Zabern (3.,verbesserte Auflage. Bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223605c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10224012h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen. Blatt XVII, Wildenstein (3., verbesserte Auflage. Bearbeitet von Max Seeger) / [herausgegeben vom Central-Ausschuss des Vogesen-Clubs] ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10224012h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102240006/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt VIII,Zabern (3.,verbesserte Auflage. Bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102240006"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223835c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt X, Molsheim (2. neu bearbeitete Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223835c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223851d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XV, Schlucht - Gérardmer (2., neu bearbeitete Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223851d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223850z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XV, Schlucht - Gérardmer (2., neu bearbeitete Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223850z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10224008s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XV, Schlucht - Gérardmer (Dritte, neu bearbeitete Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10224008s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223849k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XV, Schlucht - Gérardmer / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223849k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102239957/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt IV, Weissenburg (1., Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102239957"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102238395/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XII, Odilienberg / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102238395"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223998k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt VI und VII, Niederbronn - Wörth / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223998k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223996p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt V, Lützelstein / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223996p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10224007b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XIV,Schlettstadt - Rappoltsweiler (3.,verbesserte Auflage. Bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10224007b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223604x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Vosges à l'échelle 1/50 000 / editée par le comité central du club vosgien. feuille XIII,S[ain]te-Marie-aux-Mines"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223604x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10224014d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XIX und XX, Masmünster - Thann (Zweite, neu bearbeitete Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10224014d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102240169/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen. Blatt XIX und XX, Masmünster - Thann (Zweite, neu bearbeitete Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102240169"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223994s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt II/III, Bitsch - Stürzelbronn (1., Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223994s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223993b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt II/III, Bitsch - Stürzelbronn (1., Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223993b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10223831k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt IX, Alberschweiler - Dagsburg / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10223831k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102238539/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XVI, Kaysersberg - Münster / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102238539"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102238321/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt IX, Alberschweiler - Dagsburg (2., neu bearbeitete Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102238321"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10224001n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt IX,Alberschweiler - Dagsburg (3. Auflage,neu bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10224001n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102240023/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt IX,Alberschweiler - Dagsburg (3. Auflage,neu bearbeitet von Max Seeger) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102240023"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102240097/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XVI, Kaysersberg - Münster (3., verbesserte Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102240097"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102239220/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Karte der Vogesen im Massstabe 1:50 000. Blatt XVI, Kaysersberg - Münster (3., verbesserte Auflage) / herausgegeben vom Central-Ausschuss des Vogesen-Clubs ; bearbeitet im kartographischen Institut von Carl Flemming"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b102239220"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

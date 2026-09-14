@@ -1,0 +1,2289 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/60-oise.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Oise (60)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530211870/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan complet de la forêt de Compiègne et de ses environs... / dressé par Demarque-Geoffroy,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530211870"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445535n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Compiègne dédié à S. A. R. Madame la duchesse d'Orléans / par A. J. S. Gouel,jeune,architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445535n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444092n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la forêt de Laigue réduite au"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444092n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84401208/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt de Laigue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84401208"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445850c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du bois de la garenne de Fresnes [Fresnes-l'Eguillon],partie du bois de Bléquancourt [Bléquencourt,Oise],les dix arpents et les bouleaux de la vallée Berton,les sept quartiers / fait par Rozier,le 12 thermidor an dix... (31 juillet 1802.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445850c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53076066m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du bourg de Mello"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53076066m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84419759/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique de la ville de Senlis et d'une partie de ses faubourgs / levé par Charles-Claude Coqueret ; arpenteur,... en 1811 et 1812 ; dessiné par Antoine-Remy Frémin, géographe, en 1815"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84419759"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525036928/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Mesurage,arpentage et plan figuré de toutes les pièces de terre,près et bois,que fait valoir Monsieur Bouchard Honoré,cultivateur en la commune de Plailly,arrondissement de Senlis,département de l'Oise. Fait à la requête dudit Sr Bouchard,dans le cours des années mil huit cent dix sept et mil huit cent dix huit / par Lagneau,arpenteur géomètre à Villeneuve sous Dammartin,à la mesure métrique comparée à la mesure ordinaire de Plailly,qui est composée de douze pouces pour pied,vingt deux pieds pour perche et cent perches pour l'arpent"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b525036928"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098469s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la forêt de Compiègne et de ses environs. Levé en 1772 / par ordre et aux frais de M. Pannelier d'Annel pour servir à fixer le nouvel aménagement de cette forêt dont le Roi Louis XV venait de le charger. Rectifié en 1791 ; par les Soins de M.A.L. Pannelier fils, d'après les changemens ordonnés par Louis XVI, dans les 5800 arpens plantés par M. Pannelier père et fils, jusqu'en 1792. Levé en 1772 ; par le sieur Bussa et considérablement augmenté en 1820 par Brué, Géographe de S.A.R. Monsieur, d'après des matériaux authentiques ; Bourgoin soulp"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098469s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53100108f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Parc de Fitzjames"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53100108f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445968d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du canton de Nanteuil,réduite d'après les plans du cadastre à l'échelle de 1/50.000 pour être annexée au Précis statistique du canton de Nanteuil inséré dans l'annuaire du département de l'Oise année 1820"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445968d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495416b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du canton d'Estrées St-Denis réduite d'après les plans du cadastre à l'échelle de 1 à 50000 pour être annexée au Précis statistique du canton d'Estrées St-Denis,inséré dans l'annuaire du département de l'Oise année 1832"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495416b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084887j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de l'Oise / dressée... par E.-C.-Z. Bouchard..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084887j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035428s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du Département de l'Oise : dressée d'après la triangulation de la nouvelle carte de France et les élémens [sic] du cadastre / E[ugè]ne Ch[ar]les Z[achar]ie Bouchard géomètre en chef sous l'administration de Mr le baron Feutrier conseiller d'État préfet de l'Oise"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035428s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495415x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du canton de Pont-Ste-Maxence réduite d'après les plans du cadastre à l'échelle de 1 à 50000 pour être annexée au Précis statistique du canton de Pont-Ste-Maxence inséré dans l'annuaire du département de l'Oise année 1834"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495415x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035423j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Levé à vue du Camp d'Orléans à l'est de Compiègne / par François Anouilh, sergent major de grenadiers au 30e de ligne ; Lith. de Levacher"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035423j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035148g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique d'une portion du cours de l'Aronde et du mont Ganelon aux environs de Compiègne / Imp. lith. P. Bineteau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035148g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035405m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique d'une portion du cours de l'Aronde et du mont Ganelon aux environs de Compiègne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035405m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035395z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Levé à vue du Camp d'Orléans à l'est de Compiègne / par François Anouilh, sergent major de grenadiers au 30e de ligne ; Lith. de Levacher"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035395z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035194r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière de l'arrondissement de Compiègne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035194r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444099j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Compiègne dressé d'après le cadastre... / par H. Damas,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444099j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84447818/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'Eglise Abbatiale et de la Chapelle de St Germer (Picardie) / Hippte Durand,architecte. 1839"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84447818"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446289g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la forêt de Compiègne, revu sur le terrain pour la levée des routes et carrefours percés depuis 20 ans et la rectification des changements opérés depuis cette époque. Nombre de routes 338. Nombre de carrefours 278. En forêt de Compiègne, avant 1346 se nommait Forêt de Cuise. La contenance totale de la forêt... est aujourd'hui de 14636 hect. 45 ares. Echelle de 1 à 39. 500 / Dessiné par C. Récopé, Garde à cheval, secrétaire-Archiviste des forêts de la Couronne. Gravé sur pierre ; par L. Bouffard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446289g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445489v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du domaine de Morfontaine. A map of the demesne at Morfontaine"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445489v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035281c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle carte routière des environs de Paris : indiquant dans une étendue de 44 lieues sur 68 les chefs-lieux de canton, communes, relais de poste et bureaux de poste aux lettres compris dans les départements qui avoisinent la capitale / dressée par Achin ; Gravé par Berthe ; Écrit par Hacq, graveur du Dépôt de la guerre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035281c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84447833/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de l'ancien château de Sarcus (Picardie)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84447833"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087599r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des camps de Compiègne, des terrains de manœuvres et des cantonnements / dressé par Poissonnier, géomètre-arpenteur des forêts de la Couronne ; lithographie de Jules Escuyer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087599r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087600c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des camps de Compiègne, des terrains de manœuvres et des cantonnements / dressé par Poissonnier, géomètre-arpenteur des forêts de la Couronne ; lithographie de Jules Escuyer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087600c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087455x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Compiègne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087455x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530620446/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bailleul le Sec. - Département de l'Oise. Arrondissement de Clermont. Commune de Bailleul le Sec. Plan du domaine de La Tranchée appartenant à M. Baude conseiller d'état,député du département de la Loire / levé par le conducteur des Ponts et Chaussées,soussigné : Bailleul le Sec le 12 octobre 1842,Bellanger"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530620446"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084923n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement de Compiègne / dressé par Ch. Pérint"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084923n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088036c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Compiègne / dressé et lithographié par Ch. Pérint  lith. de Jules Escuyer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088036c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088037t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Compiègne indiquant les lieux décrits dans l'ouvrage / dressé et lithographié par Ch. Perint"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088037t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088035x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Compiengne comprinse ès la province de Picardie et du gouvernemet de l'Isle de France : Fac simile d'un plan manuscrit authentique de Compiègne, dressé en 1509 / dessiné sur manuscrit et lith. par Ch. Pérint ; lith. de Jules Escuyer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088035x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443377p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Calque autographique,d'après la carte originale du Dépôt de la guerre.. (1er mars 1842),pour servir aux observations adressées par les habitants de Creil et des environs à l'occasion de l'emplacement assigné par M. l'ingénieur en chef à la station de Creil"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443377p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087934j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Étude de la ligne de chemin de fer de Noyon à St-Quentin,avec tracés comparatifs par Chauny et Guiscard] / lith. Lender"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087934j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440836j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Étude de la ligne de chemin de fer de Noyon à St-Quentin,avec tracés comparatifs par Chauny et Guiscard] / lith. Lender"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440836j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530880566/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la forêt de Compiègne et de ses environs / dressé par Charles Perint, auteur de la carte de l'arrondissement de Compiègne ; lith. Kaeppelin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530880566"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532238081/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Beauvais avec le tracé de l'alignement des rues,l'indication et le numéro de chaque maison / par Augte Hubaine,... et Aphe Jouvenel,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532238081"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250744d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Noyon,... / par Eugène Bouchard Eugène Bouchard,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250744d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84456120/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de Seine-et-Oise / dressé sous la direction de V. A. Malte Brun  par A. H. Dufour"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84456120"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53022904q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Affiche avec plan de lotissement de la ferme de la Commanderie et terres labourables..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53022904q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136089t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan de la ville de Clermont (Oise)] / Lith. Belin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136089t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495582p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Nièvre,Oise,Nord (pl. 15)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495582p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84424480/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêts domaniales d'Ourscamp et Carlepont et forêt Cte de Pontoise. Plan... / par A. Girou,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84424480"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084889f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière... du département de l'Oise.. . / par Victor Lhuillier..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084889f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530830015/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte forestière de Chantilly,Halatte et Ermenonville / dressée par Rethoré..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530830015"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530848880/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière... du département de l'Oise.. . / par Victor Lhuillier..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530848880"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84424717/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la forêt de Compiègne,revu et complété en 1863. 1/40.000 / dressé et complété par C. Récopé,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84424717"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084975m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Compiègne / par H. Guéry"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084975m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53083006d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Grand parc de Chantilly / dressé par Réthoré..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53083006d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458855n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Commune d'Abancourt,Oise. Ligne de Chemin de fer d'Abancourt au Tréport,tracé du Service Vicinal et variante proposée]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458855n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53102914s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Est de la France. Meuse,Aube,Marne,Hte. Marne,Ardennes,Seine-et-Marne,Aisne,Oise,Yonne,Seine-et-Oise"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53102914s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532237667/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière... du département de l'Oise.. . / par Victor Lhuillier..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532237667"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530986577/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan complet de la Forêt de Compiègne et de ses environs, donnant les renseignements principaux avec tous les changements opérés depuis plusieurs années dans la dite Forêt / dressé par Demarque-Geoffroy, Géomètre. 3000 mètres [=Om. 080 ; 1 : 37 500 ] ; Gravé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530986577"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084890t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Oise... Carte... Dressée pour l'usage spécial des écoles..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084890t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443374f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chantilly et ses environs / par Piart-Dorinet,(sic,pour Dorinet)..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443374f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530848918/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Oise / dressé par Alexis Donnet...  et rectifié par Ernest Grangez..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530848918"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530209973/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Beauvais"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530209973"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53021060n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Compiègne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53021060n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062137h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrograhique du département de l'Oise dressée sur l'ordre du Conseil général... Arrondissement de Compiègne / Dessiné par M. Delamarre,conducteur des Ponts et Chaussées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062137h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440552m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Compiègne,1884"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440552m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53022879g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Beauvais / par Léon Fenet,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53022879g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443129x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chantilly en 1885"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443129x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530227971/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt de Compiègne et ses environs / par L. Demarque,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530227971"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53242836n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Reproduction facsimilé du plan / levé et dessiné par N. P. I. Chandellier ; en 1734... publiée par les soins et aux frais de la Société historique de Compiègne ; et avec le concours du conseil municipal, Décembre 1886"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53242836n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530253768/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait du plan de la ville de Beauvais... / par M. E. Delamarre,1888"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530253768"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439775t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du canal de St-Quentin (versant sud) et du canal latéral à l'Oise / par R. Vuillaume"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439775t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440301m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Oise"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440301m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530280424/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du canton de Saint-Just-en-Chaussée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530280424"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53028099b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Compiègne / par H. Guéry,1894"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53028099b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84407952/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Equipage d'Halatte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84407952"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441032f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt d'Halatte et ses environs... / dressée spécialement pour l'équipage d'Halatte par Maurice Versepuy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441032f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250783m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique du département de l'Oise, dressée sur l'ordre du conseil général par le service des ponts et chaussées... 1/80.000 / M. Pierret ; ingénieur de l'arrondissement. Revisée par M. Meurillon,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250783m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441822t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chantilly et ses environs / L. Robineau,fec. et del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441822t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445007m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt d'Halatte et ses environs... / dressée spécialement pour l'équipage d'Halatte par Maurice Versepuy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445007m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443747x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Vue et plan de : Compiègne en 1611 / par Joachim Duwiert..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443747x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062023x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Compiègne,1910. 1/4.000. L. Dervillé,géomètre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062023x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530577984/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Collection Blondel la Rougery. Plan monumental de Beauvais dressé / d'après les documents les plus récents. 1 : 5 000  Dressé par G. Peltier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530577984"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530633543/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Compiègne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530633543"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530641643/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carlepont. [région] / dressé et restitué par le Groupe des canevas de tir de la 6eme armée,3 octobre 1915"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530641643"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446133r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Oise"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446133r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446101s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Compiègne,section nord. Edition provisoire"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446101s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446138t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Compiègne,section nord"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446138t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064167f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Camp de Lassigny. Anciennes organisations françaises et allemandes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064167f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8460124g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Organisations allemandes dans la région Roye-Lassigny"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8460124g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84586371/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la forêt de Compiègne / dressé par le service forestier..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84586371"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53065335d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la forêt de Compiègne et de ses environs, dressé avec le concours du service forestier / sous la direction de MM Peiffer ; et Demorlaine ; ,... Dressé et dessiné par Ch. Perint,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53065335d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213308t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Beauvais"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53213308t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066554w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la forêt de Compiègne,dressé par le service forestier / sous la direction de M. Demorlaine,inspecteur des eaux et forêts"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066554w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531215457/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Beauvais"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531215457"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53197207k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Beauvais (Oise). Section Feuille n° 2 / Commissariat technique à la Reconstruction immobilière..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53197207k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52503796f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt domaniale de Compiègne. Plan général"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52503796f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53265136n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Oise. Ville de Saint-Just-en-Chaussée. 1 : 2.000. Fond de plan topographique / dressé en 1941 par M. Delcampe,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53265136n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531212720/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Paris,dressée spécialement pour les magasins du Bon Marché..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531212720"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121440m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Oise. Ville de Formerie. Plan de reconstruction et d'aménagement... / Robert Auzelle,architecte..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121440m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459615r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Forêt domaniale de Hez-Froidmont. Plan général. Contenance 2.700 hectares"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8459615r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53167611w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[France départementale. Oise et Seine-et-Marne] / dressée par Girard et Barrère,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53167611w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53167612b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[France départementale. Oise et Seine-et-Marne] / dressée par Girard et Barrère,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53167612b"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

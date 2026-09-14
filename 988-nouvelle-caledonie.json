@@ -1,0 +1,932 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/988-nouvelle-caledonie.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Nouvelle-Calédonie (988)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530605056/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle-Calédonie / dressée pour l'Union agricole calédonienne par le commandant Laporte  dessinée et gravée par R. Hausermann"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530605056"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060673k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle-Calédonie / publiée pour l'Union agricole calédonienne par le commandant Laporte  dessinée et gravée par R. Hausermann"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060673k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8490969n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle-Calédonie... / dressée par E. Couperie, ... ; Gravé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8490969n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063489z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle Calédonie. Carte / dressée par A. Meunier,(ex-géographe du ministère des colonies)..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063489z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84911503/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle-Calédonie. Terres de la compagnie (partie nord) Koumac,Gomen,Taom et Témala. Mines d'or. Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84911503"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84912135/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La Nouvelle-Calédonie : croquis aproximatif indiquant grosso-modo les principaux points cités dans l'article traitant de cette île / Dressé d'après les cartes officielles par le sopusigné : J. Parquet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84912135"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025183k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Expédition de Monco,de Mou et de Pounérihouen. Nouvelle-Calédonie,côte est,partie comprise entre Kanala et Touho. Croquis"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53025183k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84451217/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Presqu'Ile Ducos (Nouvelle-Calédonie)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84451217"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441292d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'ile Kounié ou des Pins (Nouvelle-Calédonie) / levée et dressée en octobre 1850, par l'enseigne de v[aisse]au C. Pouthier ; sous les ordres du cap[itai]ne de frégate J. d'Harcourt, commandant la corvette d'Alcmène ; gravé par Jacobs ; écrit par J. M. Hacq et V. Carré"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441292d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53156455x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Cartes sur lesquelles est indiqué la route d'un navire de Port de France (Nouvelle Calédonie) à l'île de Booby à travers le détroit de Torrès] / gravé par Jacobs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53156455x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53156454g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Cartes sur lesquelles est indiqué la route d'un navire de Port de France (Nouvelle Calédonie) à l'île de Booby à travers le détroit de Torrès] / gravé par Jacobs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53156454g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531564531/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Cartes sur lesquelles est indiqué la route d'un navire de Port de France (Nouvelle Calédonie) à l'île de Booby à travers le détroit de Torrès] / gravé par Jacobs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531564531"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8491759w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Nouvelle Calédonie et de ses dépendances. Réduction mathématique des cartes de la Marine,par A. Marchand. 1870. Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8491759w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532603641/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle-Calédonie. Carte / dressée par A. Meunier,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532603641"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006808w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Nouvelle-Calédonie,1/400.000 / dressée par Gallet,,... 1886"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006808w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53239394f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Nlle-Calédonie et dépendces,dressée... par les officiers de la mission topographique... 1879-1880"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53239394f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444650c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Service maritime postal entre la France et la Nouvelle-Calédonie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444650c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530666565/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle Calédonie et dépendances. Mission topographique. Carte orographique du 1er arrondissement,levée par la mission..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530666565"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531985411/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle-Calédonie. Carte / dressée par A. Meunier,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531985411"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8490470k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Nouvelle-Calédonie indiquant les principaux itinéraires suivis par Mr B. Balansa de 1868 à 1872. Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8490470k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531212201/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Nouvelle-Calédonie / dressé par le commandant Laporte ; et mise à jour par M. N. Ratzel, ex-chef du Service topographique de la Nouvelle-Calédonie d'après les travaux des officiers de la mission topographique et des cartes hydrographiques de la marine"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531212201"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530613190/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique de la Nouvelle-Calédonie dressée... par Maurice Piroutet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530613190"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8490953s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Nouvelle-Calédonie et de ses dépendances avec la Colonie pénitentiaire de l'Ile Nou / d'après la carte de Mr Bouquet de la Grye et des documents officiels  Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8490953s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8491758g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Nouvelle Calédonie et de ses dépendances avec la colonie pénitentiaire de l'ile Nou / d'après la carte de Mr. Bouquet de la Grye et des documents officiels  par V. A. Malte-Brun  Gravé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8491758g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84909546/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Nouvelle-Calédonie et de ses dépendances avec la Colonie pénitentiaire de l'Ile Nou / d'après la carte de Mr Bouquet de la Grye et des documents officiels  par V. A. Malte-Brun  Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84909546"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53189609c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "U. S. Army Air Forces. Special aeronautical chart. New Caledonia and Loyalty Islands"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53189609c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84910352/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Nouvelle Caledonie et de ses dépendances avec la Colonie pénitentiaire de l'Ile de Nou / d'après la carte de Mr Bouquet de la Grye  par V. A. Malte-Brun  Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84910352"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8491546k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ile des Pins (Nelle Calédonie) / gr. chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8491546k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530985193/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouvelle Calédonie et dépendances. Service Topographique. Tableau d'assemblage de la partie occidentale de l'Ile des Pins comprenant le territoire militaire et les cinq communes affectées à la déportation / Levé sur le terrain d'avril à octobre 1875 par Mr Caujolle, géomètre ; Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530985193"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8491525d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Presquîle Ducos (Nelle Calédonie) / Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8491525d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439147f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Passage de Vénus. Mission de Noumea. Plan à ... 1/400e de l'installation de l'observatoire près de Noumea Nlle Calédonie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439147f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8491025p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Presqu'île Ducos (Nelle Calédonie) / Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8491025p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53148066n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Sondages exécutés par \"Le Bruat\" entre la Nouvelle Calédonie et l'Australie / Tollemer, autog."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53148066n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531535469/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nos colonies / A. Meunier,géographe au Ministère des Colonies"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531535469"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098520g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Presqu'île Ducos,partie affectée à la déportation / Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098520g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121402v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Océan Pacifique et ses principaux archipels - Océanie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121402v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531563721/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nos colonies / A. Meunier,géographe au Ministère des Colonies"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531563721"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445122n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Presqu'île Ducos,partie affectée à la déportation / Gravé chez Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445122n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525117678/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Afrique occidentale 1/14000000. - Au verso : Antilles : 1/1100000. Guyane française : 1/1100000. Nouvelle-Calédonie : 1/1100000"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b525117678"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530938182/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'archipel des Îles Viti reconnues par le Cap.ne de Frégate Dumont d'Urville,levée et dressée par M.r Gressien,enseigne de vaisseau. Expédition de la Corvette de S. M. l'Astrolabe. Mai et Juin 1827"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530938182"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

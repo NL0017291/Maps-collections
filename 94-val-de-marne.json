@@ -1,0 +1,794 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/94-val-de-marne.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Val-de-Marne (94)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530603381/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Plan de la plaine d'Ivry entre la Salpétrière et le confluent de la Marne.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530603381"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250841f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan cadastral d'une partie de la commune de Choisy (Seine-et-Marne),près de la Ferté-Gaucher"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250841f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84406571/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Champs-Elysées du Perreux. Nogent-s/M... 600 000 mètres de terrain à vendre à l'amiable. .."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84406571"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443705k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Hameau du Mesnil sur les bords de la Marne. Commune de La Varenne St Maur (Seine)... Plan général de la propriété et du lotissement / dressé par Frion,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443705k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443221z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Hameau du Mesnil,sur les bords de la Marne,commune de La Varenne-Saint-Maur... Plan général de la propriété et du lotissement / dressé par Frion"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443221z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84444639/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Distribution des eaux de la Marne dans les communes de Nogent,St-Mandé et Vincennes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84444639"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84413987/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du lotissement des terrains à vendre dans le hameau de Val-Roger, station de Villiers-sur-Marne, dressé pour les ventes / dirigées par MM Dutreih ; et Junieux..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84413987"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010191j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plans généraux des prisons et maisons d'arrêt du département de la Seine : adoptés par les divers ministres de l'intérieur qui se sont succédés et par les administrations centrales / composés en 1791 et 1792 par P. Giraud,architecte des prisons"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55010191j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84941857/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Canal souterrain de St Maur et du Cours de la Marne,depuis le pont de St Maur,jusques au confluent de la Seine et de la Marne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84941857"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136302h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Guide des promeneurs aux environs de Paris"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136302h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531360495/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Génie. Fortiifications de Paris. Direction de la rive gauche. 1846 / gravé par les frères Avril  lith. Lemercier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531360495"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136352k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer de Paris à Vincennes et ses environs / projet étudié et proposé par Mr. Andraud"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136352k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52507000r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer de Paris à Vincennes et ses environs / projet étudié et proposé par Mr. Andraud"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52507000r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532604612/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Compagnie des chemins de fer de l'Est, Ligne de Paris à Vincennes avec ses embranchements et prolongements... Carte générale en 2 feuilles, à l'échelle de 1 : 10.000, dressée / par ordre de M. Vuignier ; ,... 1855, revisée en 1858, gravé par Régnier ; et Dourdet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532604612"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260460m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Compagnie des chemins de fer de l'Est, Ligne de Paris à Vincennes avec ses embranchements et prolongements... Carte générale en 2 feuilles, à l'échelle de 1 : 10.000, dressé / par ordre de M. Vuignier ; ,... 1855, revisée en 1860, gravé par Régnier ; et Dourdet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260460m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085030n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Commune de Nogent-sur-Marne... Nouveaux quartiers de Longchamps et des Champs-Elysées du Perreux... à vendre. - Plan géométrique..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085030n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530791199/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière de Seine et Marne / M. Dajot  Ch. Méalin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530791199"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52521763s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan zur Schlacht bei Villiers am 30.sten November und 2.ten December / Lith. Institut v. Wilh. Greve,Berlin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52521763s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530210079/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique cotée du département de la Seine... / par M. Delesse..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530210079"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062301b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Maison de campagne située au village de Gentilly près Paris,appartenant aux RR. PP Jésuites du collège Louis le Grand (XVIIe siècle)..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062301b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445913f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'ensemble de la commune de St-Maur (Seine)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445913f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853861d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 29,Boissy-S.t Leger"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853861d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853854b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 22,Charenton"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853854b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853855s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 23,Champigny"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853855s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10853860z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs de Paris a 1/20,000. F.lle 28,Choisy-le-Roi"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10853860z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444476x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan drefsé à l'appui de notre proces-verbal de transport du 7 juin 1880"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444476x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84453386/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'ensemble de la commune de St-Maur-des-Fossés (Seine)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84453386"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062130c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Maur. Extrait des plans indicateurs de la Banlieue au"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062130c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019650z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre des villes de Villeneuve-Saint-Georges,Villeneuve-le-Roi,Choisy-le-Roi,Orly,Thiais,Ablon / Edité par la Société Générale des Plans Indicateurs..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53019650z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019757g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre des villes de Vincennes,Fontenay-sous-Bois,Bagnolet,Montreuil-sous-Bois,Saint-Mandé,Bois de Vincennes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53019757g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019643w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre des villes de Kremlin-Bicêtre,Villejuif,Gentilly,Arcueil,Cachan"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53019643w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53019688s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Planimètre des villes de Maisons-Alfort,Saint-Maurice,Alfortville,Charenton,Vitry-sur-Seine,Ivry-sur-Seine,Bois de Vincennes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53019688s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192711g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Arrondissement de Sceaux,canton d'Ivry. Ivry-sur-Seine,plan d'aménagement déclaré d'utilité publique par décret du 21 février 1933 / Département de la Seine"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53192711g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066885q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Paris à Orléans. Gares de Paris-Austerlitz,Paris-Ivry et Ivry-sur-Seine. Plan d'ensemble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066885q"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

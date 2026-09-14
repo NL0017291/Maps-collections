@@ -1,0 +1,426 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/12-aveyron.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Aveyron (12)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441813v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Carte des exploitations de houille dans les environs de St-Côme,Aveyron.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441813v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441818x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Demande en extension de périmètre de la concession de La Roque"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441818x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440400j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Aveyron. Arrondissement de Millau. Partie nord de la commune de Bertholène Position des monuments des époques celtique et gallo romaine 1/20.000 / (Signé U. Arribat)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440400j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84418022/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Aubin. - Carte géologique du bassin houiller de Aubin (Aveyron),dressée en 1840 par l'ingénieur Senez"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84418022"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223826z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Milhau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223826z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136259b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Concessions de terrain] / authogr. Antoine Országh"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136259b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495573q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Aube,Aude,Aveyron,Bouches-du-Rhône (pl. 3)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495573q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53024943m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et administrative du département de l'Aveyron,dressée par les soins de M. Gve Cassanac,... 1856"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53024943m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441809z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'une partie des territoires des communes de Lugan,Montbazens et Galgan. A l'appui de la demande en concession de gite houiller,présenté par MM. Manesse,Fours,Rivière,Fontanelle et Landrin. Annexé à la demande en concession des sussignés"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441809z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53085084h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique et minéralogique du département de l'Aveyron / dressée par M. Ad. Boisse,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53085084h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439465d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique de Montpellier-le-Vieux / par E.-A. Martel"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439465d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440232t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Aveyron. Arrondissement de Millau. Partie nord de la commune de Bertholène Position des monuments des époques celtique et gallo-romaine / U. Arribat"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440232t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8439399v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Club alpin français. Section de la Lozère et des Causses. Plan de Montpellier le Vieux (Aveyron) / levé et dessiné par E.-A. Martel,1885"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8439399v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445190g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs du camp du Larzac. 1/80.000. Révision de 1893"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445190g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84466767/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Mont Aigoual,les gorges du Tarn,les Causses. Plan relief 1/40.000... / Saunier (Claude) del"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84466767"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53209793k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Camp du Larzac"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53209793k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530669173/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Gare de Rodez. Plan d'ensemble (état actuel)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530669173"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266482d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Millau (Aveyron),plan topographique / dressé... par le Cabinet Danger,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266482d"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

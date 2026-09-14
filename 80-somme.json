@@ -1,0 +1,2749 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/80-somme.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Somme (80)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53063394r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan des terres,bois et prez appartenant à M. de Bray,situé sur le territoire de Faloise,divisé par section / Levé par Plessier,géographe arpenteur à Halliviller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53063394r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029365s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Amiens. - Plan nivelé d'Amiens,avec indication des conduites d'eau,etc"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029365s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062031f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan et profil des pentes du canal du duc d'Angoulème"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062031f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530620876/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Projet de square entre la place Notre-Dame et la rue Basse St. Martin à Amiens]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530620876"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441439q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Amiens,dédié et offert à MM. les étrangers par les maisons de commerce..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441439q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443460r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'une ville et d'un port au Bourg d'Ault,projetés à l'embouchure d'un prolongement du canal du duc d'Angoulème,s'embranchant au-dessus du barrage éclusé de St-Valery / (Quignon,dessinateur)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443460r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444303p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Amiens"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444303p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444563n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan visuel du couvent des Cordeliers de Mailly (Somme)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444563n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441360s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Amiens. - Plan de la ville d'Amiens"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441360s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84416439/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'arrondissement d'une justice de paix à Liomer,département de la Somme,arrondissement d'Amiens"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84416439"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84441868/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ham"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84441868"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8493635r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Vallée de la Somme Présentant la position des Camps de César. Levé par ordre de Mr. le Comte d'Allonville,... Prefet...,par MM. Carpentier et Vecque,géomètres du Cadastre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8493635r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532332154/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Péronne. Echelle de 1 : 5 000 / Le Capne. Comdt. l'Artie. de la Place,Terrier de la Clemencerie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532332154"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53233216k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Péronne. Echelle de 1 : 5 000 / Le Capne. Comdt. l'Artie. de la Place,Terrier de la Clemencerie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53233216k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099871g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Fort de Ham,de la Ville et des terrains environnants à 750 m. de la Magistrale. Echelle de 0,001 pour 2 mètres [1 : 2 000 ] / Le S. Lieutenant d'Artillerie J.R. Devaux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099871g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530998701/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du Fort de Ham,de la Ville et des terrains environnants à 750 m. de la Magistrale. Echelle de 0,001 pour 2 mètres [1 : 2 000 ] / Le S. Lieutenant d'Artillerie J.R. Devaux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530998701"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84445783/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan (s.) du château de Mailly,cours,basses-cours,enclos en labours,pépinières... / (Signé : 12 juin 1828,Grevin jne,)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84445783"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458961q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Embouchure de la Somme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458961q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458959n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Embouchure de la Somme / (Signé :) P. P. B."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458959n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84589587/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Rue"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84589587"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530849171/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et administrative du département de la Somme / par A. Fournier,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530849171"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53084918g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Somme / par Ch. Peltier  Ed. Boldoduc lith. à la plume"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53084918g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087936f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte sans titre,du chemin de fer du Nord aux environs de Grand-Laviers] / lith[ograph]ie Lemercier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087936f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530877391/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Amiens / par Pinsard conducteur des Ponts  lith[ograph]ie de J. Rigo"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530877391"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530878936/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Somme / par Ch. Peltier  Ed. Boldoduc lith. à la plume"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530878936"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443456v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville d'Amiens. Projet de place et de cours. .. faisant disparaître le fossé du Mail,... / par J. Herbault,,... en novembre 1845"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443456v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444185v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Doullens"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444185v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8468392g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Abords du chemin de fer dans Amiens"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8468392g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444305h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville d'Amiens. Foire de 1845. Emplacements destinés au Champ de foire sur les boulevards du Mail et St Charles"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444305h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443462k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Hospices d'Amiens. Terrains propres à bâtir à vendre en détail situés quartier d'Henri-ville. Plan d'une partie du quartier... / dressé par J. Herbault,architecte,... janvier 1845"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443462k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53087899w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer d'Amiens à Boulogne / dressée par C. Pinsard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53087899w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444306x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Amiens. - Plan de l'esplanade de Longueville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444306x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84443043/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Amiens"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84443043"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441346h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Amiens. - Plan de la ville d'Amiens"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441346h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532860886/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Albert (Bois d'). - Albert. 1/20.000 (Signé :) Paris,le 15 décembre 1848,l'ingénieur géomètre du Domaine privé,Beauchet"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532860886"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53223800f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et administrative de l'Arrondissement d'Abbeville.... / gravé par les F.res Avril...  Lith. Kaeppelin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53223800f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088107z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de la Somme / publiée par Félix Robaut, auteur de carte géog[raphiqu]es estimées... ; litho. de F[éli]x Robaut à Douai ; Ed. Boldoduc lith."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088107z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136057p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des services de la Poste aux lettres du département de la Somme / dressée d'après les indications de Mr Giron inspecteur du dép[artemen]t,par I.J. Morel,commis des Postes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136057p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495587r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves (pl. 20) : Seine-et-Oise,Deux-Sèvres,Somme,Tarn"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495587r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530302304/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Amiens (3e édition) / par Pinsard,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530302304"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098602x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Somme donnant les plans d'Amiens et d'Abbeville, ainsi que la statistique du département / dressée d'après la Carte de l'Etat-Major par E. Desbuissons... ; Gravé par Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098602x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442103c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville et du château de Ham / édité par MM Ch. Gomart ; et Marotte, 1862"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442103c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492473f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville et du Château de Ham (2° Edition)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8492473f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84924721/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la Ville de Roye (Somme) avec ses monuments et ses Fortifications en 1652 / d'après le plan manuscrit de la Bibl. de l'Arsenal N° 438 H. Publié en 1867 par Ch. Gomart avec le concours de la Ville de Roye"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84924721"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8490350g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Roye (Somme) avec ses monuments et ses fortifications de 1652 d'après le plan manuscrit de la Bibl. de l'Arsenal n° 438 H... / par Ch. Gomart,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8490350g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099783d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Département de la Somme donnant les plans d'Amiens et d'Abbeville, dressée d'après la carte de l'État-Major / par E. Desbuissons, Géographe ; Gravé par A. Martin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099783d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099782z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du Département de la Somme donnant les plans d'Amiens et d'Abbeville, dressée d'après la carte de l'État-Major / par E. Desbuissons, Géographe ; Gravé par A. Martin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099782z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108540481/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Saint-Valery-sur-Somme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108540481"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854049g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Abbeville / Dulos sc."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854049g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854047k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Crotoy"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854047k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530986399/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "La Ligne de la Somme pendant la Campagne 1870-1871,par Mr. H. Daussy. Oct. Thorel del"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530986399"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8493092q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Abbeville et de ses établissements militaires"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8493092q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53036697b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'Abbeville. 1 : 5 000 . Projet pour la continuation des Boulevards avec Places et Promenades publiques / présenté au Conseil municipal le 15 Novembre 1875 et le 28 Février 1878 par Bertrand J. -B. -Abbeville ; Lith. C. Paillard, (1878)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53036697b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84930919/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'ensemble de la Ville d'Abbeville avec indication des Travaux projetés par l'Administration municipale,présenté au Conseil dans la séance du 2 Avril 1878"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84930919"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8459266p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte d'Etat-Major au 80.000e grossie 4 fois (devenue ainsi au 20.000e). Supplément du Manuel de topographie pour le brevet / par J. Boulanger..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8459266p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84955173/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville du Crotoy à l'époque de ses fortifications et de son château / dressé par le soussigné Ch. Pinsard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84955173"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84434756/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Amiens avec son système hydraulique / Quignon del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84434756"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443455f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville d'Amiens. Projet de rue diagonale à ouvrir entre la rue des Jacobins et la place St-Denis, destinée à relier le côté gauche de la ville avec la gare centrale des chemins de fer / proposé par Daullé ; et J. Herbault, ,... 15 décembre 1863"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443455f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53006604b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Onival-sur-Mer (Somme) par Eu (La Chaussée). Vue panoramique. Plan général et de lotissement / dressé par le géomètre soussigné... Ault,le 14 Mars 1885"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53006604b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53242848z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de la ville d'Amiens,avec ses faubourgs et sections rurales (Nouvelle édition,1887) / par P. Vienot,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53242848z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53242858c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière de la Somme / par Lailavoix..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53242858c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84451625/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan général du domaine de Saint-Acheul. Dressé sur les indications de Mr Roux [par] Ch. Pinsard. 1889"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84451625"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53245469r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Le Département de la Somme et ses environs,à l'usage des écoles maternelles,des classes enfantines et des écoles primaires (cours élémentaire et cours moyen) / dressé par C. Mille..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53245469r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53245474x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Somme. Cours d'eau,relief du sol / Alph. Camus..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53245474x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53245475c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Somme,arrondissements et cantons / par Alp. Camus"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53245475c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84402567/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan d'Amiens"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84402567"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440255t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Plan d'Amiens]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440255t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53027738q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Péronne et environs"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53027738q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440799q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville d'Amiens,avec ses faubourgs et ses sections rurales / par P. Viénot,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440799q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532099779/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Théâtre des guerres : guerre de 1914-1918. Somme. - Map of the Somme area 1 : 40.000. [Compiled in the Geographical Section General Staff]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532099779"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53209978r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Théâtre des guerres : guerre de 1914-1918. Somme. - Map of the Somme area 1 : 40.000. [Compiled in the Geographical Section General Staff]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53209978r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442411z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Amiens. 1/80.000. Revision de 1890"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442411z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530637698/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte aéronautique. Amiens / Dressé,gravé et publié par le Service géographique de l'armée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530637698"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8445394t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Somme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8445394t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593472k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Carte des opérations militaires en Champagne,sur la Marne et sur la Somme] Positions des alliés aux offensives générales,22 Août,29 Août,6 septembre. Positions de repli de des alliés. Direction d'attaque des corps allemands"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8593472k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067309n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Combles - Cléry] : 22 Juillet 1916 / dressé et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067309n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673353/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Dompierre : 10 Juin 1916 / dressé et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530673353"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067332r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Combles : 6 Août 1916 / dressé et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067332r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673336/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Péronne / Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530673336"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673158/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rectificatif du 19 Août 1916 / S.T.C.A. 7 &amp [Groupe des canevas de tir]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530673158"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067312x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Hem : 20 Juin 1916 / dressé et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067312x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067336j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Péronne : 6 Juillet 1916 / dressé et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067336j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673012/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Maricourt : restitution par la S.T.C.A. 20 des photographies prises jusqu'au 31 Juillet 1916 (12 H[eu]res.) / [Groupe des canevas de tir]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530673012"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067334n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Maricourt : 9 Juillet 1916 / dresse et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067334n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067316q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Rectificatif du 13 Aout 1916 / S.T.C.A. 7 &amp [Groupe des canevas de tir]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067316q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067303z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nord de la Somme : activité de l'artillerie ennemie du 6 au 11 Août 1916 / dressé et restitué par le Groupe des canevas de tir  S.R.A. 20"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067303z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067338f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Maurepas : 20 Juin 1916 / dressé et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067338f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064780d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Renseignements recueillis par l'Aéronautique. Journée du"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064780d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067300m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Combles - Maricourt : 20e C.A. 2e Bureau - Restitution des photographies prises jusqu'au 17 Août 1916 / S.T.C.A. 20  [Groupe des canevas de tir]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067300m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673370/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Combles : 22 Juillet 1916 / dressé et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530673370"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673101/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Curlu : 18 Juin 1916 / dressé et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530673101"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067307r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Cambrai S[ud] O[uest] / levée par les officiers du corps d'etat-major et publiée par le Dépôt de la Guerre...  [Groupe des canevas de tir]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067307r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067314t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Combles - Maricourt : 20e C.A. 2e Bureau - Restitution des photographies prises jusqu'au 16 Août 1916 / S.T.C.A. 20  [Groupe des canevas de tir]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067314t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673086/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Maricourt : 9 Août 1916 / dresse et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530673086"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067302h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nord de la Somme : 10 Aout 1916 : schema des organisations defensives allemandes au nord de la Somme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067302h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067305v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Sud de la Somme : 14 Juillet 1916 / dressé et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067305v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530673069/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Organisations allemandes à la date du 15 Aout 1916 : (d'après un croquis trouvé sur un lieutenant du 127e) / EM - VIe A - 2e B[ure]au  [Groupe des canevas de tir]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530673069"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067304d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nord de la Somme : 15 Août 1916 (edition annulant les précédentes.) / dressé et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067304d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067311g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Maricourt : 20 Juin 1916 / dressé et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067311g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067313c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Maricourt : restitution par la S.T.C.A. 20 des photographies prises jusqu'au 9 Aout 1916 / [Groupe des canevas de tir]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067313c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53067339w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nord de la Somme : 6 Août 1916 (edition annulant les précédentes.) / dressé et restitué par le Groupe des canevas de tir"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53067339w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446142q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de la Somme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446142q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446115t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Somme"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446115t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52520118b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Grandes batailles de la première guerre mondiale entre 1916 et 1918]  01. Bataille de la Somme : 1916"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52520118b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064172m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Grandes batailles de la première guerre mondiale entre 1916 et 1918]  01. Bataille de la Somme : 1916"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064172m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530641715/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Grandes batailles de la première guerre mondiale entre 1916 et 1918]. 08,Offensive britannique finale : août-novembre 1918"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530641715"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53064177v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Grandes batailles de la première guerre mondiale entre 1916 et 1918]. 06,Offensive allemande sur la Somme : Mars 1918"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53064177v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85934782/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte spéciale des régions dévastées. 12 SE,Amiens [Sud-Est] / [Service géographique de l'armée]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b85934782"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593477n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte spéciale des régions dévastées. 12 NE,Amiens [Nord-Est] / [Service géographique de l'armée]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8593477n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8593482z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte spéciale des régions dévastées. 21 NE,Montdidier [Nord-Est] / [Service géographique de l'armée]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8593482z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532098378/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte d'Ercour. Les deux ruées allemandes sur Paris, \"Paris a senti deux fois le souffle de la BETE\". Pélerinage aux champs de bataille.... / G. Lecointe, dessin..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532098378"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458894r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Routes pour automobiles d'Amiens aux principales villes du Nord de la France] Plan d'Amiens"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8458894r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53260343r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan topographique d'Abbeville. Echelle de 1 : 5 000 / Dressé sous l'administration de M. Delique,Maire par la Société des Plans régulateurs de Villes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53260343r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066786s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Environs d'Amiens. Revision 1928-1931"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066786s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121560t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Stadtplan von Amiens"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121560t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531565000/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Saint-Valery-sur-Somme (first edition)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531565000"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53156499c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Saint-Valery-sur-Somme / Sir John Edgell, K.B.E., C.B. hydrographer ; Inter-Service Topographical department"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53156499c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121559f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Stadtplan Amiens"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121559f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b101182607/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Inventaire communal 1988. 80, Somme / Insee (France) ; SSM Agriculture"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b101182607"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

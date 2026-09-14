@@ -1,0 +1,587 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/85-vendee.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Vendée (85)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53060698n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de l'Ile de Noirmoutier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53060698n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53098635h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Corps Royal du Génie. Plan du Port Breton à l'Isle d'Yeu et de ses environs pour servir aux projets de l'exercice 1812. (Le Plan de niveau général a passé à trente mètres au dessus des hautes eaux de malines) Direction de Port-Louis"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53098635h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53203703s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Pilote français. Deuxième partie comprenant, Les côtes occidentales de France depuis la pointe de Penmarc'h jusqu'à l'île d'Yeu : levées en 1819, 1820 1821 et 1822 / par les ingénieurs hydrographes de la Marine, sous les ordres de M. Beautemps-Beaupré,... ; publié par ordre du Roi, sous le ministère de M. le Baron Nyde de Neuville,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53203703s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531028688/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des environs de la Ramée (Vendée) / par A. Rivière"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531028688"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52503797w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des environs de... (Vendée) / par A. Rivière"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b52503797w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530353180/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des environs des Sards (Vendée) / par A. Rivière  Lith. de P. Bineteau"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530353180"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530351526/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des environs d'Olonne (Vendée) / par A. Rivière"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530351526"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10678898k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Départemens français : Loire Inférieure,Vendée,Maine et Loire,d'après Cassini et le dépôt de la Guerre. Bretagne,Poitou,Anjou / Lith[ographie] J. Rigo et c[ompagn]ie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10678898k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532455677/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Benet. - Plan d'ensemble de la partie des marais de Benet sur la Sèvre,attribuée par la cour d'appel de Poitiers à MM. les héritiers de Lusignau. Dressé par M. Espitalié-Lapeyrade,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532455677"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531362689/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France. Carte de l'embouchure de la Gironde et des pertuis Breton, d'Antioche et de Maumusson : Rédigée d'après les Documents les plus récents / Robiquet,... ; Artus Sculpt."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531362689"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84955885/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves (pl. 21) : Tarn-et-Garonne,Var,Vaucluse,Vendée"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84955885"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532237828/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du département de la Vendée / dressée par P. Péquin..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532237828"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8441567c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de La Roche-sur-Yon,Vendée. 1/5 000. (Signé : le 25 mars 1880. E. Giliot.)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8441567c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854113x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Luçon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854113x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108541111/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de Noirmoutier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b108541111"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854112g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port-Joinville"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854112g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854110k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "I. Les Champs. II. L'Époids"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854110k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854115t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "I. Embouchure du Lay. II. Moriq. III. L'Aiguillon-sur-Mer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854115t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854114c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port des Sables d'Olonne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854114c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84406415/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de La Roche-sur-Yon / dressé par l'architecte de la ville soussigné : A. Boudaud"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84406415"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53029376n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière kilomètrique de Bretagne et de Vendée / dressée par Justin Vincent,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53029376n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250738s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et administrative du département de la Vendée / par J. Désiry..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250738s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532507825/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte murale du département de la Vendée / par MM. Chaux  et Labergère..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532507825"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446561f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ile de Noirmoutier,d'après les cartes de l'Etat-Major et du Ministère de l'Intérieur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446561f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531926382/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte structurale d'ensemble du massif primaire de la Vendée / par Gilbert Mathieu"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531926382"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

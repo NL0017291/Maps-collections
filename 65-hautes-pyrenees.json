@@ -1,0 +1,1599 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/65-hautes-pyrenees.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Hautes-Pyrénées (65)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530604174/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Etudes relatives aux eaux de la Neste. Projet général"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530604174"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062065g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des Pyrénées comprenant les deux versants du Massif Central depuis la Navarre jusqu'à la vallée d'Aure / par E. Wallon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062065g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250924b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ville de Lourdes. Plan..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250924b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84422259/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Barèges relatif aux projets d'un monument thermal et d'un hôpital / Lomet,inv. et del."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84422259"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84420350/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bagnères-de-Bigorre et ses environs / par A.-H. Dufour"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84420350"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442034k/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Cauterets,Luz,Barèges et leurs environs / par A.-H. Dufour"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442034k"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035439n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bagnères et ses environs : Souvenirs des Pyrénées : 1re carte / Mr J.F. Samazeuilh  Lith. de Gaulon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035439n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062128j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Bagnères et ses environs : Souvenirs des Pyrénées : 1re carte / Mr J.F. Samazeuilh  Lith. de Gaulon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062128j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530353074/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Village et vallée de Cauterets : Souvenirs des Pyrénées : 2me carte / J.F. Samazeuilh  Lith. de Gaulon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530353074"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035388w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Village et vallée de Cauterets : Souvenirs des Pyrénées : 2me carte / J.F. Samazeuilh  Lith. de Gaulon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035388w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567974d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte itinéraire et topographiques des Hautes-Pyrénées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567974d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53088082n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte itinéraire et topographique des Hautes Pyrénées indiquant les principales curiosités et les établissements thermaux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53088082n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531361214/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Tarbes / lithographie par Abadie"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531361214"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531362454/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville de Tarbes donnant tous les changements jusqu'à ce jour / gravé par F. Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531362454"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531363588/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de la ville de Tarbes donnant tous les changements jusqu'à ce jour / gravé par F. Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531363588"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136343m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Bagnères-de-Bigorre / gravé par F. Delamare"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136343m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136350p/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer partant de Tarbes et devant desservir les vallées de la Baïse ou du Gers : avec indication de la déviation du Grand Central sur Aiguillon par la vallée du Lot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136350p"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53136034h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du chemin de fer partant de Tarbes et devant desservir les vallées du Gers ou de la Baïse : avec indication de la déviation du Grand-Central sur Aiguillon par la vallée du Lot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53136034h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495584h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves (pl. 17) : Bas-Rhin,Hautes-Pyrénées,Haut-Rhin,Pyrénées Orientales"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495584h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8440959w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Bagnères-de-Bigorre / dressé et publié par A. Pambrun,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8440959w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444938z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du pays de Lourdes à l'époque des Apparitions (1858)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444938z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53025293c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées dressée en 1864 / Mr. Garnier, préfet ; Mr. Marx, ingénieur en chef"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53025293c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84919585/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan d'une partie de la Neste et du canal de la Gerle,sur le territoire de Mazères... / par... F. Terrien,(?)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84919585"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567774n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de France. Echelle 1 / 80.000 : n° 240 - Tarbes / France. État-major des armées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567774n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53195337h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique de la région des Hautes Pyrénées comprenant les stations et les sources minérothermales de Bagnères de Bigorre, Cauterets, Barèges, St. Sauveur, Capvern, Gazost, Cadéac, Le Bagnet, Labassère, Germs avec leurs environs : accompagné d'un texte relatif à tout ce qui se rattache à ces contrées / par Ariste Pambrun,... ; gravée et imprimée par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53195337h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567747r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de St-Pé / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567747r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105677469/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de St-Laurent / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b105677469"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567736w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de Castelnau-Rivière-Basse / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567736w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105677397/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de Lannemezan / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b105677397"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567745v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de Rabastens / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567745v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567749n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de Tarbes (Sud) / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567749n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567743z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton d'Ossun / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567743z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105677486/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de Tarbes (Nord) / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b105677486"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567738s/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de Labarthe / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567738s"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567735f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de Castelnau-Magnoac / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567735f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567742h/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de Maubourguet / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567742h"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567744d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de Pouyastruc / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567744d"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567737b/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de Galan / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567737b"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105677501/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton de Tournay / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b105677501"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567731n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière et hydrographique des Hautes-Pyrénées. Echelle 1 / 50 000 : Canton d'Aucun / Muller"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567731n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10585014f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de France de l'État-major. Échelle 1 / 80.000 / France. État-major des armées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10585014f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011352f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Eaux-Chaudes - Eaux-Bonnes - Cauterets / dressé par A. Vuillemin,... ; gravé et imprimé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011352f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84396549/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Bagnères-de-Bigorre"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84396549"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011353w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "St. Sauveur - Barèges - Bagnères de Bigorre / dressé par A. Vuillemin,... ; gravé et imprimé par Erhard"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b55011353w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567828r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la France. Echelle 1 / 100.000 e. : XII.36 - Tarbes / France. Ministère de l'intérieur"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567828r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567797t/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la France. Echelle 1 / 50.000 e. : n° 240 - Tarbes Sud-Est / France. État-major des armées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567797t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105677931/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la France. Echelle 1 / 50.000 e. : n° 240 - Tarbes Nord-Ouest / France. État-major des armées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b105677931"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567795x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la France. Echelle 1 / 50.000 e. : n° 240 - Tarbes Sud-Ouest / France. État-major des armées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567795x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10567794g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la France. Echelle 1 / 50.000 e. : n° 240 - Tarbes Nord-Est / France. État-major des armées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10567794g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8444231n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau plan de Tarbes,revu et corrigé"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8444231n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53030128x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte vicinale et administrative du département des Hautes-Pyrénées / dressée par le Service vicinal"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53030128x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84459477/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Association pour l'aménagement des montagnes. Territoire n°1. Département des Hautes-Pyrénées. Arrondissement de Bagnères. Commune d'Aragnouet. Propriété indivise des communes de Guchan de Bazus-Aure"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84459477"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10580347f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte topographique de l'État-major. Échelle 1 / 80 000 : N° 240 - Tarbes / France. État-major des armées"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10580347f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84459492/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Htes Pyrénées. Arrondissement de Bagnères. Commune de Vignec"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84459492"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53198390w/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Massif de Gavarnie et du Mont-Perdu,levé,dressé et / dessiné par F.Schrader,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53198390w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530648495/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Massif de Gavarnie et du Mont Perdu,levé / dressé et dessiné par F. Schrader..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530648495"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446478c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte à grande échelle (au 10.000me) de la région du Mont Olivet,du Bédat,du Tucou et du vallon de Salut / par Louis Rouch"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446478c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446477z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte à grande échelle... de la région du Montolivet,du Bédat,du Tucou et du vallon de Salut / par Louis Rouch"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8446477z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53057813z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan \"de Lourdes\". 300 m / E. Fonné"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53057813z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53121251q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Massif de Gavarnie et du Mont Perdu (Deuxième édition) / levé,dressé et dessiné par F. Schrader..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53121251q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066671r/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Massif de Gavarnie et du Mont Perdu,levé (2e éd.) / dressé et dessiné par F. Schrader..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066671r"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530651168/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Cauterets. Hautes-Pyrénées. Vallées de Lutour, de Yérét, de Gaube, du Marcadau et du Camp basque. Observations trigonométriques, opérations topographiques et photographiques, toponymie / par Alphonse Meillon ; avec la collaboration de Maurice Heïd ; Calculs, restitution et dessin par E. de Larminat ; Courbes bathymétriques des lacs par L. Gaurier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530651168"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066923q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Toulouse à Bayonne. Gare de Tarbes. Etat actuel. Plan d'ensemble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066923q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530669245/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Toulouse à Bayonne. Gare de Tarbes. Extension des installations G[rande] V[itesse] - P[etite] V [itesse]. Etats superposés. Plan d'ensemble"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530669245"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532607277/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département des Hautes-Pyrénées. Ville de Gavarnie,... 1 : 2.000. Plan topographique... / dessiné par l'Union Aérotopographique..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532607277"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532627842/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Lourdes. Plan graphique tiré d'un plan photographique redressé,exécuté / par l'Union Aérophotographique..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532627842"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53263014v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan graphique expédié de la ville de Lannemezan,tiré d'un plan photographique redressé. Exécuté par l'Union Aérotopographique... Echelle approximative"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53263014v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b532629517/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Luz-Saint-Sauveur / dressé... par l'Union Aérotopographique..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b532629517"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53195508g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Cauterets, Hautes-Pyrénées. Vallées de Lutour, de Yéret, de Caube, du Mareadau et du Camp Basque. Observations trigenométriques, opérations topographiques et photographiques, toponymie (1re Edition (3e tirage)) / par Alphonse Meillon, avec la collaboration de Maurice Heid ; Calcul, restitution et dessin par E. de Larminat. Courbes bathymétriques des lacs ; par L. Gaurier"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53195508g"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/NL0017291/Maps-collections/refs/heads/main/collections/11-aude.json",
+  "type": "Collection",
+  "label": {
+    "fr": [
+      "Cartes et plans par département : Aude (11)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84416543/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Carcassonne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84416543"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8442466x/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte de la Robine et du canal de Ste Lucie entre Narbonne et le port de La Nouvelle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8442466x"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10678278g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Aude : Décrété le 29 janvier 1790 par l'Assemblée Nationale,divisé en 4 arrondissemens et 31 cantons"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10678278g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530352158/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Extrait de la carte du canal de la province du Languedoc, levé aux frais des États en 1774 ; Extrait des plans joints au cadastre de la ville de Carcassonne (Aude) en 1729 ; Extrait du plan cadastral de la comm[un]e de Carcassonne dép[artemen]t de l'Aude / Lith. de P. Certain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530352158"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53099889g/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de Narbonne. Echelle de 0,001 pour 1 mètre[1 : 1 000 ] / Le Lieutt d'Artrie. Defermon"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53099889g"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53035192v/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de l'Aude / sous la direction de Mr Jouvin, ingénieur en chef des Ponts et chaussées ; Imp[rime]rie lithograph[iqu]e de P. Certain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53035192v"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530353593/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de l'Aude / sous la direction de Mr Jouvin, ingénieur en chef des Ponts et chaussées ; Imp[rime]rie lithograph[iqu]e de P. Certain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530353593"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84405353/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan du parc de M. de Belvèze près Limoux / dessiné par Castel,,... Obre 1836"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84405353"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530882777/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "[Partie du territoire de Lagrasse, comprise entre le territoire de Montlaur et celui de Ribaute, département de l'Aude, exprimée en 4 plans] / Gayde, Mary et Martin signés ; lith. Certain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530882777"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530878239/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan géométrique et figuratif représentant les lieux du litige entre la Dame Gally V[euv]e Miailhe de Labastide-Esparbaïrenque et divers habitants de la même commune : Joint au rapport du 27 janvier 1844 / Mary, Gayde, Malric signés ; lith. P. Certain"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530878239"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530880242/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Chemin de fer de Narbonne à Perpignan et en Espagne,s'embranchant sur le chemin de Bordeaux à Cette / par C. M. Bachelot"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530880242"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530882703/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte du canal et de la robine de Narbonne depuis le canal royal jusques à la Méditerranée / dressée par ordre des États généraux de la province de Languedoc, sous la direction de Mr. Ducros, ingénieur directeur des Travaux publics de cette province ; gravée par Berthault ; lithographiée par Kaeppelin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530882703"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53062232n/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte routière du département de l'Aude dressée sur la demande du Conseil général / sous la direction de M. Don,avec le concours de M. Desalle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53062232n"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8495573q/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "France nouvelle en 86 départements à l'usage des jeunes élèves : Aube,Aude,Aveyron,Bouches-du-Rhône (pl. 3)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8495573q"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530633365/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan particulier du port maritime de Narbonne comprenant son chenal d'accession et l'avant port construit en mer,destiné à servir de refuge aux navires dans le golfe du Lion,indiquant aussi le tracé du chemin de fer de Narbonne à Gruissan sur la berge du chenal maritime / par A. Thomé de Gamond,,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530633365"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84390636/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "(Environs de Carcassonne)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b84390636"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53239455m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de Narbonne / dressé par Simon Murat"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53239455m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10854139f/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Port de La Nouvelle"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b10854139f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530279409/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Plan de la ville de Carcassonne"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b530279409"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8443081j/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte géologique des environs de Sougraigne. Extrait des minutes de la carte de France.. ."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b8443081j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53250740m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Carte des environs de Bagnoles / dressée par G. de Vaux"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53250740m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53076079c/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Nouveau Plan de Narbonne. dressé par Eugène Carbon,Architecte"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53076079c"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53066925m/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Ligne de Bordeaux à Sète. Narbonne-gare. Croquis d'ensemble. Echelle d'environ 0 m 001 par mètre (1/1000). L'ingénieur principal de l'exploitation adjoint / (Signé :) M. Marty"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53066925m"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266792z/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Aude. Narbonne-Plage. 1 : 2.000. Plan topographique régulier / dressé... par l'Association des Techniciens Géomètres et Topographes"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266792z"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531971415/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Département de l'Aude. Ville de Narbonne. 1 : 5.000. Plan topographique régulier / dressé et dessiné... par le Cabinet Jarre..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b531971415"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53266644d/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Quillan (Aude). 1 : 2.000. Plan topographique régulier / dressé et dessiné en 1947 par l'Association des Techniciens Géomètres et Topographes,..."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "ARK"
+            ]
+          },
+          "value": {
+            "none": [
+              "ark:/12148/btv1b53266644d"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

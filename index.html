@@ -2,172 +2,327 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1"
-  >
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Cartes et plans par département — Mirador</title>
 
   <style>
-    html,
-    body {
+    html, body, #mirador {
       width: 100%;
       height: 100%;
       margin: 0;
-      padding: 0;
-      overflow: hidden;
     }
 
-    #mirador {
-      width: 100%;
-      height: 100vh;
+    body {
+      overflow: hidden;
     }
   </style>
 </head>
 
 <body>
 
-  <div id="mirador"></div>
+<div id="mirador"></div>
 
-  <!--
-    Mirador 3 volontairement épinglé :
-    on évite qu'une future mise à jour majeure modifie le comportement.
-  -->
-  <script src="https://unpkg.com/mirador@^3/dist/mirador.min.js"></script>
+<script src="https://unpkg.com/mirador@3/dist/mirador.min.js"></script>
 
-  <script>
-    // ==========================================
-    // RESSOURCES IIIF
-    // ==========================================
+<script>
+  /*
+   * ==========================================================
+   * RESSOURCES IIIF
+   * ==========================================================
+   */
 
-    const COLLECTION_RACINE =
-      "https://raw.githubusercontent.com/" +
-      "NL0017291/Maps-collections/" +
-      "refs/heads/main/collections/" +
-      "cartes-plans-par-departement.json";
+  const RACINE =
+    "https://raw.githubusercontent.com/" +
+    "NL0017291/Maps-collections/" +
+    "refs/heads/main/collections/" +
+    "cartes-plans-par-departement.json";
 
-    const COLLECTION_AIN =
-      "https://raw.githubusercontent.com/" +
-      "NL0017291/Maps-collections/" +
-      "refs/heads/main/collections/" +
-      "1-ain.json";
+  const AIN =
+    "https://raw.githubusercontent.com/" +
+    "NL0017291/Maps-collections/" +
+    "refs/heads/main/collections/" +
+    "1-ain.json";
 
-    const MANIFEST_DEPART =
-      "https://gallica.bnf.fr/iiif/" +
-      "ark:/12148/btv1b530607032/" +
-      "manifest.json";
+  const MANIFEST =
+    "https://gallica.bnf.fr/iiif/" +
+    "ark:/12148/btv1b530607032/" +
+    "manifest.json";
 
-    const CANVAS_DEPART =
-      "https://gallica.bnf.fr/iiif/" +
-      "ark:/12148/btv1b530607032/" +
-      "canvas/f1";
+  const CANVAS =
+    "https://gallica.bnf.fr/iiif/" +
+    "ark:/12148/btv1b530607032/" +
+    "canvas/f1";
 
 
-    // ==========================================
-    // MIRADOR
-    // ==========================================
+  /*
+   * ==========================================================
+   * IDENTIFIANTS STABLES
+   * ==========================================================
+   */
 
-    const mirador = Mirador.viewer({
+  const WINDOW_ID = "window-corpus-cartes";
 
-      id: "mirador",
+  const CW_LEFT   = "cw-canvas-left";
+  const CW_BOTTOM = "cw-thumbnails-bottom";
+  const CW_RIGHT  = "cw-collection-right";
 
-      language: "fr",
 
-      // ----------------------------------------
-      // Catalogue disponible dans Mirador
-      // ----------------------------------------
+  /*
+   * ==========================================================
+   * MIRADOR
+   * ==========================================================
+   */
 
-      catalog: [
-        {
-          manifestId: COLLECTION_RACINE
-        },
-        {
-          manifestId: COLLECTION_AIN
-        },
-        {
-          manifestId: MANIFEST_DEPART
-        }
-      ],
+  const viewer = Mirador.viewer({
 
-      // ----------------------------------------
-      // Fenêtre initiale
-      // ----------------------------------------
+    id: "mirador",
 
-      windows: [
-        {
-          manifestId: MANIFEST_DEPART,
+    language: "fr",
 
-          canvasId: CANVAS_DEPART,
+    selectedTheme: "light",
 
-          // Contexte documentaire :
-          // collection générale → Ain
-          collectionPath: [
-            COLLECTION_RACINE,
-            COLLECTION_AIN
-          ],
 
-          collectionManifestId: COLLECTION_AIN,
+    /*
+     * --------------------------------------------------------
+     * CATALOGUE
+     * --------------------------------------------------------
+     */
 
-          // Panneaux
-          sideBarOpen: true,
-          sideBarPanel: "info",
-
-          thumbnailNavigationPosition: "far-bottom",
-
-          // On garde toutes les commandes utiles
-          allowClose: true,
-          allowFullscreen: true,
-          allowMaximize: true,
-          allowTopMenuButton: true,
-          allowWindowSideBar: true
-        }
-      ],
-
-      // ----------------------------------------
-      // Configuration générale
-      // ----------------------------------------
-
-      window: {
-        defaultView: "single",
-
-        sideBarOpen: true,
-        sideBarPanel: "info",
-
-        allowClose: true,
-        allowFullscreen: true,
-        allowMaximize: true,
-        allowTopMenuButton: true,
-        allowWindowSideBar: true
+    catalog: [
+      {
+        manifestId: MANIFEST
       },
-
-      workspace: {
-        type: "mosaic",
-        allowNewWindows: true,
-        showZoomControls: false
-      },
-
-      workspaceControlPanel: {
-        enabled: true
-      },
-
-      thumbnailNavigation: {
-        defaultPosition: "off",
-        displaySettings: true,
-        height: 130,
-        width: 100
-      },
-
-      osdConfig: {
-        preserveViewport: true,
-        preserveImageSizeOnResize: true,
-        showNavigationControl: false
+      {
+        manifestId: RACINE
       }
+    ],
 
-    });
 
-  </script>
+    /*
+     * --------------------------------------------------------
+     * CONFIGURATION DE LA FENÊTRE
+     * --------------------------------------------------------
+     */
+
+    window: {
+
+      defaultView: "single",
+
+      allowClose: true,
+      allowFullscreen: true,
+      allowMaximize: true,
+      allowTopMenuButton: true,
+      allowWindowSideBar: true,
+
+      sideBarOpen: false,
+
+      panels: {
+        info: true,
+        attribution: true,
+        canvas: true,
+        annotations: true,
+        search: true,
+        layers: true
+      }
+    },
+
+
+    /*
+     * --------------------------------------------------------
+     * FENÊTRE INITIALE
+     * --------------------------------------------------------
+     */
+
+    windows: [
+      {
+        id: WINDOW_ID,
+
+        manifestId: MANIFEST,
+        canvasId: CANVAS,
+
+        collectionIndex: 0,
+
+        /*
+         * Contexte IIIF :
+         *
+         * Collection racine
+         *       ↓
+         * Ain
+         *       ↓
+         * Manifest affiché
+         */
+
+        collectionManifestId: AIN,
+
+        collectionPath: [
+          RACINE,
+          AIN
+        ],
+
+        /*
+         * Zone des panneaux ouverte
+         */
+
+        companionAreaOpen: true,
+
+        companionWindowIds: [
+          CW_LEFT,
+          CW_BOTTOM,
+          CW_RIGHT
+        ],
+
+        /*
+         * Miniatures en bas
+         */
+
+        thumbnailNavigationId: CW_BOTTOM,
+        thumbnailNavigationPosition: "far-bottom",
+
+        /*
+         * Vue
+         */
+
+        view: "single"
+      }
+    ],
+
+
+    /*
+     * --------------------------------------------------------
+     * COMPANION WINDOWS
+     *
+     * Cette partie reproduit directement la structure
+     * observée dans l'export Mirador BnF.
+     * --------------------------------------------------------
+     */
+
+    companionWindows: {
+
+      /*
+       * Panneau de gauche
+       */
+
+      [CW_LEFT]: {
+
+        id: CW_LEFT,
+
+        content: "canvas",
+
+        position: "left",
+
+        default: true,
+
+        windowId: WINDOW_ID
+      },
+
+
+      /*
+       * Navigation des pages en bas
+       */
+
+      [CW_BOTTOM]: {
+
+        id: CW_BOTTOM,
+
+        content: "thumbnailNavigation",
+
+        position: "far-bottom",
+
+        default: true,
+
+        windowId: WINDOW_ID
+      },
+
+
+      /*
+       * IMPORTANT :
+       * navigation dans les collections à droite
+       */
+
+      [CW_RIGHT]: {
+
+        id: CW_RIGHT,
+
+        content: "collection",
+
+        position: "right",
+
+        windowId: WINDOW_ID,
+
+        collectionPath: [
+          RACINE
+        ],
+
+        multipart: false
+      }
+    },
+
+
+    /*
+     * --------------------------------------------------------
+     * MINIATURES
+     * --------------------------------------------------------
+     */
+
+    thumbnailNavigation: {
+
+      defaultPosition: "off",
+
+      displaySettings: true,
+
+      height: 130,
+
+      width: 100
+    },
+
+
+    /*
+     * --------------------------------------------------------
+     * ESPACE DE TRAVAIL
+     * --------------------------------------------------------
+     */
+
+    workspace: {
+
+      type: "mosaic",
+
+      allowNewWindows: true,
+
+      draggingEnabled: true,
+
+      showZoomControls: false
+    },
+
+
+    workspaceControlPanel: {
+
+      enabled: true
+    },
+
+
+    /*
+     * --------------------------------------------------------
+     * OPEN SEADRAGON
+     * --------------------------------------------------------
+     */
+
+    osdConfig: {
+
+      alwaysBlend: false,
+
+      blendTime: 0.1,
+
+      preserveImageSizeOnResize: true,
+
+      preserveViewport: true,
+
+      showNavigationControl: false
+    }
+
+  });
+
+</script>
 
 </body>
 </html>

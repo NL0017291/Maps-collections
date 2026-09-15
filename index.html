@@ -321,7 +321,29 @@
     }
 
   });
+<script>
+  // V3 — ouvrir automatiquement l'index des collections à droite
 
+  const store = viewer.store;
+  const actions = viewer.actions;
+
+  console.log("Actions Mirador disponibles :", Object.keys(actions));
+
+  // On attend que Mirador ait créé sa fenêtre.
+  setTimeout(() => {
+
+    const state = store.getState();
+
+    console.log("État Mirador :", state);
+    console.log(
+      "Actions companion disponibles :",
+      Object.keys(actions).filter(
+        name => name.toLowerCase().includes("companion")
+      )
+    );
+
+  }, 1500);
+</script>
 </script>
 
 </body>

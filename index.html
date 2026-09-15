@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="fr">
-
 <head>
   <meta charset="utf-8">
 
@@ -13,44 +12,35 @@
 
   <style>
     html,
-    body,
-    #mirador {
+    body {
       width: 100%;
       height: 100%;
       margin: 0;
       padding: 0;
-    }
-
-    body {
       overflow: hidden;
     }
 
     #mirador {
+      width: 100%;
       height: 100vh;
     }
   </style>
 </head>
 
-
 <body>
 
   <div id="mirador"></div>
 
-
   <!--
-    Mirador 3.
-    On reste volontairement sur la branche 3.
+    Mirador 3 volontairement épinglé :
+    on évite qu'une future mise à jour majeure modifie le comportement.
   -->
-  <script
-    src="https://unpkg.com/mirador@^3/dist/mirador.min.js">
-  </script>
-
+  <script src="https://unpkg.com/mirador@^3/dist/mirador.min.js"></script>
 
   <script>
-
-    // ========================================================
+    // ==========================================
     // RESSOURCES IIIF
-    // ========================================================
+    // ==========================================
 
     const COLLECTION_RACINE =
       "https://raw.githubusercontent.com/" +
@@ -58,19 +48,16 @@
       "refs/heads/main/collections/" +
       "cartes-plans-par-departement.json";
 
-
     const COLLECTION_AIN =
       "https://raw.githubusercontent.com/" +
       "NL0017291/Maps-collections/" +
       "refs/heads/main/collections/" +
       "1-ain.json";
 
-
     const MANIFEST_DEPART =
       "https://gallica.bnf.fr/iiif/" +
       "ark:/12148/btv1b530607032/" +
       "manifest.json";
-
 
     const CANVAS_DEPART =
       "https://gallica.bnf.fr/iiif/" +
@@ -78,297 +65,109 @@
       "canvas/f1";
 
 
-    // ========================================================
-    // IDENTIFIANT DE LA FENÊTRE
-    // ========================================================
+    // ==========================================
+    // MIRADOR
+    // ==========================================
 
-    const WINDOW_ID = "carte-depart";
-
-
-    // ========================================================
-    // CRÉATION DE MIRADOR
-    // ========================================================
-
-    const viewer = Mirador.viewer({
+    const mirador = Mirador.viewer({
 
       id: "mirador",
 
       language: "fr",
 
-      selectedTheme: "light",
-
-
-      // ------------------------------------------------------
-      // CATALOGUE
-      // ------------------------------------------------------
+      // ----------------------------------------
+      // Catalogue disponible dans Mirador
+      // ----------------------------------------
 
       catalog: [
-
         {
           manifestId: COLLECTION_RACINE
         },
-
+        {
+          manifestId: COLLECTION_AIN
+        },
         {
           manifestId: MANIFEST_DEPART
         }
-
       ],
 
-
-      // ------------------------------------------------------
-      // FENÊTRE DE DÉPART
-      // ------------------------------------------------------
+      // ----------------------------------------
+      // Fenêtre initiale
+      // ----------------------------------------
 
       windows: [
-
         {
-
-          id: WINDOW_ID,
-
           manifestId: MANIFEST_DEPART,
 
           canvasId: CANVAS_DEPART,
 
-
-          /*
-           * La carte appartient à :
-           *
-           * Cartes et plans par département
-           *              ↓
-           *             Ain
-           */
-
-          collectionManifestId: COLLECTION_AIN,
-
+          // Contexte documentaire :
+          // collection générale → Ain
           collectionPath: [
             COLLECTION_RACINE,
             COLLECTION_AIN
           ],
 
+          collectionManifestId: COLLECTION_AIN,
 
-          /*
-           * Informations à gauche
-           */
-
+          // Panneaux
           sideBarOpen: true,
-
           sideBarPanel: "info",
-
-
-          /*
-           * Vue de la carte
-           */
-
-          view: "single",
 
           thumbnailNavigationPosition: "far-bottom",
 
-
+          // On garde toutes les commandes utiles
           allowClose: true,
-
           allowFullscreen: true,
-
           allowMaximize: true,
-
           allowTopMenuButton: true,
-
           allowWindowSideBar: true
-
         }
-
       ],
 
-
-      // ------------------------------------------------------
-      // CONFIGURATION DES FENÊTRES
-      // ------------------------------------------------------
+      // ----------------------------------------
+      // Configuration générale
+      // ----------------------------------------
 
       window: {
-
         defaultView: "single",
 
         sideBarOpen: true,
-
         sideBarPanel: "info",
 
         allowClose: true,
-
         allowFullscreen: true,
-
         allowMaximize: true,
-
         allowTopMenuButton: true,
-
         allowWindowSideBar: true
-
       },
-
-
-      // ------------------------------------------------------
-      // ESPACE DE TRAVAIL
-      // ------------------------------------------------------
 
       workspace: {
-
         type: "mosaic",
-
         allowNewWindows: true,
-
         showZoomControls: false
-
       },
-
 
       workspaceControlPanel: {
-
         enabled: true
-
       },
-
-
-      // ------------------------------------------------------
-      // MINIATURES
-      // ------------------------------------------------------
 
       thumbnailNavigation: {
-
         defaultPosition: "off",
-
         displaySettings: true,
-
         height: 130,
-
         width: 100
-
       },
 
-
-      // ------------------------------------------------------
-      // OPEN SEADRAGON
-      // ------------------------------------------------------
-
       osdConfig: {
-
         preserveViewport: true,
-
         preserveImageSizeOnResize: true,
-
         showNavigationControl: false
-
       }
 
     });
-
-
-
-    // ========================================================
-    // OUVERTURE AUTOMATIQUE DE L'INDEX DES COLLECTIONS
-    // ========================================================
-    //
-    // Objectif :
-    //
-    // reproduire automatiquement :
-    //
-    // INDEX
-    //   ↓
-    // Cartes et plans par département
-    //   ↓
-    // panneau COLLECTION à droite
-    //
-    // IMPORTANT :
-    //
-    // Le panneau droit est ouvert sur COLLECTION_RACINE.
-    //
-    // La carte affichée reste, elle, dans la collection AIN.
-    //
-    // ========================================================
-
-
-    let panneauCollectionOuvert = false;
-
-
-    const unsubscribe = viewer.store.subscribe(function () {
-
-
-      // Ne rien refaire si le panneau a déjà été créé.
-
-      if (panneauCollectionOuvert) {
-        return;
-      }
-
-
-      const state = viewer.store.getState();
-
-
-      // ------------------------------------------------------
-      // 1. Attendre que la fenêtre Mirador existe
-      // ------------------------------------------------------
-
-      if (
-        !state.windows ||
-        !state.windows[WINDOW_ID]
-      ) {
-        return;
-      }
-
-
-      // ------------------------------------------------------
-      // 2. Attendre que la collection racine soit chargée
-      // ------------------------------------------------------
-
-      if (
-        !state.manifests ||
-        !state.manifests[COLLECTION_RACINE]
-      ) {
-        return;
-      }
-
-
-      // ------------------------------------------------------
-      // 3. Verrouiller avant l'action
-      // ------------------------------------------------------
-
-      panneauCollectionOuvert = true;
-
-
-      // ------------------------------------------------------
-      // 4. Ajouter le panneau COLLECTION à droite
-      // ------------------------------------------------------
-
-      const action =
-        viewer.actions.addCompanionWindow(
-
-          WINDOW_ID,
-
-          {
-
-            content: "collection",
-
-            position: "right",
-
-            collectionPath: [
-              COLLECTION_RACINE
-            ]
-
-          }
-
-        );
-
-
-      viewer.store.dispatch(action);
-
-
-      // ------------------------------------------------------
-      // 5. Plus besoin de surveiller le store
-      // ------------------------------------------------------
-
-      unsubscribe();
-
-    });
-
 
   </script>
 
 </body>
-
 </html>

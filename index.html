@@ -1,350 +1,374 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  >
 
   <title>Cartes et plans par département — Mirador</title>
 
   <style>
-    html, body, #mirador {
+    html,
+    body,
+    #mirador {
       width: 100%;
       height: 100%;
       margin: 0;
+      padding: 0;
     }
 
     body {
       overflow: hidden;
     }
+
+    #mirador {
+      height: 100vh;
+    }
   </style>
 </head>
 
+
 <body>
 
-<div id="mirador"></div>
-
-<script src="https://unpkg.com/mirador@3/dist/mirador.min.js"></script>
-
-<script>
-  /*
-   * ==========================================================
-   * RESSOURCES IIIF
-   * ==========================================================
-   */
-
-  const RACINE =
-    "https://raw.githubusercontent.com/" +
-    "NL0017291/Maps-collections/" +
-    "refs/heads/main/collections/" +
-    "cartes-plans-par-departement.json";
-
-  const AIN =
-    "https://raw.githubusercontent.com/" +
-    "NL0017291/Maps-collections/" +
-    "refs/heads/main/collections/" +
-    "1-ain.json";
-
-  const MANIFEST =
-    "https://gallica.bnf.fr/iiif/" +
-    "ark:/12148/btv1b530607032/" +
-    "manifest.json";
-
-  const CANVAS =
-    "https://gallica.bnf.fr/iiif/" +
-    "ark:/12148/btv1b530607032/" +
-    "canvas/f1";
+  <div id="mirador"></div>
 
 
-  /*
-   * ==========================================================
-   * IDENTIFIANTS STABLES
-   * ==========================================================
-   */
-
-  const WINDOW_ID = "window-corpus-cartes";
-
-  const CW_LEFT   = "cw-canvas-left";
-  const CW_BOTTOM = "cw-thumbnails-bottom";
-  const CW_RIGHT  = "cw-collection-right";
+  <!--
+    Mirador 3.
+    On reste volontairement sur la branche 3.
+  -->
+  <script
+    src="https://unpkg.com/mirador@^3/dist/mirador.min.js">
+  </script>
 
 
-  /*
-   * ==========================================================
-   * MIRADOR
-   * ==========================================================
-   */
+  <script>
 
-  const viewer = Mirador.viewer({
+    // ========================================================
+    // RESSOURCES IIIF
+    // ========================================================
 
-    id: "mirador",
-
-    language: "fr",
-
-    selectedTheme: "light",
+    const COLLECTION_RACINE =
+      "https://raw.githubusercontent.com/" +
+      "NL0017291/Maps-collections/" +
+      "refs/heads/main/collections/" +
+      "cartes-plans-par-departement.json";
 
 
-    /*
-     * --------------------------------------------------------
-     * CATALOGUE
-     * --------------------------------------------------------
-     */
-
-    catalog: [
-      {
-        manifestId: MANIFEST
-      },
-      {
-        manifestId: RACINE
-      }
-    ],
+    const COLLECTION_AIN =
+      "https://raw.githubusercontent.com/" +
+      "NL0017291/Maps-collections/" +
+      "refs/heads/main/collections/" +
+      "1-ain.json";
 
 
-    /*
-     * --------------------------------------------------------
-     * CONFIGURATION DE LA FENÊTRE
-     * --------------------------------------------------------
-     */
-
-    window: {
-
-      defaultView: "single",
-
-      allowClose: true,
-      allowFullscreen: true,
-      allowMaximize: true,
-      allowTopMenuButton: true,
-      allowWindowSideBar: true,
-
-      sideBarOpen: false,
-
-      panels: {
-        info: true,
-        attribution: true,
-        canvas: true,
-        annotations: true,
-        search: true,
-        layers: true
-      }
-    },
+    const MANIFEST_DEPART =
+      "https://gallica.bnf.fr/iiif/" +
+      "ark:/12148/btv1b530607032/" +
+      "manifest.json";
 
 
-    /*
-     * --------------------------------------------------------
-     * FENÊTRE INITIALE
-     * --------------------------------------------------------
-     */
-
-    windows: [
-      {
-        id: WINDOW_ID,
-
-        manifestId: MANIFEST,
-        canvasId: CANVAS,
-
-        collectionIndex: 0,
-
-        /*
-         * Contexte IIIF :
-         *
-         * Collection racine
-         *       ↓
-         * Ain
-         *       ↓
-         * Manifest affiché
-         */
-
-        collectionManifestId: AIN,
-
-        collectionPath: [
-          RACINE,
-          AIN
-        ],
-
-        /*
-         * Zone des panneaux ouverte
-         */
-
-        companionAreaOpen: true,
-
-        companionWindowIds: [
-          CW_LEFT,
-          CW_BOTTOM,
-          CW_RIGHT
-        ],
-
-        /*
-         * Miniatures en bas
-         */
-
-        thumbnailNavigationId: CW_BOTTOM,
-        thumbnailNavigationPosition: "far-bottom",
-
-        /*
-         * Vue
-         */
-
-        view: "single"
-      }
-    ],
+    const CANVAS_DEPART =
+      "https://gallica.bnf.fr/iiif/" +
+      "ark:/12148/btv1b530607032/" +
+      "canvas/f1";
 
 
-    /*
-     * --------------------------------------------------------
-     * COMPANION WINDOWS
-     *
-     * Cette partie reproduit directement la structure
-     * observée dans l'export Mirador BnF.
-     * --------------------------------------------------------
-     */
+    // ========================================================
+    // IDENTIFIANT DE LA FENÊTRE
+    // ========================================================
 
-    companionWindows: {
+    const WINDOW_ID = "carte-depart";
 
-      /*
-       * Panneau de gauche
-       */
 
-      [CW_LEFT]: {
+    // ========================================================
+    // CRÉATION DE MIRADOR
+    // ========================================================
 
-        id: CW_LEFT,
+    const viewer = Mirador.viewer({
 
-        content: "canvas",
+      id: "mirador",
 
-        position: "left",
+      language: "fr",
 
-        default: true,
+      selectedTheme: "light",
 
-        windowId: WINDOW_ID
+
+      // ------------------------------------------------------
+      // CATALOGUE
+      // ------------------------------------------------------
+
+      catalog: [
+
+        {
+          manifestId: COLLECTION_RACINE
+        },
+
+        {
+          manifestId: MANIFEST_DEPART
+        }
+
+      ],
+
+
+      // ------------------------------------------------------
+      // FENÊTRE DE DÉPART
+      // ------------------------------------------------------
+
+      windows: [
+
+        {
+
+          id: WINDOW_ID,
+
+          manifestId: MANIFEST_DEPART,
+
+          canvasId: CANVAS_DEPART,
+
+
+          /*
+           * La carte appartient à :
+           *
+           * Cartes et plans par département
+           *              ↓
+           *             Ain
+           */
+
+          collectionManifestId: COLLECTION_AIN,
+
+          collectionPath: [
+            COLLECTION_RACINE,
+            COLLECTION_AIN
+          ],
+
+
+          /*
+           * Informations à gauche
+           */
+
+          sideBarOpen: true,
+
+          sideBarPanel: "info",
+
+
+          /*
+           * Vue de la carte
+           */
+
+          view: "single",
+
+          thumbnailNavigationPosition: "far-bottom",
+
+
+          allowClose: true,
+
+          allowFullscreen: true,
+
+          allowMaximize: true,
+
+          allowTopMenuButton: true,
+
+          allowWindowSideBar: true
+
+        }
+
+      ],
+
+
+      // ------------------------------------------------------
+      // CONFIGURATION DES FENÊTRES
+      // ------------------------------------------------------
+
+      window: {
+
+        defaultView: "single",
+
+        sideBarOpen: true,
+
+        sideBarPanel: "info",
+
+        allowClose: true,
+
+        allowFullscreen: true,
+
+        allowMaximize: true,
+
+        allowTopMenuButton: true,
+
+        allowWindowSideBar: true
+
       },
 
 
-      /*
-       * Navigation des pages en bas
-       */
+      // ------------------------------------------------------
+      // ESPACE DE TRAVAIL
+      // ------------------------------------------------------
 
-      [CW_BOTTOM]: {
+      workspace: {
 
-        id: CW_BOTTOM,
+        type: "mosaic",
 
-        content: "thumbnailNavigation",
+        allowNewWindows: true,
 
-        position: "far-bottom",
+        showZoomControls: false
 
-        default: true,
-
-        windowId: WINDOW_ID
       },
 
 
-      /*
-       * IMPORTANT :
-       * navigation dans les collections à droite
-       */
+      workspaceControlPanel: {
 
-      [CW_RIGHT]: {
+        enabled: true
 
-        id: CW_RIGHT,
+      },
 
-        content: "collection",
 
-        position: "right",
+      // ------------------------------------------------------
+      // MINIATURES
+      // ------------------------------------------------------
 
-        windowId: WINDOW_ID,
+      thumbnailNavigation: {
 
-        collectionPath: [
-          RACINE
-        ],
+        defaultPosition: "off",
 
-        multipart: false
+        displaySettings: true,
+
+        height: 130,
+
+        width: 100
+
+      },
+
+
+      // ------------------------------------------------------
+      // OPEN SEADRAGON
+      // ------------------------------------------------------
+
+      osdConfig: {
+
+        preserveViewport: true,
+
+        preserveImageSizeOnResize: true,
+
+        showNavigationControl: false
+
       }
-    },
+
+    });
 
 
-    /*
-     * --------------------------------------------------------
-     * MINIATURES
-     * --------------------------------------------------------
-     */
 
-    thumbnailNavigation: {
-
-      defaultPosition: "off",
-
-      displaySettings: true,
-
-      height: 130,
-
-      width: 100
-    },
-
-
-    /*
-     * --------------------------------------------------------
-     * ESPACE DE TRAVAIL
-     * --------------------------------------------------------
-     */
-
-    workspace: {
-
-      type: "mosaic",
-
-      allowNewWindows: true,
-
-      draggingEnabled: true,
-
-      showZoomControls: false
-    },
+    // ========================================================
+    // OUVERTURE AUTOMATIQUE DE L'INDEX DES COLLECTIONS
+    // ========================================================
+    //
+    // Objectif :
+    //
+    // reproduire automatiquement :
+    //
+    // INDEX
+    //   ↓
+    // Cartes et plans par département
+    //   ↓
+    // panneau COLLECTION à droite
+    //
+    // IMPORTANT :
+    //
+    // Le panneau droit est ouvert sur COLLECTION_RACINE.
+    //
+    // La carte affichée reste, elle, dans la collection AIN.
+    //
+    // ========================================================
 
 
-    workspaceControlPanel: {
-
-      enabled: true
-    },
+    let panneauCollectionOuvert = false;
 
 
-    /*
-     * --------------------------------------------------------
-     * OPEN SEADRAGON
-     * --------------------------------------------------------
-     */
+    const unsubscribe = viewer.store.subscribe(function () {
 
-    osdConfig: {
 
-      alwaysBlend: false,
+      // Ne rien refaire si le panneau a déjà été créé.
 
-      blendTime: 0.1,
+      if (panneauCollectionOuvert) {
+        return;
+      }
 
-      preserveImageSizeOnResize: true,
 
-      preserveViewport: true,
+      const state = viewer.store.getState();
 
-      showNavigationControl: false
-    }
 
-  });
-<script>
-  // V3 — ouvrir automatiquement l'index des collections à droite
+      // ------------------------------------------------------
+      // 1. Attendre que la fenêtre Mirador existe
+      // ------------------------------------------------------
 
-  const store = viewer.store;
-  const actions = viewer.actions;
+      if (
+        !state.windows ||
+        !state.windows[WINDOW_ID]
+      ) {
+        return;
+      }
 
-  console.log("Actions Mirador disponibles :", Object.keys(actions));
 
-  // On attend que Mirador ait créé sa fenêtre.
-  setTimeout(() => {
+      // ------------------------------------------------------
+      // 2. Attendre que la collection racine soit chargée
+      // ------------------------------------------------------
 
-    const state = store.getState();
+      if (
+        !state.manifests ||
+        !state.manifests[COLLECTION_RACINE]
+      ) {
+        return;
+      }
 
-    console.log("État Mirador :", state);
-    console.log(
-      "Actions companion disponibles :",
-      Object.keys(actions).filter(
-        name => name.toLowerCase().includes("companion")
-      )
-    );
 
-  }, 1500);
-</script>
-</script>
+      // ------------------------------------------------------
+      // 3. Verrouiller avant l'action
+      // ------------------------------------------------------
+
+      panneauCollectionOuvert = true;
+
+
+      // ------------------------------------------------------
+      // 4. Ajouter le panneau COLLECTION à droite
+      // ------------------------------------------------------
+
+      const action =
+        viewer.actions.addCompanionWindow(
+
+          WINDOW_ID,
+
+          {
+
+            content: "collection",
+
+            position: "right",
+
+            collectionPath: [
+              COLLECTION_RACINE
+            ]
+
+          }
+
+        );
+
+
+      viewer.store.dispatch(action);
+
+
+      // ------------------------------------------------------
+      // 5. Plus besoin de surveiller le store
+      // ------------------------------------------------------
+
+      unsubscribe();
+
+    });
+
+
+  </script>
 
 </body>
+
 </html>
